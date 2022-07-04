@@ -1,3 +1,5 @@
+# Singletons in Flutter
+
 Should you use singletons in Dart/Flutter?
 
 While they are "easy" to use, there are some drawbacks and potential pitfalls regarding:
