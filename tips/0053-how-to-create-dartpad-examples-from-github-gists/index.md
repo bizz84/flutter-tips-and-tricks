@@ -44,14 +44,12 @@ https://github.com/dart-lang/dart-pad/wiki/Embedding-Guide
 
 ---
 
-### Also published on codewithandrea.com 👇 
-
-- [How to Create DartPad Examples from GitHub Gists](https://codewithandrea.com/tips/create-dartpad-from-github-gist/)
-
----
-
 For more Flutter tips like this, just follow me: [@biz84](https://twitter.com/biz84)!
 
 Happy coding!
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1533682331386527745) 🙏
+
+### Also published on codewithandrea.com 👇
+
+- [How to Create DartPad Examples from GitHub Gists](https://codewithandrea.com/tips/create-dartpad-from-github-gist/)
