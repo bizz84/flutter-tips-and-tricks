@@ -1,4 +1,4 @@
-# Dartpad Examples Github Gists
+# How to Create DartPad Examples from GitHub Gists
 
 Did you know?
 
@@ -44,9 +44,9 @@ https://github.com/dart-lang/dart-pad/wiki/Embedding-Guide
 
 ---
 
-Now available as a short article on my site. 👇
+### Also published on codewithandrea.com 👇 
 
-https://codewithandrea.com/tips/create-dartpad-from-github-gist/
+- [How to Create DartPad Examples from GitHub Gists](https://codewithandrea.com/tips/create-dartpad-from-github-gist/)
 
 ---
 
