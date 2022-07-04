@@ -96,8 +96,8 @@ Have you decided for or against using singletons in your apps? Let me know in th
 
 ---
 
-As promised, here's the full article. 👇
+### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1539287086729244673) 🙏
 
-Happy coding!
+### Also published on codewithandrea.com 👇
 
 - [Singletons in Flutter: How to Avoid Them and What to do Instead](https://codewithandrea.com/articles/flutter-singletons/)
