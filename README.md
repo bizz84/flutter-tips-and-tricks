@@ -19,6 +19,7 @@ A collection of all the Flutter tips & tricks I share [on Twitter](https://twitt
 | [Riverpod: Async init with Provider Overrides](tips/0056-async-init-provider-overrides/index.md) | [link](https://twitter.com/biz84/status/1537796968503705601) ||
 | [How to run multiple test variants](tips/0055-run-multiple-test-variants/index.md) | [link](https://twitter.com/biz84/status/1537117778817204225) ||
 | [Riverpod tip for less boilerplate (Passing Ref)](tips/0054-riverpod-tip-less-boilerplate/index.md) | [link](https://twitter.com/biz84/status/1534773316145356801) ||
+| [How to Create DartPad Examples from GitHub Gists](tips/0053-how-to-create-dartpad-examples-from-github-gists/index.md) | [link](https://twitter.com/biz84/status/1533682331386527745) | [link](https://codewithandrea.com/tips/create-dartpad-from-github-gist/) |
 | [How to Add a Custom Test Timeout in Flutter](tips/0052-custom-test-timeout/index.md) | [link](https://twitter.com/biz84/status/1528747329804812289) | [link](https://codewithandrea.com/tips/custom-test-timeout-flutter/) |
 
 ## Spread the word!
