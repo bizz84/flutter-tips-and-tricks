@@ -2,10 +2,6 @@
 
 A collection of all the Flutter tips & tricks I share [on Twitter](https://twitter.com/biz84).
 
-<p align="center">
-<a href="https://twitter.com/biz84"><img src=”https://img.shields.io/twitter/follow/biz84?label=Follow&style=social"></a>
-</p>
-
 ![](code-with-andrea-banner.png)
 
 ## Preview
