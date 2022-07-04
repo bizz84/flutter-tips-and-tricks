@@ -1,5 +1,3 @@
-![](code-with-andrea-banner.png)
-
 # Flutter Tips & Tricks
 
 A collection of all the Flutter tips & tricks I share [on Twitter](https://twitter.com/biz84).
@@ -7,6 +5,8 @@ A collection of all the Flutter tips & tricks I share [on Twitter](https://twitt
 <p align="center">
 <a href="https://twitter.com/biz84"><img src=”https://img.shields.io/twitter/follow/biz84?label=Follow&style=social"></a>
 </p>
+
+![](code-with-andrea-banner.png)
 
 ## Preview
 
