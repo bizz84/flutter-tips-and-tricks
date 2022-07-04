@@ -1,5 +1,7 @@
 # Async init with Provider Overrides
 
+- [Source code](main.dart)
+
 How do you create and initialize an object *asynchronously*, but access it *synchronously* in the rest of the app?
 
 If you use Riverpod, this can be accomplished with a provider override as shown here. 👇
