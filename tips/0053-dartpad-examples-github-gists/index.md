@@ -8,6 +8,8 @@ And you can even embed them on your site. 👍
 
 Here's how. 🧵
 
+![](053.1-dartpad-github-gists.png)
+
 ---
 
 First of all, go to [gist.github.com](https://gist.github.com) to create a public gist with your code:
@@ -39,6 +41,12 @@ If you want, you can even embed DartPad inside a web page using an iframe.
 This guide on the DartPad wiki explains how:
 
 https://github.com/dart-lang/dart-pad/wiki/Embedding-Guide
+
+---
+
+Now available as a short article on my site. 👇
+
+https://codewithandrea.com/tips/create-dartpad-from-github-gist/
 
 ---
 
