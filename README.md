@@ -21,6 +21,8 @@ A collection of all the Flutter tips & tricks I share [on Twitter](https://twitt
 
 ## Spread the word!
 
-If the tips on this repo have helped you, make sure you give it a star 🌟. This way others can benefit too and everyone can learn!
+If the tips on this repo have helped you, make sure to give it a star. 🌟
+
+This way others can benefit too and everyone can learn! 👍
 
 ### [LICENSE: MIT](LICENSE.md)
