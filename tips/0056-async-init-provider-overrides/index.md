@@ -64,6 +64,4 @@ For more Flutter tips like this, just follow me: [@biz84](https://twitter.com/bi
 
 Happy coding!
 
----
-
-- [Source code](main.dart)
+### [Source code](main.dart)
