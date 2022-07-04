@@ -12,7 +12,7 @@ Super useful when you have dozens/hundreds of tests and you want to target speci
 
 There are configuration options to tag:
 
-- an entire test suite (with the Tags annotation)
+- an entire test suite (with the `@Tags` annotation)
 - a test group or an individual test (with the tags argument)
 
 More info on the test package documentation: https://pub.dev/packages/test#tagging-tests
