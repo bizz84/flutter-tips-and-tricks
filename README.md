@@ -10,6 +10,8 @@ A collection of all the Flutter tips & tricks I share [on Twitter](https://twitt
 
 ## Full List
 
+> I'm adding new tips regularly (newest at the top 👇). If you have a suggestion, send me a DM [on Twitter](https://twitter.com/biz84)!
+
 | View on GitHub (this repo) | Original Tweet | Link on codewithandrea.com |
 | -------------------------- | -------------- | -------------------------- |
 | [Using test tags in Flutter](tips/0058-using-test-tags/index.md) | [link](https://twitter.com/biz84/status/1543957714254053377) | |
