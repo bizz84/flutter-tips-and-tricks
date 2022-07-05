@@ -10,7 +10,7 @@ A good use case for this is when creating repositories that connect to external 
 
 ---
 
-Once you have an interface (abstract class), you can *implement* it with a concrete implementation.
+Once you have an interface (abstract class), you can **implement** it with a concrete implementation.
 
 You can even create a "fake", which can be very useful in your tests.
 
@@ -18,7 +18,7 @@ You can even create a "fake", which can be very useful in your tests.
 
 ---
 
-During app startup, you can initialize your repository with a *concrete* instance (using a service locator or any other dependency injection system).
+During app startup, you can initialize your repository with a **concrete** instance (using a service locator or any other dependency injection system).
 
 And the rest of your app can just access the repository using the base abstract class.
 
@@ -33,8 +33,10 @@ What are the benefits?
 
 Follow me for more tips like this: [@biz84](https://twitter.com/biz84)
 
+---
+
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1479432874235514881) 🙏
 
 ### Also published on codewithandrea.com 👇
 
-- [Repositories as abstract classes (program to interfaces, not implementations)](https://codewithandrea.com/articles/flutter-repository-pattern/)
+- [Flutter App Architecture: The Repository Pattern](https://codewithandrea.com/articles/flutter-repository-pattern/)

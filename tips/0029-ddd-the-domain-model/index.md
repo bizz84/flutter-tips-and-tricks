@@ -2,7 +2,7 @@
 
 Domain-Driven Design helps us write complex software.
 
-At the heart of it lies the *domain model*, which is a conceptual model that incorporates both behavior and data.
+At the heart of it lies the **domain model**, which is a conceptual model that incorporates both behavior and data.
 
 Sounds complicated?
 
@@ -62,5 +62,7 @@ Did you find this useful or have feedback to share? Let me know in the comments.
 And for more Flutter (and app development) tips, just follow me: [@biz84](https://twitter.com/biz84)
 
 Happy coding!
+
+---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1491381498641063938) 🙏

@@ -1,6 +1,6 @@
 # How to use Robot Testing to write more readable widget tests
 
-Would you like your widget tests to be *readable*?
+Would you like your widget tests to be **readable**?
 
 Just create a Robot class that defines each step as a method.
 
@@ -18,7 +18,7 @@ Then we can define a convenience method that pumps the root widget and sets all 
 
 ---
 
-Then, we can define each testing step as a separate *atomic* method.
+Then, we can define each testing step as a separate **atomic** method.
 
 Inside it, we can use the finder and tester as usual:
 
@@ -26,7 +26,7 @@ Inside it, we can use the finder and tester as usual:
 
 ---
 
-We can also write expectations as methods inside the Robot class:
+We can also write expectations as methods inside the `Robot` class:
 
 ![](020-robot-testing-4.png)
 
@@ -36,17 +36,17 @@ The net result?
 
 We can write widget tests with a human-readable syntax. 🎉
 
-And because each testing step is defined inside the Robot class, autocomplete makes our life easier. 🚀
+And because each testing step is defined inside the `Robot` class, autocomplete makes our life easier. 🚀
 
 ![](020-robot-testing-5.png)
 
 ----
 
-I first discovered this technique in this article by [@jcocaramos](https://twitter.com/jcocaramos) at [@VGVentures](https://twitter.com/VGVentures).
+I first discovered this technique in this article by [@jcocaramos](https://twitter.com/jcocaramos) at [@VGVentures](https://twitter.com/VGVentures):
+
+- [Robot Testing: Code written by engineers and readable by well, everyone](https://verygood.ventures/blog/robot-testing-in-flutter)
 
 And I have added some modifications to make it usable with both widget and integration tests.
-
-https://verygood.ventures/blog/robot-testing-in-flutter
 
 ----
 

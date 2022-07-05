@@ -1,4 +1,4 @@
-# AsyncValueWidget: a reusable Flutter widget to work with AsyncValue (using Riverpod)
+# `AsyncValueWidget`: a reusable Flutter widget to work with `AsyncValue` (using Riverpod)
 
 Compared to the built-in `FutureBuilder` and `StreamBuilder` Flutter widgets, working with `AsyncValue` in Riverpod is a breeze:
 
@@ -46,17 +46,9 @@ And if you're not careful, you may end up with errors like this:
 
 ---
 
-Well, let's get this sorted by creating an AsyncValueSliverWidget:
+Well, let's get this sorted by creating an `AsyncValueSliverWidget`:
 
 ![](016_async_value_sliver_widget.png)
-
----
-
-Wanna use this code in your projects?
-
-Then check out all the extra details from this new article on my site:
-
-https://codewithandrea.com/articles/async-value-widget-riverpod/
 
 ---
 
