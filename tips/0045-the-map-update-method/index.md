@@ -1,4 +1,4 @@
-# The Map.update() method
+# The `Map.update()` method
 
 A common requirement when working with maps is to:
 

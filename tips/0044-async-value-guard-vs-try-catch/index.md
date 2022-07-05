@@ -1,4 +1,4 @@
-# AsyncValue.guard() vs try/catch
+# `AsyncValue.guard()` vs `try`/`catch`
 
 Riverpod tip. 👇
 
