@@ -61,7 +61,7 @@ This means that once we dismiss the modal page, we navigate back to:
 
 Here's a short video showing this behavior:
 
-<!-- TODO: Add Video -->
+![](https://codewithandrea.com/articles/flutter-navigation-gorouter-go-vs-push/images/go-router-go-vs-push.gif)
 
 ---
 
