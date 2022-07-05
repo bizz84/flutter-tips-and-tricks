@@ -1,3 +1,4 @@
+# How to create a Flutter GridView with content-sized items
 
 Have you ever tried to build a GridView with custom items, but you've been unable to size them correctly as the width changes?
 
@@ -5,13 +6,13 @@ In such cases, bottom overflows are very common.
 
 Let's see how to fix this: 🧵
 
-IMAGE Twitter card
+![](019-cover.png)
 
 ---
 
 We could try to implement the desired layout with a GridView, and set the *crossAxisCount*, *mainAxisSpacing*, *crossAxisSpacing*, and *childAspectRatio* as needed:
 
-![](images/019_item_card_grid_view.png)
+![](019_item_card_grid_view.png)
 
 ----
 
@@ -43,22 +44,26 @@ https://pub.dev/packages/flutter_layout_grid
 
 Once installed, we can use it to define *content-sized* items by using *auto*:
 
-![](images/019_item_card_layout_grid.png)
+![](019_item_card_layout_grid.png)
 
 -------
 
 That's it! We now have a *responsive* grid layout with *content-sized* items.
 
-And this only takes a few lines of code thanks to flutter_layout_grid!
+And this only takes a few lines of code thanks to `flutter_layout_grid`!
 
-![](images/019-end.png)
+![](019-end.png)
 
 --------
 
 Want more Flutter tips like this?
 
-Then just follow me: @biz84
+Then just follow me: [@biz84](https://twitter.com/biz84)
 
 I'll share a complete article with more details soon. 👇
 
+### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1463459311208775686) 🙏
 
+### Also published on codewithandrea.com 👇
+
+- [How to create a Flutter GridView with content-sized items](https://codewithandrea.com/articles/flutter-layout-grid-content-sized-items/)

@@ -1,39 +1,12 @@
+# AsyncValueWidget: a reusable Flutter widget to work with AsyncValue (using Riverpod)
 
 Compared to the built-in `FutureBuilder` and `StreamBuilder` Flutter widgets, working with `AsyncValue` in Riverpod is a breeze:
-
-![](images/016_product_screen.png)
 
 All this magic is possible because the `when` method gives us a convenient **pattern matching** API, and we can use it to map our data to the UI. 
 
 But there's more. 🧵
 
-```dart
-// A screen that shows product data for a given product ID
-class ProductScreen extends ConsumerWidget {
-  const ProductScreen({Key? key, required this.productId}) : super(key: key);
-  final String productId;
-
-  @override
-  Widget build(BuildContext context, WidgetRef ref) {
-    // get an async value from a StreamProvider
-    final productAsyncValue = ref.watch(productProvider(productId));
-    // return different "data", "loading", "error" widgets depending on the value
-    return productAsyncValue.when(
-      data: (product) => ProductScreenContents(product: product),
-      loading: () => const Center(child: CircularProgressIndicator()),
-      error: (e, st) => Center(
-        child: Text(
-          e.toString(),
-          style: Theme.of(context)
-              .textTheme
-              .headline6!
-              .copyWith(color: Colors.red),
-        ),
-      ),
-    );
-  }
-}
-```
+![](016_product_screen.png)
 
 ---
 
@@ -43,7 +16,7 @@ But the loading and error UI are often the same.
 
 And it would be quite repetitive to copy-paste them every time you need a new "async" widget.
 
-![](images/016_loading_error_same.png)
+![](016_loading_error_same.png)
 
 ---
 
@@ -51,7 +24,7 @@ A better option is to define an `AsyncValueWidget` that takes care of the **load
 
 This is easy to implement:
 
-![](images/016_async_value_widget.png)
+![](016_async_value_widget.png)
 
 ---
 
@@ -59,7 +32,7 @@ With this in place, we can rewrite our `ProductScreen` like this.
 
 Much cleaner.
 
-![](images/016_ProductScreen_async.png)
+![](016_ProductScreen_async.png)
 
 ---
 
@@ -69,13 +42,13 @@ The `AsyncValueWidget` class works well for regular widgets. But sometimes you h
 
 And if you're not careful, you may end up with errors like this:
 
-![](images/016_sliver_errors.png)
+![](016_sliver_errors.png)
 
 ---
 
 Well, let's get this sorted by creating an AsyncValueSliverWidget:
 
-![](images/016_async_value_sliver_widget.png)
+![](016_async_value_sliver_widget.png)
 
 ---
 
@@ -89,11 +62,13 @@ https://codewithandrea.com/articles/async-value-widget-riverpod/
 
 Did you enjoy this thread?
 
-There's a lot more where this came from: @biz84
+There's a lot more where this came from: [@biz84](https://twitter.com/biz84)
 
 Happy coding!
 
+### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1447949847361998849) 🙏
 
+### Also published on codewithandrea.com 👇
 
-
+- [AsyncValueWidget: a reusable Flutter widget to work with AsyncValue (using Riverpod)](https://codewithandrea.com/articles/async-value-widget-riverpod/)
 
