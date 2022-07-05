@@ -1,4 +1,4 @@
-# AsyncValue vs FutureBuilder & StreamBuilder
+# `AsyncValue` vs `FutureBuilder` & `StreamBuilder`
 
 If you've been using Flutter for some time, you'll know that `FutureBuilder` & `StreamBuilder` help you deal with asynchronous data in your UI.
 
