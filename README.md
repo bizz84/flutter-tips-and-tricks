@@ -14,6 +14,7 @@ A collection of all the Flutter tips & tricks I share [on Twitter](https://twitt
 
 | View on GitHub (this repo)                                                                                                                                      | Original Tweet | Link on codewithandrea.com                                               |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------| -------------- |--------------------------------------------------------------------------|
+| [Flutter Riverpod: How to Register a Listener during App Startup](tips/0059-register-listener-riverpod/index.md)                                                | | |
 | [Using test tags in Flutter](tips/0058-using-test-tags/index.md)                                                                                                | [link](https://twitter.com/biz84/status/1543957714254053377) |                                                                          |
 | [Singletons in Flutter: Drawbacks](tips/0057-singletons-flutter/index.md)                                                                                       | [link](https://twitter.com/biz84/status/1539287086729244673) ||
 | [Riverpod: Async init with Provider Overrides](tips/0056-async-init-provider-overrides/index.md)                                                                | [link](https://twitter.com/biz84/status/1537796968503705601) ||
