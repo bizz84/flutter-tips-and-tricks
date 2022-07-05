@@ -4,7 +4,7 @@ When writing test expectations for functions that throw, we need a bit careful.
 
 If we call the function directly, the test will fail as it won't catch the exception as we expect.
 
-In these cases, we should always pass a closure when calling the "expect" method as shown here. 👇
+In these cases, we should always pass a closure when calling the `expect` method as shown here. 👇
 
 ![](048.1-function-throws.png)
 
@@ -12,7 +12,7 @@ In these cases, we should always pass a closure when calling the "expect" method
 
 Here's a comparison I made to explain why calling the method directly won't work.
 
-These two implementations are equivalent. And they both fail because the function will execute and throw *before* expect() is even called. 👇
+These two implementations are equivalent. And they both fail because the function will execute and throw *before* `expect()` is even called. 👇
 
 ![](048.2-function-throws.png)
 

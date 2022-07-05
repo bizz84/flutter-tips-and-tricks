@@ -1,6 +1,6 @@
 # Using Fake Repositories for Testing
 
-In Dart, we can easily create mocks with packages like mockito or mocktail.
+In Dart, we can easily create mocks with packages like [mockito](https://pub.dev/packages/mockito) or [mocktail](https://pub.dev/packages/mocktail).
 
 But sometimes it's quite handy to create fakes that can be configured in many different ways (and even store some state).
 

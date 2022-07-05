@@ -28,7 +28,7 @@ You now have a runnable DartPad example that you can share by URL. 👇
 
 ---
 
-Note: DartPad now supports some popular packages such as bloc, riverpod, provider, and some Firebase ones too.
+Note: DartPad now supports some popular packages such as **bloc**, **riverpod**, **provider**, and some Firebase ones too.
 
 To find out which ones are supported, click on the small info button in the lower right corner: 👇
 

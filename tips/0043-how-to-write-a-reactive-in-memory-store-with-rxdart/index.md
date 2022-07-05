@@ -2,7 +2,7 @@
 
 Ever needed to create a *reactive* in-memory store for simple values?
 
-To help with that, I created a simple wrapper class around BehaviorSubject (from the RxDart package).
+To help with that, I created a simple wrapper class around `BehaviorSubject` (from the RxDart package).
 
 Here's a (short) thread explaining how to use it. 🧵
 
@@ -26,11 +26,11 @@ And later on, you can swap the "fake" repository for a real one (or even keep bo
 
 This is covered in more detail here:
 
-https://codewithandrea.com/articles/flutter-repository-pattern/
+- [Flutter App Architecture: The Repository Pattern](https://codewithandrea.com/articles/flutter-repository-pattern/)
 
 ---
 
-Aside from BehaviorSubject, the RxDart package has many useful APIs for manipulating and combining streams.
+Aside from `BehaviorSubject`, the RxDart package has many useful APIs for manipulating and combining streams.
 
 You can learn more about it here:
 

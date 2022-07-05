@@ -7,7 +7,7 @@ A common requirement when working with maps is to:
 
 You may be tempted to implement some conditional logic to handle this.
 
-But the update() method offers a simpler way of doing the same thing: 👇
+But the `update()` method offers a simpler way of doing the same thing: 👇
 
 ![](045-map-update.png)
 

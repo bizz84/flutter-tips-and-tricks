@@ -24,7 +24,7 @@ That's because they become implicit dependencies that can't be mocked inside our
 
 ---
 
-Instead, we can pass each dependency *explicitly*.
+Instead, we can pass each dependency **explicitly**.
 
 As a result, we can easily:
 
@@ -36,13 +36,13 @@ As a result, we can easily:
 
 ---
 
-Once more: singletons make our dependencies *implicit*.
+Once more: singletons make our dependencies **implicit**.
 
 They are easy to spot if our classes are small.
 
 But much harder to find on large classes.
 
-Instead, when we make dependencies *explicit* by declaring them as properties, they are always easy to find.
+Instead, when we make dependencies **explicit** by declaring them as properties, they are always easy to find.
 
 ![](057.4-implicit-dependencies.png)
 
@@ -52,7 +52,7 @@ In some cases, object initialization can take a long time and should be deferred
 
 This can be hard to do correctly if you roll out your own singletons.
 
-Packages such as get_it make the task easier by allowing you to create a *lazy* singleton.
+Packages such as get_it make the task easier by allowing you to create a **lazy** singleton.
 
 ![](057.5-lazy-init.png)
 

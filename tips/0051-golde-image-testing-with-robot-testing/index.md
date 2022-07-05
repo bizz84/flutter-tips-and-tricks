@@ -24,7 +24,7 @@ It may be a bit too much to fit all this in a thread, so I'll probably write an 
 
 And I'll also cover all the findings in my Flutter course, which already includes many in-depth lessons about automated testing! 👇
 
-https://codewithandrea.com/courses/complete-flutter-bundle/
+- [The Complete Flutter Course Bundle](https://codewithandrea.com/courses/complete-flutter-bundle/)
 
 ---
 

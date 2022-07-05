@@ -12,7 +12,7 @@ Here's a thread with all the details. 🧵
 
 ---
 
-Reader is just a function we can use to read a provider's value, *just once*.
+Reader is just a function we can use to read a provider's value, **just once**.
 
 And once we get the underlying value (a repository in this case), we can call methods on it.
 
@@ -22,17 +22,17 @@ Note: when we want to access a provider inside a widget callback, we do exactly 
 
 ---
 
-An alternative way of doing this is to pass "ref" directly.
+An alternative way of doing this is to pass `ref` directly.
 
-As a result, we have to call "ref.read(provider).someMethod()" inside our class methods.
+As a result, we have to call `ref.read(provider).someMethod()` inside our class methods.
 
-Though if you only ever need to read (and not watch or listen), using Reader makes your intention more explicit.
+Though if you only ever need to read (and not watch or listen), using `Reader` makes your intention more explicit.
 
 ![](054.3-use-reader.png)
 
 ---
 
-But how to you write unit tests for classes using Reader (or Ref)?
+But how to you write unit tests for classes using `Reader` (or `Ref`)?
 
 Glad you asked!
 
