@@ -58,7 +58,7 @@ What I really like about these extensions is that they make writing tests fun! �
 
 The more tests you write, the more green your report will look like. ✅
 
-Of course, code coverage *alone* is not a silver bullet.
+Of course, code coverage **alone** is not a silver bullet.
 
 ---
 
@@ -72,19 +72,15 @@ Combine them for max ROI. 👍
 
 ----
 
-I'll be covering automated testing in great depth in my upcoming Flutter course.
-
-In fact, I'm planning out all the testing content as I write this.
+I have covered automated testing in great depth in my new Flutter course:
 
 ![](042.6-planned-test-content.png)
 
 ---
 
-The course will launch later this month.
+The course is now available here:
 
-If this is of interest, sign up today to get a big-discount when I open the pre-sale:
-
-https://codewithandrea.com/courses/complete-flutter-bundle/
+- [The Complete Flutter Course Bundle](https://codewithandrea.com/courses/complete-flutter-bundle/)
 
 Happy coding!
 

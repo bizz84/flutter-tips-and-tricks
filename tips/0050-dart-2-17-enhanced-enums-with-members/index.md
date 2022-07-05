@@ -13,7 +13,7 @@ See below for another example. 👇
 What else can you do with this?
 
 - Define multiple properties
-- Add named or positional arguments to the constructor (as long as it's a "const" constructor)
+- Add named or positional arguments to the constructor (as long as it's a `const` constructor)
 - Define custom methods and getters
 
 ![](050.2-enums-multiple-members.png)
