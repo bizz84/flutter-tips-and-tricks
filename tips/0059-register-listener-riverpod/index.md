@@ -1,12 +1,12 @@
 # Flutter Riverpod: How to Register a Listener during App Startup
 
-How do you register a listener as soon as the app starts?
+How do you register a listener as soon as your Flutter app starts?
 
 It's tempting to add the listener callback inside the main method directly.
 
 But that's not a good idea.
 
-Let's figure out a more scalable approach using Riverpod, while keeping our app startup logic neat and tidy. 🧵
+Let's figure out a better approach using Riverpod, while keeping our app startup logic neat and tidy. 🧵
 
 ![](059.1-register-listener-intro.png)
 
