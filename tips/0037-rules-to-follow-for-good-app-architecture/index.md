@@ -1,8 +1,10 @@
-https://twitter.com/biz84/status/1503387745275850761
+# Rules to follow for good app architecture
 
 What are some rules to follow for good app architecture in Flutter?
 
 Thread. 🧵
+
+![](037.1-rules-app-architecture.png)
 
 ---
 
@@ -49,7 +51,6 @@ Same as above. When we need to show an alert dialog because something went wrong
 - emit a new error state
 - listen to the state in the widget and use the context to show the alert dialog
 
-
 ---
 
 RULE: Do UI validation in the widgets*
@@ -60,14 +61,14 @@ FormState and TextEditingController depend on the widget lifecycle, so they shou
 
 Keep them in your widgets and offload everything else to the business logic.
 
-
 ---
-
 
 Following these simple rules will force you to structure your code properly and make it much easier to test.
 
 Are there any other rules you would recommend? Comments below.
 
-For more tips like this, follow me: @biz84
+For more tips like this, follow me: [@biz84](https://twitter.com/biz84)
 
 Happy coding!
+
+### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1503387745275850761) 🙏

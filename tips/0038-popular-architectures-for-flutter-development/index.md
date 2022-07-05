@@ -1,10 +1,12 @@
-https://twitter.com/biz84/status/1504137683697905669
+# Popular architectures for Flutter development
 
 What are some popular architectures that are suitable for Flutter App Development (and which one to choose)?
 
 It boils down to what level of complexity you need to handle. 👇
 
 Thread. 🧵
+
+![](038.1-popular-architectures%20.png)
 
 ---
 
@@ -13,6 +15,8 @@ Thread. 🧵
 - Model: directly manages the data, logic, and rules of the application
 - View: UI components (widgets)
 - Controller: Accepts input and converts it to commands for the model or view
+
+![](038.2-mvc.png)
 
 ---
 
@@ -30,8 +34,9 @@ And user inputs always go through the controller.
 - View: UI components (widgets)
 - ViewModel: mediates between the view and the model. 
 
----
+![](038.3-mvvm.png)
 
+---
 
 (2/2) The View and the ViewModel are connected with a data-binding based on the observer pattern.
 
@@ -50,7 +55,6 @@ Some people swear by it and say it's worthwhile for large codebases:
 More info here:
 https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
 
-
 ---
 
 
@@ -62,16 +66,13 @@ It allows us to separate our application into three layers:
 - Business Logic (blocs)
 - Data (Repository & Data Provider)
 
-
 ----
-
 
 (2/2) It is a very opinionated architecture that uses streams to communicate between widgets and blocs (and between blocs themselves).
 
 It's used by many teams and is very well documented - but sometimes criticised for requiring too much boilerplate:
 
 https://bloclibrary.dev/#/architecture
-
 
 ---
 
@@ -88,7 +89,6 @@ https://bloclibrary.dev/#/architecture
 
 https://pub.dev/packages/stacked
 
-
 ---
 
 So, which architecture should you choose?
@@ -96,6 +96,8 @@ So, which architecture should you choose?
 Turns out, this is not as important as defining clear contracts and boundaries in your app.
 
 I really like this quote from the eBay engineering blog: https://tech.ebayinc.com/engineering/ebay-motors-state-management/
+
+![](038.2-contracts-boundaries.png)
 
 ---
 
@@ -105,9 +107,7 @@ And they're certainly better than having no architecture at all.
 
 So pick one and try it out. Maybe your code won't be great on the first try, but that's ok.
 
-
 ---
-
 
 Need more guidance?
 
@@ -115,9 +115,9 @@ Over the last few months, I built a complete eCommerce app applying many techniq
 
 I ended up with a Riverpod-based architecture that uses 4 layers with clear boundaries:
 
+![](038.5-layered-architecture.png)
 
 ----
-
 
 I came away with many valuable insights about how to use DDD, app architecture, state management, testing, and much more in real world apps.
 
@@ -125,4 +125,10 @@ And I'll be sharing them in my upcoming course.
 
 Sign up here to get a big discount when I open the pre-sale:
 
-https://codewithandrea.com/courses/complete-flutter-bundle/
+- [The Complete Flutter Course Bundle](https://codewithandrea.com/courses/complete-flutter-bundle/)
+
+### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1504137683697905669) 🙏
+
+### Also published on codewithandrea.com 👇
+
+- [Popular architectures for Flutter development](https://codewithandrea.com/articles/flutter-app-architecture-riverpod-introduction/)
