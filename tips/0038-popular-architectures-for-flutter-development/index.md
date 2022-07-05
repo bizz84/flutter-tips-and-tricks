@@ -121,14 +121,14 @@ I ended up with a Riverpod-based architecture that uses 4 layers with clear boun
 
 I came away with many valuable insights about how to use DDD, app architecture, state management, testing, and much more in real world apps.
 
-And I'll be sharing them in my upcoming course.
-
-Sign up here to get a big discount when I open the pre-sale:
+And I've shared them all in my new Flutter course:
 
 - [The Complete Flutter Course Bundle](https://codewithandrea.com/courses/complete-flutter-bundle/)
+
+---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1504137683697905669) 🙏
 
 ### Also published on codewithandrea.com 👇
 
-- [Popular architectures for Flutter development](https://codewithandrea.com/articles/flutter-app-architecture-riverpod-introduction/)
+- [Flutter App Architecture with Riverpod: An Introduction](https://codewithandrea.com/articles/flutter-app-architecture-riverpod-introduction/)

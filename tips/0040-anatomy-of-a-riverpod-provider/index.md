@@ -3,11 +3,8 @@
 So, how do you use providers with Riverpod?
 
 - Create the provider, giving it a name, type and body
-
-- Update your widget to extend ConsumerWidget
-
-- Add a WidgetRef to the build method and use it to watch the provider
-
+- Update your widget to extend `ConsumerWidget`
+- Add a `WidgetRef` to the build method and use it to watch the provider
 - Use the value in your widget
 
 More Riverpod tips incoming.👌

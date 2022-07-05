@@ -39,14 +39,14 @@ From the detail page, we can now call `context.go('/modal')` or `context.push('/
 
 This time the result is different:
 
-- If we use "go", we end up with the modal page on top of the *home* page
-- If we use "push", we end up with the modal page on top of the *detail* page
+- If we use "go", we end up with the modal page on top of the **home** page
+- If we use "push", we end up with the modal page on top of the **detail** page
 
 ![](036.5-screens.png)
 
 ---
 
-That's because "go" jumps to the target route (/modal) by *discarding* the previous route (/detail), since /modal is *not* a sub-route of /detail.
+That's because "go" jumps to the target route (/modal) by **discarding** the previous route (/detail), since /modal is *not* a sub-route of /detail.
 
 Meanwhile, "push" always adds the target route on top of the existing one, preserving the navigation stack.
 
@@ -67,7 +67,7 @@ Here's a short video showing this behavior:
 
 The bottom line?
 
-Think of `go` as a way to *jump* to a new route. This will modify the underlying navigation stack if the new route is not a sub-route of the old one.
+Think of `go` as a way to **jump** to a new route. This will modify the underlying navigation stack if the new route is not a sub-route of the old one.
 
 On the other hand, `push` will always push the destination route on top of the existing navigation stack.
 
@@ -86,6 +86,8 @@ If this is of interest, you can sign up today to secure a big discount when the 
 - [The Complete Flutter Course Bundle](https://codewithandrea.com/courses/complete-flutter-bundle/)
 
 Happy coding!
+
+---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1501603042982080520) 🙏
 

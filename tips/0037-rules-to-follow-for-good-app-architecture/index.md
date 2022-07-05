@@ -8,17 +8,17 @@ Thread. 🧵
 
 ---
 
-RULE: Avoid singletons
+### RULE: Avoid singletons
 
 If you want your code to be testable, there are various alternatives to singletons:
 
 - constructor arguments (doesn't scale well with deep widget hierarchies)
-- InheritedWidget or Provider
+- `InheritedWidget` or Provider
 - Service locators (e.g. get_it)
 
 ---
 
-RULE: Zero (or very little) business logic in the widgets.
+### RULE: Zero (or very little) business logic in the widgets.
 
 Widgets should be as dumb as possible and only be used to map the state to the UI.
 
@@ -26,7 +26,7 @@ Small exceptions: sometimes I include some simple currency, date, or number form
 
 ---
 
-RULE: No Flutter code (including BuildContext) in the business logic.
+### RULE: No Flutter code (including BuildContext) in the business logic.
 
 Your view models/blocs/controllers are used to update the widget state in response to events.
 
@@ -34,7 +34,7 @@ By ensuring that these classes don't have any UI code in them, they can be easil
 
 ---
 
-RULE: Navigation code belongs to the widgets
+### RULE: Navigation code belongs to the widgets
 
 If you try to put your navigation code in the business logic, you'll have a hard time because you need a BuildContext to do so.
 
@@ -44,7 +44,7 @@ Solution:
 
 ---
 
-RULE: Show dialogs and snackbars in the widgets
+### RULE: Show dialogs and snackbars in the widgets
 
 Same as above. When we need to show an alert dialog because something went wrong, this is what we should do:
 
@@ -53,11 +53,11 @@ Same as above. When we need to show an alert dialog because something went wrong
 
 ---
 
-RULE: Do UI validation in the widgets*
+### RULE: Do UI validation in the widgets*
 
 *This may be a controversial one.
 
-FormState and TextEditingController depend on the widget lifecycle, so they shouldn't go in the view models/blocs etc.
+`FormState` and `TextEditingController` depend on the widget lifecycle, so they shouldn't go in the view models/blocs etc.
 
 Keep them in your widgets and offload everything else to the business logic.
 
@@ -70,5 +70,7 @@ Are there any other rules you would recommend? Comments below.
 For more tips like this, follow me: [@biz84](https://twitter.com/biz84)
 
 Happy coding!
+
+---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1503387745275850761) 🙏

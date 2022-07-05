@@ -1,6 +1,6 @@
-# How to use WidgetsBindingObserver
+# How to use `WidgetsBindingObserver`
 
-WidgetsBindingObserver is very handy for listening to changes to:
+`WidgetsBindingObserver` is very handy for listening to changes to:
 
 - routing events
 - device orientation
@@ -15,8 +15,8 @@ Here's how to use it to hide sensitive info when the app goes to the background.
 
 How to set it up?
 
-- add the WidgetsBindingObserver *mixin* to one of your classes (generally a State subclass)
-- register the observer inside initState (and dispose it when done)
+- add the `WidgetsBindingObserver` **mixin** to one of your classes (generally a `State` subclass)
+- register the observer inside `initState` (and dispose it when done)
 
 ![](034-widgets-binding-observer-setup-2.png)
 
@@ -24,7 +24,7 @@ How to set it up?
 
 Then, just override the methods for the changes you want to keep track of.
 
-In this case, we listen to app lifecycle changes and update a "foreground" flag via setState().
+In this case, we listen to app lifecycle changes and update a "foreground" flag via `setState()`.
 
 ![](034-didChangeAppLifecycleState-3.png)
 
@@ -32,7 +32,7 @@ In this case, we listen to app lifecycle changes and update a "foreground" flag 
 
 One useful application of this is to build a custom widget that hides sensitive user data any time the app is backgrounded.
 
-This can be hooked up to the "builder" argument of MaterialApp.
+This can be hooked up to the `builder` argument of `MaterialApp`.
 
 ![](034-build-method-4.png)
 
@@ -44,7 +44,7 @@ That's it! You can now test this and check the logs when you background & foregr
 
 ---
 
-If you wanna learn more about WidgetsBindingObserver, the official documentation is your best friend:
+If you wanna learn more about `WidgetsBindingObserver`, the official documentation is your best friend:
 
 https://api.flutter.dev/flutter/widgets/WidgetsBindingObserver-class.html
 

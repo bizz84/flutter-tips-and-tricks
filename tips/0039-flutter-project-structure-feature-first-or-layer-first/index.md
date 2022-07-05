@@ -68,9 +68,9 @@ And that makes it hard to clearly identify the various features and structure th
 
 At that stage, you may be tempted to create one folder for each screen of your app.
 
-But that's a mistake, because features are *not* screens.
+But that's a mistake, because features are **not** screens.
 
-Rather, think of features as *functional requirements* that help the user complete a certain task.
+Rather, think of features as **functional requirements** that help the user complete a certain task.
 
 ![](039.6-features-not-screens.png)
 
@@ -119,6 +119,8 @@ And if you want to learn how to build a full-stack eCommerce app following these
 - [The Complete Flutter Course Bundle](https://codewithandrea.com/courses/complete-flutter-bundle/)
 
 Happy coding!
+
+---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1506285698558660609) 🙏
 
