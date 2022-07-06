@@ -1,5 +1,5 @@
 
-## 1. Split View
+## 2. Flutter reusable Split View on mobile, desktop and web
 
 - [Link to Tweet](https://twitter.com/biz84/status/1417510791146770432)
 
@@ -51,7 +51,9 @@ class SplitView extends StatelessWidget {
 }
 ```
 
-## 2. Flutter create --sample
+## 3. Flutter create --sample
+
+https://twitter.com/biz84/status/1433812404463448064
 
 Did you know?
 
@@ -60,7 +62,7 @@ You can use `flutter create --sample` to test many of the widgets in the Flutter
 ![](images/02_local_project_code_sample.png)
 
 
-## 3. Stripe
+## 4. Accept payments with the Stripe SDK
 
 https://twitter.com/biz84/status/1435932664821919751
 
@@ -72,9 +74,9 @@ Support various payment methods including wallets (Apple, Google Pay).
 
 https://pub.dev/packages/flutter_stripe
 
-<!-- video -->
+<!-- TODO: video link -->
 
-## 4. flutter_lints
+## 5. Flutter Lints package
 
 https://twitter.com/biz84/status/1436011664747503616
 
@@ -86,7 +88,7 @@ And with the flutter_lints package, this is easier than ever:
 
 https://pub.dev/packages/flutter_lints
 
-## 5. Performance page DevTools
+## 6. Use the DevTools to identify Jank and Shader compilation issues
 
 https://twitter.com/biz84/status/1436356730380816388
 
@@ -96,7 +98,7 @@ Makes it easier to identify Jank and Shader Compilation issues.
 
 (note: this needs to be run in profile mode on a real device)
 
-## 6. Fix all on save
+## 7. Flutter Fix all command
 
 https://twitter.com/biz84/status/1436734716271644681
 
@@ -110,7 +112,7 @@ Just add "source.fixAll" to "editor.codeActionsOnSave" on your VSCode settings a
 
 <!-- video: 006 -->
 
-## 7. Container border radius
+## 8. How to set the border radius on a Flutter container
 
 https://twitter.com/biz84/status/1437111434656329730
 
@@ -118,9 +120,7 @@ I've been a Flutter dev for 3 years and I still need to Google "Flutter Containe
 
 Let's put it to rest! This is the easiest way to get a rounded rectangle with a given radius:
 
-## 8. Dart Completers (never sent)
-
-## 9. Flutter Simple chat (LayoutBuilder)
+## 9. Chat UI with message bubbles
 
 https://twitter.com/biz84/status/1437409386423521282
 
@@ -193,7 +193,7 @@ TL;DR:
 
 ----
 
-## 10. Message bubbles (updated)
+## 10. Chat UI with message bubbles (revisited)
 
 https://twitter.com/biz84/status/1437692261672919041
 
@@ -244,7 +244,8 @@ Turns out, this is great advice for Flutter app development.
 
 Happy coding!
 
-## 11. Faker
+## 11. How to Generate Fake data with the Faker package
+
 https://twitter.com/biz84/status/1438096427306168324
 
 Want to quickly generate some fake data to use when building Flutter UIs?
@@ -254,11 +255,11 @@ Use the Faker package: https://pub.dev/packages/faker
 Supports addresses, names, food, dates, sports... you name it!
 
 
-## 12. Elevated Button
+## 12. How to Style an ElevatedButton in Flutter
 
 https://twitter.com/biz84/status/1439910121975558145
 
-## 13. Flutter text field validation
+## 13. How to Validate a TextField in Flutter
 
 https://twitter.com/biz84/status/1443521715800354816
 
@@ -266,9 +267,9 @@ How do you validate a TextField *as the user types* in Flutter?
 
 Let's figure it out. 🧵
 
-(hint: we'll use an AnimatedBuilder)
+(hint: we'll use an `AnimatedBuilder`)
 
-GIF
+![](https://codewithandrea.com/articles/flutter-text-field-form-validation/images/text-field-validation.gif)
 
 ---
 
@@ -342,17 +343,14 @@ And if you liked this, follow me for more Flutter tips: @biz84.
 
 Happy coding!
 
-// article link
 
-```dart
-class TextEditingController extends ValueNotifier<TextEditingValue> { ... }
-class ValueNotifier<T> extends ChangeNotifier implements ValueListenable<T> { ... }
-class ChangeNotifier implements Listenable { ... }
-```
+## 14. Responsive Flutter card layout with SizedBox & Center
 
-## 014 Centered card layout
+https://twitter.com/biz84/status/1445400059894542337
 
 How do you create a Flutter card layout that grows horizontally up to a given width, then remains fixed at that width just like in this example?
+
+<!-- TODO: add GIF -->
 
 ---
 
@@ -374,18 +372,4 @@ Combine them together for profit.
 This excellent article by @mhadaily explains all the details:
 
 https://blog.logrocket.com/best-practices-laying-out-flutter-app/
-
-
-## 015
-
-
-## Tweet ideas
-
-- SliverPadding
-- camera / image picker from the [Flutter 2.5 announcement](https://medium.com/flutter/whats-new-in-flutter-2-5-6f080c3f3dc)
-
-
-## Profiling on iOS device: permissions
-
-https://flutter.dev/docs/development/add-to-app/ios/project-setup#local-network-privacy-permissions
 
