@@ -74,7 +74,7 @@ Support various payment methods including wallets (Apple, Google Pay).
 
 https://pub.dev/packages/flutter_stripe
 
-<!-- TODO: video link -->
+- [Flutter SDK Video demo](images/004_stripe-test.mp4)
 
 ## 5. Flutter Lints package
 
@@ -110,7 +110,7 @@ Fix All on Save. 🚀
 
 Just add "source.fixAll" to "editor.codeActionsOnSave" on your VSCode settings and you're good to go!
 
-<!-- video: 006 -->
+![](images/007_source.fixAll.gif)
 
 ## 8. How to set the border radius on a Flutter container
 
@@ -350,7 +350,7 @@ https://twitter.com/biz84/status/1445400059894542337
 
 How do you create a Flutter card layout that grows horizontally up to a given width, then remains fixed at that width just like in this example?
 
-<!-- TODO: add GIF -->
+![](images/014_centered-layout.gif)
 
 ---
 
