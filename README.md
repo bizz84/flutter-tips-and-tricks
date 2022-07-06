@@ -1,6 +1,6 @@
 # Flutter Tips & Tricks
 
-A collection of all the Flutter tips & tricks I share [on Twitter](https://twitter.com/biz84).
+A collection of all the Flutter tips & tricks I share [on Twitter](https://twitter.com/biz84). If you find this useful, give it a star! 🌟
 
 ![](code-with-andrea-banner.png)
 
