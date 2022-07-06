@@ -76,4 +76,8 @@ My complete Flutter course covers this more in depth, along with many other adva
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1544365241739378690) 🙏
 
+### Also published on codewithandrea.com 👇
+
+- [Flutter Riverpod: How to Register a Listener during App Startup](https://codewithandrea.com/articles/riverpod-initialize-listener-app-startup/)
+
 ### [Source code](main.dart)
