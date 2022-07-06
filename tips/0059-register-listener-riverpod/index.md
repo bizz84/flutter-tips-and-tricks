@@ -74,4 +74,6 @@ My complete Flutter course covers this more in depth, along with many other adva
 
 ---
 
+### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1544365241739378690) 🙏
+
 ### [Source code](main.dart)
