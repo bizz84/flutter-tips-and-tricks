@@ -42,17 +42,18 @@ In my tests, I have a big `pumpWidgetAppWithMocks()` method that configures all 
 
 And I can use a technique called Robot Testing to write all the steps in human-readable format:
 
-![](026-full-purchase-flow.png)
+![](025-full-purchase-flow.png)
 
 ---
 
 The result? Super fast integration tests that can test complex user journeys in a matter of seconds.
 
-I'll cover testing in much more detail in my upcoming course.
+Wanna learn more? My Flutter course covers automated testing in great depth, along with other important topics like state management with Riverpod, app architecture, navigation, and much more:
 
-For now, you can sign up at this page: 
  - [The Complete Flutter Course Bundle](https://codewithandrea.com/courses/complete-flutter-bundle/)
 
 And for more Flutter tips, just follow me: [@biz84](https://twitter.com/biz84)
+
+---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1488529134431186946) 🙏
