@@ -11,7 +11,9 @@ It lets you select widgets on your running app, and see:
 
 keeping everything in sync. 👌
 
-<!-- TODO: Add Video -->
+<video width="1200" height="720" controls>
+  <source src="[videos/1.mp4](https://video.twimg.com/ext_tw_video/1494609769700728930/pu/vid/1280x720/elKLnVIujb5URKf0.mp4?tag=12)" type="video/mp4">
+</video>
 
 ---
 
