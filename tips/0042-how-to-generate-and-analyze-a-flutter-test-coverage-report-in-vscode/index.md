@@ -84,6 +84,8 @@ The course is now available here:
 
 Happy coding!
 
+---
+
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1510980344434016258) 🙏
 
 ### Also published on codewithandrea.com 👇

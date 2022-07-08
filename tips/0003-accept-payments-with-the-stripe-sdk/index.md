@@ -6,9 +6,9 @@ You can accept payments in your Flutter apps with the Stripe SDK.
 
 Support various payment methods including wallets (Apple, Google Pay).
 
-https://pub.dev/packages/flutter_stripe
+- [Watch video (opens link on Twitter)](https://twitter.com/biz84/status/1435932664821919751)
 
-<!-- TODO: Add Video -->
+https://pub.dev/packages/flutter_stripe
 
 ---
 

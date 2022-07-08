@@ -57,7 +57,7 @@ https://pub.dev/packages/riverpod/versions/2.0.0-dev.5/changelog#200-dev0
 
 Lastly, note how we now have a good separation of concerns:
 
-- our StateNotifier manages the widget state and calls the signOut method in the auth repository 
+- our `StateNotifier` manages the widget state and calls the `signOut` method in the auth repository 
 - our widget watches state changes and shows the UI
 
 This makes our code more testable and maintainable in the long run.
@@ -75,5 +75,7 @@ Btw, my Flutter course already includes 2.5 hours of content about Riverpod, wit
 - [The Complete Flutter Course Bundle](https://codewithandrea.com/courses/complete-flutter-bundle/)
 
 Happy coding!
+
+---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1518503651211362305) 🙏

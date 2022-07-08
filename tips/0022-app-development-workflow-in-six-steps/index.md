@@ -10,7 +10,7 @@ Thread. 🧵
 
 ---
 
-1. Design your app (part 1)
+### 1. Design your app (part 1)
 
 Design all the screens that will be in your app.
 
@@ -24,7 +24,7 @@ Here's an example from my website: 👇
 
 ---
 
-1. Design your app (part 2)
+### 1. Design your app (part 2)
 
 This is also a great chance to define stylesheets including a color palette, typography, paddings etc.
 
@@ -38,7 +38,7 @@ This will:
 
 ---
 
-2. Design your Database/Backend
+### 2. Design your Database/Backend
 
 - what entities do you need? what are their properties & relationships?
 - what queries will you need to perform to get the data you need in your UI?
@@ -48,7 +48,7 @@ Then, choose your backend.
 
 ---
 
-3. Choose the right app architecture
+### 3. Choose the right app architecture
 
 - Is your app UI heavy?
 - Is it data-heavy?
@@ -60,7 +60,7 @@ Continued. 👇
 
 ---
 
-3. Choose the right app architecture (part 2)
+### 3. Choose the right app architecture (part 2)
 
 Answering the questions above will help you choose:
 
@@ -69,11 +69,11 @@ Answering the questions above will help you choose:
 
 There are many choices. Here's one: 👇
 
-[Flutter App Architecture: The Repository Pattern](https://codewithandrea.com/articles/flutter-repository-pattern/)
+- [Flutter App Architecture: The Repository Pattern](https://codewithandrea.com/articles/flutter-repository-pattern/)
 
 ---
 
-4. Setup a project board and create tasks on GitHub
+### 4. Setup a project board and create tasks on GitHub
 
 - Create issues describing each feature you want to build.
 - For each task, create a TODO checklist of the things that need to be completed before it's considered done
@@ -83,7 +83,7 @@ There are many choices. Here's one: 👇
 
 ---
 
-5. Setup a CI workflow
+### 5. Setup a CI workflow
 
 You can use GitHub actions, Codemagic, whatever.
 
@@ -91,7 +91,7 @@ What matters is that you have your automated tests running every time you push a
 
 ---
 
-6. Do the work
+### 6. Do the work
 
 - Create a new branch in Git
 - Do the work following the steps in the TODO
@@ -130,5 +130,7 @@ If you liked this, retweet the thread above. 👆
 And for more Flutter tips, just follow me: [@biz84](https://twitter.com/biz84)
 
 Happy coding!
+
+---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1484554041170571264) 🙏

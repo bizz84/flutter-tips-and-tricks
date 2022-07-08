@@ -41,7 +41,7 @@ For example, here's how we may define a shopping cart class along with some meth
 
 ---
 
-Note how the Cart class and MutableCart extension don't have dependencies to any objects that live outside the domain layer.
+Note how the `Cart` class and `MutableCart` extension don't have dependencies to any objects that live outside the domain layer.
 
 This makes them very easy to test:
 

@@ -4,7 +4,7 @@ Have you added linting to your Flutter apps yet?
 
 That's the simplest way to follow good coding practices.
 
-And with the flutter_lints package, this is easier than ever:
+And with the [flutter_lints](https://pub.dev/packages/flutter_lints) package, this is easier than ever:
 
 https://pub.dev/packages/flutter_lints
 

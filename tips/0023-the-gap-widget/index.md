@@ -14,21 +14,21 @@ You can find the package here:
 
 https://pub.dev/packages/gap
 
-Credit to [@lets4r](https://twitter.com/lets4r) for making it
+Credit to [@lets4r](https://twitter.com/lets4r) for making it.
 
 ---
 
 This caused some confusion, so I'll try to clear it up.
 
-There is NOTHING wrong with SizedBox.
+There is **NOTHING** wrong with `SizedBox`.
 
-Gap(x) is a valid substitute for both SizedBox(width: x) and SizedBox(height: x), because it works *along* the main axis of the parent widget.
+`Gap(x)` is a valid substitute for both `SizedBox(width: x)` and `SizedBox(height: x)`, because it works **along** the main axis of the parent widget.
 
 ---
 
 Of course, it's a package so it adds an extra dependency to your project.
 
-If you feel it's not justified, don't use it. Again, SizedBox is *just fine*.
+If you feel it's not justified, don't use it. Again, `SizedBox` is **just fine**.
 
 If you like the shorter syntax and not having to specify width/height, go for it.
 

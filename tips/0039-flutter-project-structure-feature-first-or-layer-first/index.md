@@ -114,7 +114,7 @@ For more tips like this, just follow me: [@biz84](https://twitter.com/biz84)
 
 ---
 
-And if you want to learn how to build a full-stack eCommerce app following these principles, you can sign up for my upcoming course and get a big discount when I open the pre-sale next month. 👇
+And if you want to learn how to build a full-stack eCommerce app following these principles, check out my new course:
 
 - [The Complete Flutter Course Bundle](https://codewithandrea.com/courses/complete-flutter-bundle/)
 

@@ -6,7 +6,7 @@ Makes it easier to identify Jank and Shader Compilation issues.
 
 (note: this needs to be run in profile mode on a real device)
 
-<!-- TODO: Add Video -->
+- [Watch video (opens link on Twitter)](https://twitter.com/biz84/status/1436356730380816388)
 
 ---
 

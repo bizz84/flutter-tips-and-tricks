@@ -1,6 +1,6 @@
 # How to write a reactive in-memory store with RxDart
 
-Ever needed to create a *reactive* in-memory store for simple values?
+Ever needed to create a **reactive** in-memory store for simple values?
 
 To help with that, I created a simple wrapper class around `BehaviorSubject` (from the RxDart package).
 
@@ -43,5 +43,7 @@ Hope you found this useful.
 For more Flutter tips like this, just follow me: [@biz84](https://twitter.com/biz84).
 
 Happy coding!
+
+---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1511370391259914240) 🙏

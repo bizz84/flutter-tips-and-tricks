@@ -32,4 +32,6 @@ For now, here's a signup link to get my pre-sale discount:
 
 Happy coding!
 
+---
+
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1488578982656290820) 🙏

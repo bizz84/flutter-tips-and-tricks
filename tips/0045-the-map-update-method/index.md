@@ -17,4 +17,4 @@ But the `update()` method offers a simpler way of doing the same thing: 👇
 
 ### Also published on codewithandrea.com 👇
 
-- [The Map.update() method](https://codewithandrea.com/tips/dart-map-update-method/)
+- [The `Map.update()` method](https://codewithandrea.com/tips/dart-map-update-method/)

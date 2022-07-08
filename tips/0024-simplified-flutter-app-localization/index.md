@@ -12,9 +12,9 @@ A thread. 🧵
 
 ---
 
-One issue we have is that `AppLocalizations.of(context)` returns a *nullable* object.
+One issue we have is that `AppLocalizations.of(context)` returns a **nullable** object.
 
-But at runtime this will never be null, as long as we call it inside a *descendant* of MaterialApp (which is always the case).
+But at runtime this will never be null, as long as we call it inside a **descendant** of `MaterialApp` (which is always the case).
 
 So what can we do?
 
@@ -24,7 +24,7 @@ So what can we do?
 
 Dart extensions to the rescue!
 
-We can define a LocalizedBuildContext extension with a `loc` getter variable defined like so:
+We can define a `LocalizedBuildContext` extension with a `loc` getter variable defined like so:
 
 ![](025-localized-build-context-extension.png)
 
@@ -46,6 +46,8 @@ If you found this thread useful, retweet the first tweet and spread the word. �
 To see more Flutter tips like this in your timeline, just follow me: [@biz84](https://twitter.com/biz84)
 
 Happy coding!
+
+---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1486349439086256139) 🙏
 

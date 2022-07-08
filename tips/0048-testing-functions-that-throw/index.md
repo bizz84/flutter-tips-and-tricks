@@ -24,4 +24,10 @@ For more Flutter tweets like this, follow me: [@biz84](https://twitter.com/biz84
 
 Happy coding!
 
+---
+
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1521732405123497987) 🙏
+
+### Also published on codewithandrea.com 👇
+
+- [How to test functions that throw in Flutter](https://codewithandrea.com/tips/flutter-test-expect-tear-off/)
