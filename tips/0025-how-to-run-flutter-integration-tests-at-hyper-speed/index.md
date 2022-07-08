@@ -6,7 +6,7 @@ These go through an entire user flow (10 screens) in less than 20 seconds! ⏱
 
 How did I do it? 🧵
 
-<!-- TODO: Add Video -->
+- [Watch video (opens link on Twitter)](https://twitter.com/biz84/status/1488529134431186946)
 
 ---
 
@@ -14,7 +14,7 @@ How did I make the integration tests run so fast?
 
 First of all, I have used the repository pattern to separate the entire data layer from the rest of the app.
 
-https://codewithandrea.com/articles/flutter-repository-pattern/
+- [Flutter App Architecture: The Repository Pattern](https://codewithandrea.com/articles/flutter-repository-pattern/)
 
 ---
 

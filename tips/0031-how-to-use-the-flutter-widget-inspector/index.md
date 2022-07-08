@@ -11,7 +11,7 @@ It lets you select widgets on your running app, and see:
 
 keeping everything in sync. 👌
 
-[![](031-widget-inspector.png)]([031-flutter-widget-inspector](https://video.twimg.com/ext_tw_video/1494609769700728930/pu/vid/1280x720/elKLnVIujb5URKf0.mp4?tag=12))
+- [Watch video (opens link on Twitter)](https://twitter.com/biz84/status/1494610003352866817)
 
 ---
 
