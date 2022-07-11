@@ -97,3 +97,8 @@ Happy coding!
 - [Flutter TextField Validation: How to work with TextEditingController, Form, and TextFormField](https://codewithandrea.com/articles/flutter-text-field-form-validation/)
 
 
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [How to Style an `ElevatedButton` in Flutter](../0011-how-to-style-an-elevatedbutton-in-flutter/index.md) | [Responsive Flutter card layout with `SizedBox` & `Center`](../0013-responsive-flutter-card-layout-with-sizedbox-center/index.md) |

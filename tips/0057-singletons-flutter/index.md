@@ -101,3 +101,9 @@ Have you decided for or against using singletons in your apps? Let me know in th
 ### Also published on codewithandrea.com 👇
 
 - [Singletons in Flutter: How to Avoid Them and What to do Instead](https://codewithandrea.com/articles/flutter-singletons/)
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [Riverpod: Async init with Provider Overrides](../0056-async-init-provider-overrides/index.md) | [Using test tags in Flutter](../0058-using-test-tags/index.md) |

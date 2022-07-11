@@ -30,3 +30,8 @@ And I'll also cover all the findings in my Flutter course, which already include
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1526572320202047488) 🙏
 
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [Dart 2.17: Enhanced Enums with Members](../0050-dart-2-17-enhanced-enums-with-members/index.md) | [How to Add a Custom Test Timeout in Flutter](../0052-custom-test-timeout/index.md) |

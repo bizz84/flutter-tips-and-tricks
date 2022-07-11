@@ -35,3 +35,9 @@ I've got more tips like this coming along. So follow me for more: [@biz84](https
 ---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1448946157909053469) 🙏
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [`AsyncValueWidget`: a reusable Flutter widget to work with `AsyncValue` (using Riverpod)](../0015-asyncvaluewidget-a-reusable-flutter-widget-to-work-with-asyncvalue/index.md) | [6 common sources of errors in Flutter apps](../0017-six-common-sources-of-errors-in-flutter-apps/index.md) |

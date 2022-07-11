@@ -57,3 +57,9 @@ And for more Flutter tips, just follow me: [@biz84](https://twitter.com/biz84)
 ---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1488529134431186946) 🙏
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [Simplified Flutter App Localization](../0024-simplified-flutter-app-localization/index.md) | [Running tests with GitHub actions](../0026-running-tests-with-github-actions/index.md) |

@@ -74,3 +74,9 @@ Happy coding!
 ### Also published on codewithandrea.com 👇
 
 - [AsyncValue vs FutureBuilder & StreamBuilder](https://codewithandrea.com/articles/flutter-use-async-value-not-future-stream-builder/)
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [How to use `WidgetsBindingObserver`](../0034-how-to-use-widgetsbindingobserver/index.md) | [GoRouter: `go` vs `push`](../0036-gorouter-go-vs-push/index.md) |

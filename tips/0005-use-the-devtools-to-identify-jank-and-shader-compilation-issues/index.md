@@ -11,3 +11,9 @@ Makes it easier to identify Jank and Shader Compilation issues.
 ---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1436356730380816388) 🙏
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [Flutter Lints package](../0004-flutter-lints-package/index.md) | [Flutter Fix all command](../0006-flutter-fix-all-command/index.md) |

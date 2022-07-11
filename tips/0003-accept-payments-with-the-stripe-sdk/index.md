@@ -13,3 +13,9 @@ https://pub.dev/packages/flutter_stripe
 ---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1435932664821919751) 🙏
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [Flutter create --sample](../0002-flutter-create-sample/index.md) | [Flutter Lints package](../0004-flutter-lints-package/index.md) |

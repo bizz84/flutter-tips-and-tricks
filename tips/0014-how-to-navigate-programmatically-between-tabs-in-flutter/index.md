@@ -72,3 +72,9 @@ Happy coding!
 ### Also published on codewithandrea.com 👇
 
 - [Flutter TabBar Tutorial: How to Navigate Programmatically Between Tabs](https://codewithandrea.com/articles/flutter-tab-bar-navigation/)
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [Responsive Flutter card layout with `SizedBox` & `Center`](../0013-responsive-flutter-card-layout-with-sizedbox-center/index.md) | [`AsyncValueWidget`: a reusable Flutter widget to work with `AsyncValue` (using Riverpod)](../0015-asyncvaluewidget-a-reusable-flutter-widget-to-work-with-asyncvalue/index.md) |

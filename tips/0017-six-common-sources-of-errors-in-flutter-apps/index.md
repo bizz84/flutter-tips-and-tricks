@@ -73,3 +73,9 @@ Happy coding!
 ---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1455950598071803911) 🙏
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [Easily handle loading and error states](../0016-easily-handle-loading-and-error-states/index.md) | [How to create a Flutter GridView with content-sized items](../0018-how-to-create-a-flutter-gridview-with-content-sized-items/index.md) |

@@ -127,3 +127,9 @@ Happy coding!
 ### Also published on codewithandrea.com 👇
 
 - [Flutter Project Structure: Feature-first or Layer-first?](https://codewithandrea.com/articles/flutter-project-structure/)
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [Popular architectures for Flutter development](../0038-popular-architectures-for-flutter-development/index.md) | [Anatomy of a Riverpod Provider](../0040-anatomy-of-a-riverpod-provider/index.md) |

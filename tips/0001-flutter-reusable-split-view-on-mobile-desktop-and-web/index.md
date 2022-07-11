@@ -17,3 +17,9 @@ Alt: Split view widget on desktop & web + Drawer navigation on mobile
 ### Also published on codewithandrea.com 👇
 
 - [Responsive layouts in Flutter: Split View and Drawer Navigation](https://codewithandrea.com/articles/flutter-responsive-layouts-split-view-drawer-navigation/)
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+|          | [Flutter create --sample](../0002-flutter-create-sample/index.md) |

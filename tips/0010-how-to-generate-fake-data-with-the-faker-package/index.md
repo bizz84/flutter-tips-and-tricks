@@ -11,3 +11,9 @@ Supports addresses, names, food, dates, sports... you name it!
 ---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1438096427306168324) 🙏
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [Chat UI with message bubbles (revisited)](../0009-chat-ui-with-message-bubbles-revisited/index.md) | [How to Style an `ElevatedButton` in Flutter](../0011-how-to-style-an-elevatedbutton-in-flutter/index.md) |

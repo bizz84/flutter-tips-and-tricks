@@ -47,3 +47,9 @@ Happy coding!
 ---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1511370391259914240) 🙏
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [How to Generate and Analyze a Flutter Test Coverage Report in VSCode](../0042-how-to-generate-and-analyze-a-flutter-test-coverage-report-in-vscode/index.md) | [`AsyncValue.guard()` vs `try`/`catch`](../0044-async-value-guard-vs-try-catch/index.md) |

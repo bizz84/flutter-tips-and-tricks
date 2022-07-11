@@ -66,3 +66,8 @@ Happy coding!
 
 - [AsyncValueWidget: a reusable Flutter widget to work with AsyncValue (using Riverpod)](https://codewithandrea.com/articles/async-value-widget-riverpod/)
 
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [How to navigate programmatically between tabs in Flutter](../0014-how-to-navigate-programmatically-between-tabs-in-flutter/index.md) | [Easily handle loading and error states](../0016-easily-handle-loading-and-error-states/index.md) |

@@ -9,3 +9,9 @@ Let's put it to rest! This is the easiest way to get a rounded rectangle with a 
 ---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1437111434656329730) 🙏
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [Flutter Fix all command](../0006-flutter-fix-all-command/index.md) | [Chat UI with message bubbles](../0008-chat-ui-with-message-bubbles/index.md) |

@@ -54,3 +54,9 @@ Happy coding!
 ### Also published on codewithandrea.com 👇
 
 - [Simplified Flutter Localization using a BuildContext extension](https://codewithandrea.com/articles/flutter-localization-build-context-extension/)
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [The Gap Widget](../0023-the-gap-widget/index.md) | [How to run Flutter Integration Tests at Hyper Speed](../0025-how-to-run-flutter-integration-tests-at-hyper-speed/index.md) |

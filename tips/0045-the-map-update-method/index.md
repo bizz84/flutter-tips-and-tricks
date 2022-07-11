@@ -18,3 +18,9 @@ But the `update()` method offers a simpler way of doing the same thing: 👇
 ### Also published on codewithandrea.com 👇
 
 - [The `Map.update()` method](https://codewithandrea.com/tips/dart-map-update-method/)
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [`AsyncValue.guard()` vs `try`/`catch`](../0044-async-value-guard-vs-try-catch/index.md) | [Riverpod: difference between `ref.watch`, `ref.read`, `ref.listen`](../0046-riverpod-difference-between-ref-watch-ref-read-ref-listen/index.md) |

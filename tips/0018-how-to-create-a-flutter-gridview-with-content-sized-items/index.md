@@ -69,3 +69,9 @@ I'll share a complete article with more details soon. 👇
 ### Also published on codewithandrea.com 👇
 
 - [How to create a Flutter GridView with content-sized items](https://codewithandrea.com/articles/flutter-layout-grid-content-sized-items/)
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [6 common sources of errors in Flutter apps](../0017-six-common-sources-of-errors-in-flutter-apps/index.md) | [How to use Robot Testing to write more readable widget tests](../0019-how-to-use-robot-testing-to-write-more-readable-widget-tests/index.md) |

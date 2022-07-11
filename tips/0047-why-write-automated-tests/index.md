@@ -9,3 +9,9 @@ Here are a few reasons.
 ---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1521371315701178372) 🙏
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [Riverpod: difference between `ref.watch`, `ref.read`, `ref.listen`](../0046-riverpod-difference-between-ref-watch-ref-read-ref-listen/index.md) | [Testing functions that throw](../0048-testing-functions-that-throw/index.md) |

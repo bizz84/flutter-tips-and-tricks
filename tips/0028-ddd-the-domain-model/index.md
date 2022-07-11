@@ -66,3 +66,9 @@ Happy coding!
 ---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1491381498641063938) 🙏
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [Better Comments Extension for VSCode](../0027-better-comments-extension-for-vscode/index.md) | [Domain-Driven Exception Handling](../0029-domain-driven-exception-handling/index.md) |

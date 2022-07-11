@@ -31,3 +31,9 @@ Happy coding!
 ### Also published on codewithandrea.com 👇
 
 - [How to test functions that throw in Flutter](https://codewithandrea.com/tips/flutter-test-expect-tear-off/)
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [Why write automated tests?](../0047-why-write-automated-tests/index.md) | [Dart 2.17: Super Initializers](../0049-dart-2-17-super-initializers/index.md) |

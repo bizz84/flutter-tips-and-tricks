@@ -11,3 +11,9 @@ I often do this to test loading and error states in the UI. 👇
 ---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1509127400491298816) 🙏
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [Anatomy of a Riverpod Provider](../0040-anatomy-of-a-riverpod-provider/index.md) | [How to Generate and Analyze a Flutter Test Coverage Report in VSCode](../0042-how-to-generate-and-analyze-a-flutter-test-coverage-report-in-vscode/index.md) |

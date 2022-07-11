@@ -15,3 +15,9 @@ Works with both named and positional arguments.
 ### Also published on codewithandrea.com 👇
 
 - [Dart 2.17: Super Initializers](https://codewithandrea.com/tips/dart-2.17-super-initializers/)
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [Testing functions that throw](../0048-testing-functions-that-throw/index.md) | [Dart 2.17: Enhanced Enums with Members](../0050-dart-2-17-enhanced-enums-with-members/index.md) |

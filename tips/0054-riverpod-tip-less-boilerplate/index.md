@@ -45,3 +45,10 @@ Happy coding!
 ---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1534773316145356801) 🙏
+
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [How to Create DartPad Examples from GitHub Gists](../0053-how-to-create-dartpad-examples-from-github-gists/index.md) | [How to run multiple test variants](../0055-run-multiple-test-variants/index.md) |

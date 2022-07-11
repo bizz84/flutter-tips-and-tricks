@@ -79,3 +79,9 @@ Happy coding!
 ---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1518503651211362305) 🙏
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [The `Map.update()` method](../0045-the-map-update-method/index.md) | [Why write automated tests?](../0047-why-write-automated-tests/index.md) |

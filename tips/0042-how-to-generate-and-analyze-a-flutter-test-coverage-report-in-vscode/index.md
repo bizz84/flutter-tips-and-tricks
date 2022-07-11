@@ -91,3 +91,10 @@ Happy coding!
 ### Also published on codewithandrea.com 👇
 
 - [How to Generate and Analyze a Flutter Test Coverage Report in VSCode](https://codewithandrea.com/articles/flutter-test-coverage/)
+
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [Using Fake Repositories for Testing](../0041-using-fake-repositories-for-testing/index.md) | [How to write a reactive in-memory store with RxDart](../0043-how-to-write-a-reactive-in-memory-store-with-rxdart/index.md) |

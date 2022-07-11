@@ -40,3 +40,9 @@ Follow me for more tips like this: [@biz84](https://twitter.com/biz84)
 ### Also published on codewithandrea.com 👇
 
 - [Flutter App Architecture: The Repository Pattern](https://codewithandrea.com/articles/flutter-repository-pattern/)
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [How to configure multiple Firebase environments with FlutterFire CLI](../0020-how-to-configure-multiple-firebase-environments-with-flutterfire-cli/index.md) | [App Development workflow in 6 steps](../0022-app-development-workflow-in-six-steps/index.md) |

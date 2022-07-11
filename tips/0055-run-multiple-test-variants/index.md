@@ -11,3 +11,10 @@ This is quite useful if you have a responsive app and want to run a golden image
 ---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1537117778817204225) 🙏
+
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [Riverpod tip for less boilerplate (Passing Ref)](../0054-riverpod-tip-less-boilerplate/index.md) | [Riverpod: Async init with Provider Overrides](../0056-async-init-provider-overrides/index.md) |

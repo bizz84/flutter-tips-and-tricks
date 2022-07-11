@@ -25,3 +25,9 @@ Custom timeouts can be configured per-file, per-test, or per-group, just like th
 ### Also published on codewithandrea.com 👇
 
 - [How to Add a Custom Test Timeout in Flutter](https://codewithandrea.com/tips/custom-test-timeout-flutter/)
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [Golden Image Testing with Robot Testing](../0051-golden-image-testing-with-robot-testing/index.md) | [How to Create DartPad Examples from GitHub Gists](../0053-how-to-create-dartpad-examples-from-github-gists/index.md) |

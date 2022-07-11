@@ -55,3 +55,9 @@ Happy coding!
 ---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1498679218846285824) 🙏
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [VSCode extensions to speed-up your Flutter workflow](../0033-vscode-extensions-to-speed-up-your-flutter-workflow/index.md) | [`AsyncValue` vs `FutureBuilder` & `StreamBuilder`](../0035-asyncvalue-vs-futurebuilder-streambuilder/index.md) |

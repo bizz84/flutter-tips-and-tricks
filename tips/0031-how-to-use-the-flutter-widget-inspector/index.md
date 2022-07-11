@@ -16,3 +16,9 @@ keeping everything in sync. 👌
 ---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1494610003352866817) 🙏
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [VSCode launch configurations](../0030-vscode-launch-configurations/index.md) | [Flutter tip: use composition aggressively](../0032-flutter-tip-use-composition-aggressively/index.md) |

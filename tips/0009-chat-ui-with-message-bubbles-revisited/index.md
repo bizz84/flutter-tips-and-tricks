@@ -51,3 +51,9 @@ Happy coding!
 ---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1437692261672919041) 🙏
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [Chat UI with message bubbles](../0008-chat-ui-with-message-bubbles/index.md) | [How to Generate Fake data with the Faker package](../0010-how-to-generate-fake-data-with-the-faker-package/index.md) |

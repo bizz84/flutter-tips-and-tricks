@@ -120,3 +120,9 @@ And I've done my best to make it justice in my Flutter course:
 ---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1493266073226993672) 🙏
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [DDD: The Domain Model](../0028-ddd-the-domain-model/index.md) | [VSCode launch configurations](../0030-vscode-launch-configurations/index.md) |

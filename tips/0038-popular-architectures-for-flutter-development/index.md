@@ -132,3 +132,9 @@ And I've shared them all in my new Flutter course:
 ### Also published on codewithandrea.com 👇
 
 - [Flutter App Architecture with Riverpod: An Introduction](https://codewithandrea.com/articles/flutter-app-architecture-riverpod-introduction/)
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [Rules to follow for good app architecture](../0037-rules-to-follow-for-good-app-architecture/index.md) | [Flutter Project Structure: Feature-first or Layer-first?](../0039-flutter-project-structure-feature-first-or-layer-first/index.md)  |

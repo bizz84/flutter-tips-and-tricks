@@ -74,3 +74,9 @@ Happy coding!
 ---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1503387745275850761) 🙏
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [GoRouter: `go` vs `push`](../0036-gorouter-go-vs-push/index.md) | [Popular architectures for Flutter development](../0038-popular-architectures-for-flutter-development/index.md) |

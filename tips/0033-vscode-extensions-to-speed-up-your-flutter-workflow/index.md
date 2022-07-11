@@ -100,3 +100,9 @@ Happy coding!
 ### Also published on codewithandrea.com 👇
 
 - [VSCode Shortcuts, Extensions & Settings for Flutter Development](https://codewithandrea.com/articles/vscode-shortcuts-extensions-settings-flutter-development/)
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [Flutter tip: use composition aggressively](../0032-flutter-tip-use-composition-aggressively/index.md) | [How to use `WidgetsBindingObserver`](../0034-how-to-use-widgetsbindingobserver/index.md) |

@@ -33,3 +33,9 @@ Happy coding!
 ### Also published on codewithandrea.com 👇
 
 - [Dart 2.17: Enhanced Enums with Members](https://codewithandrea.com/tips/enums-with-members-dart-2.17)
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [Dart 2.17: Super Initializers](../0049-dart-2-17-super-initializers/index.md) | [Golden Image Testing with Robot Testing](../0051-golden-image-testing-with-robot-testing/index.md) |

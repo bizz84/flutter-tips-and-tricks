@@ -134,3 +134,9 @@ Happy coding!
 ---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1484554041170571264) 🙏
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [Repositories as abstract classes (program to interfaces, not implementations)](../0021-repositories-as-abstract-classes/index.md) | [The Gap Widget](../0023-the-gap-widget/index.md) |

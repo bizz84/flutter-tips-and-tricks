@@ -13,3 +13,9 @@ Your future self will thank you. 😉
 ---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1495795551627005955) 🙏
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [How to use the Flutter Widget Inspector](../0031-how-to-use-the-flutter-widget-inspector/index.md) | [VSCode extensions to speed-up your Flutter workflow](../0033-vscode-extensions-to-speed-up-your-flutter-workflow/index.md) |

@@ -70,4 +70,8 @@ Happy coding!
 
 ### [Source code](main.dart)
 
+---
 
+| Previous | Next |
+| -------- | ---- |
+| [How to run multiple test variants](../0055-run-multiple-test-variants/index.md) | [Singletons in Flutter: Drawbacks](../0057-singletons-flutter/index.md) |

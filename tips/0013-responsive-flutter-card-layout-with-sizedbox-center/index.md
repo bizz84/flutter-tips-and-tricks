@@ -28,3 +28,9 @@ This excellent article by [@mhadaily](https://twitter.com/mhadaily) explains all
 ---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1445400059894542337) 🙏
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [How to Validate a `TextField` in Flutter](../0012-how-to-validate-a-textfield-in-flutter/index.md) | [How to navigate programmatically between tabs in Flutter](../0014-how-to-navigate-programmatically-between-tabs-in-flutter/index.md) |

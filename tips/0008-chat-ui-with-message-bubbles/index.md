@@ -80,3 +80,9 @@ Happy coding!
 ### Also published on codewithandrea.com 👇
 
 - [How to build a Chat Messaging UI in Flutter](https://codewithandrea.com/articles/chat-messaging-ui-flutter/)
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [How to set the border radius on a Flutter container](../0007-how-to-set-the-border-radius-on-a-flutter-container/index.md) | [Chat UI with message bubbles (revisited)](../0009-chat-ui-with-message-bubbles-revisited/index.md) |

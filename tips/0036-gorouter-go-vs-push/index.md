@@ -94,3 +94,9 @@ Happy coding!
 ### Also published on codewithandrea.com 👇
 
 - [GoRouter: go vs push](https://codewithandrea.com/articles/flutter-navigation-gorouter-go-vs-push/)
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [`AsyncValue` vs `FutureBuilder` & `StreamBuilder`](../0035-asyncvalue-vs-futurebuilder-streambuilder/index.md) | [Rules to follow for good app architecture](../0037-rules-to-follow-for-good-app-architecture/index.md) |

@@ -35,3 +35,9 @@ Happy coding!
 ---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1488578982656290820) 🙏
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [How to run Flutter Integration Tests at Hyper Speed](../0025-how-to-run-flutter-integration-tests-at-hyper-speed/index.md) | [Better Comments Extension for VSCode](../0027-better-comments-extension-for-vscode/index.md) |

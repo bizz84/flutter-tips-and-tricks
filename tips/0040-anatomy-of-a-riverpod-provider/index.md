@@ -14,3 +14,9 @@ More Riverpod tips incoming.👌
 ---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1507394180896677892) 🙏
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [Flutter Project Structure: Feature-first or Layer-first?](../0039-flutter-project-structure-feature-first-or-layer-first/index.md) | [Using Fake Repositories for Testing](../0041-using-fake-repositories-for-testing/index.md) |

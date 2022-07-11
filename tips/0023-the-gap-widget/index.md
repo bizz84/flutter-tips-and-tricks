@@ -37,3 +37,9 @@ YOU choose.
 ---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1485284738487226381) 🙏
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [App Development workflow in 6 steps](../0022-app-development-workflow-in-six-steps/index.md) | [Simplified Flutter App Localization](../0024-simplified-flutter-app-localization/index.md) |
