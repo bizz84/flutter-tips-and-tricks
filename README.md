@@ -76,7 +76,7 @@ A collection of all the Flutter tips & tricks I share [on Twitter](https://twitt
 
 ## Spread the word!
 
-If these tips have helped you, make sure to star this repo 🌟 and [share this tweet](#)! 🙏 
+If these tips have helped you, make sure to star this repo 🌟 and [share this tweet](https://twitter.com/biz84/status/1546868449963540480)! 🙏 
 
 This way others can benefit too and everyone can learn! 👍
 
