@@ -86,4 +86,4 @@ Happy coding!
 
 | Previous | Next |
 | -------- | ---- |
-| [Flutter Riverpod: How to Register a Listener during App Startup](../0059-register-listener-riverpod/index.md) |  |
+| [Flutter Riverpod: How to Register a Listener during App Startup](../0059-register-listener-riverpod/index.md) | [Errors vs Exceptions in Flutter](../0061-flutter-errors-vs-exceptions/index.md) |
