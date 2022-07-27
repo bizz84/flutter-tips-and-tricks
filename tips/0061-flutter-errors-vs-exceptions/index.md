@@ -90,4 +90,4 @@ And if you want to go more in depth, my Flutter course covers the most important
 
 | Previous | Next |
 | -------- | ---- |
-| [Do not use BuildContexts across async gaps (and what to do instead)](../0060-build-context-async-gaps/index.md) |  |
+| [Do not use BuildContexts across async gaps (and what to do instead)](../0060-build-context-async-gaps/index.md) | [Exception handling: try/catch vs Result](../0062-try-catch-result-type/index.md) |
