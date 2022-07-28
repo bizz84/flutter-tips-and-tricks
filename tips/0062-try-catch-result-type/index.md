@@ -139,6 +139,10 @@ And to learn more about error handling, check out my course:
 
 ### [Source code](main.dart)
 
+### Also published on codewithandrea.com 👇
+
+- [Flutter Exception Handling with try/catch and the Result type](https://codewithandrea.com/articles/flutter-exception-handling-try-catch-result-type/)
+
 ---
 
 | Previous | Next |
