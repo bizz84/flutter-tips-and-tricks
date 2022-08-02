@@ -147,4 +147,4 @@ And to learn more about error handling, check out my course:
 
 | Previous | Next |
 | -------- | ---- |
-| [Errors vs Exceptions in Flutter](../0061-flutter-errors-vs-exceptions/index.md) |  |
+| [Errors vs Exceptions in Flutter](../0061-flutter-errors-vs-exceptions/index.md) | [Explicit error types with Either](../0063-either-type-fpdart/index.md) |
