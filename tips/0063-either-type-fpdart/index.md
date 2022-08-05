@@ -53,4 +53,4 @@ Happy coding!
 
 | Previous | Next |
 | -------- | ---- |
-| [Exception handling: try/catch vs Result](../0062-try-catch-result-type/index.md) |  |
+| [Exception handling: try/catch vs Result](../0062-try-catch-result-type/index.md) | [When to use each Riverpod provider?](../0064-all-riverpod-providers/index.md) |
