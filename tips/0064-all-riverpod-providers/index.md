@@ -98,4 +98,4 @@ Then check out my extensive (and free) guide about Riverpod:
 
 | Previous | Next |
 | -------- | ---- |
-| [Explicit error types with Either](../0063-either-type-fpdart/index.md) | [Which Riverpod Provider should you use?](../0064-all-riverpod-providers/index.md) |
+| [Explicit error types with Either](../0063-either-type-fpdart/index.md) |  |

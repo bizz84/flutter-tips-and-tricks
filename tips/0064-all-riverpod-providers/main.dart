@@ -26,7 +26,7 @@ class CounterWidget extends ConsumerWidget {
     final counter = ref.watch(counterStateProvider);
     return ElevatedButton(
       child: Text('Value: $counter'),
-      onPressed: () => ref.read(counterStateProvider.state).state++,
+      onPressed: () => ref.read(counterStateProvider.notifier).state++,
     );
   }
 }
@@ -45,15 +45,19 @@ class AuthController extends StateNotifier<AsyncValue<void>> {
   }
 }
 
-final authControllerProvider = StateNotifierProvider<
+final authControllerProvider =
+  StateNotifierProvider<
     AuthController, AsyncValue<void>>((ref) {
   return AuthController(ref);
 });
 
 Widget build(BuildContext context, WidgetRef ref) {
+  final state = ref.watch(authControllerProvider);
   return ElevatedButton(
-    onPressed: () => ref.read(authControllerProvider).signOut(),
     child: const Text('Logout'),
+    onPressed: state.isLoading
+      ? null
+      : () => ref.read(authControllerProvider.notifier).signOut(),
   );
 }
 
