@@ -49,6 +49,12 @@ Happy coding!
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1554518642343256067) 🙏
 
+### [Source code](main.dart)
+
+### Also published on codewithandrea.com 👇
+
+- [Functional Error Handling with Either and fpdart in Flutter: An Introduction](https://codewithandrea.com/articles/functional-error-handling-either-fpdart/)
+
 ---
 
 | Previous | Next |
