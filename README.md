@@ -14,6 +14,7 @@ A collection of all the Flutter tips & tricks I share [on Twitter](https://twitt
 
 | ID | View on GitHub (this repo)                                                                                                                                                        | Original Tweet | Link on [codewithandrea.com](https://codewithandrea.com/)                                                                            |
 | -- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| -------------- |-------------------------------------------------------------------------------------------------------|
+| 65 | [How `kIsWeb` works in Flutter](tips/0065-kIsWeb/index.md) | [link](https://twitter.com/biz84/status/1567512783448588289) | |
 | 64 | [When to use each Riverpod provider?](tips/0064-all-riverpod-providers/index.md) | [link](https://twitter.com/biz84/status/1555598020644933633) | |
 | 63 | [Explicit error types with Either](tips/0063-either-type-fpdart/index.md) | [link](https://twitter.com/biz84/status/1554518642343256067) | [link](https://codewithandrea.com/articles/functional-error-handling-either-fpdart/) |
 | 62 | [Exception handling: try/catch vs Result](tips/0062-try-catch-result-type/index.md) | [link](https://twitter.com/biz84/status/1552337771158818817) | [link](https://codewithandrea.com/articles/flutter-exception-handling-try-catch-result-type/) |

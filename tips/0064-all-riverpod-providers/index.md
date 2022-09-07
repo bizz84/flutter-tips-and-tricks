@@ -98,4 +98,4 @@ Then check out my extensive (and free) guide about Riverpod:
 
 | Previous | Next |
 | -------- | ---- |
-| [Explicit error types with Either](../0063-either-type-fpdart/index.md) |  |
+| [Explicit error types with Either](../0063-either-type-fpdart/index.md) | [How `kIsWeb` works in Flutter](../0065-kIsWeb/index.md) |
