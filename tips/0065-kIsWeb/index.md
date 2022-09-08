@@ -13,6 +13,8 @@ Explanation:
 - on web, Dart's doubles and ints are backed by the same kind of object (JS doesn't support integers)
 - on the Dart VM, doubles and ints are different
 
+![](065-kIsWeb-flutter.png)
+
 ---
 
 Here's the official documentation:
