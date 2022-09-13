@@ -25,4 +25,4 @@ print(escaped); // She said: "Look at that kitten!"
 
 | Previous | Next |
 | -------- | ---- |
-| [How `kIsWeb` works in Flutter](../0065-kIsWeb/index.md) |  |
+| [How `kIsWeb` works in Flutter](../0065-kIsWeb/index.md) | [REST Client extension for VSCode](../0067-rest-client-vscode/index.md) |
