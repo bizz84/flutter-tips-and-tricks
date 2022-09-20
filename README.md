@@ -14,6 +14,7 @@ A collection of all the Flutter tips & tricks I share [on Twitter](https://twitt
 
 | ID | View on GitHub (this repo)                                                                                                                                                        | Original Tweet | Link on [codewithandrea.com](https://codewithandrea.com/)                                                                            |
 | -- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| -------------- |-------------------------------------------------------------------------------------------------------|
+| 68 | [`--enable-asserts` flag in Dart / Flutter](tips/0068-enable-asserts-flag/index.md) | [link](https://twitter.com/biz84/status/1572227339060117505) | |
 | 67 | [REST Client extension for VSCode](tips/0067-rest-client-vscode/index.md) | [link](https://twitter.com/biz84/status/1569690846051635205) | |
 | 66 | [The HtmlUnescape package](tips/0066-html-unescape/index.md) | [link](https://twitter.com/biz84/status/1567889998220779520) | |
 | 65 | [How `kIsWeb` works in Flutter](tips/0065-kIsWeb/index.md) | [link](https://twitter.com/biz84/status/1567512783448588289) | |

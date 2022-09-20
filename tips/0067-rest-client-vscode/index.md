@@ -58,4 +58,4 @@ And if you want to learn about all the other VSCode extensions and shortcuts I u
 
 | Previous | Next |
 | -------- | ---- |
-| [The HtmlUnescape package](../0066-html-unescape/index.md) |  |
+| [The HtmlUnescape package](../0066-html-unescape/index.md) | [--enable-asserts flag in Dart / Flutter](../0068-enable-asserts-flag/index.md) |
