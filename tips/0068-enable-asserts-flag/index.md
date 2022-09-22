@@ -18,4 +18,4 @@ Or set it globally in your VSCode settings file.
 
 | Previous | Next |
 | -------- | ---- |
-| [REST Client extension for VSCode](../0067-rest-client-vscode/index.md) |  |
+| [REST Client extension for VSCode](../0067-rest-client-vscode/index.md) | [When to use `SizedBox.shrink()` to return an empty box](../0069-sizedbox-shrink/index.md) |
