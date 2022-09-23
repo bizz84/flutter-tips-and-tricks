@@ -1,0 +1,106 @@
+# Localizing Flutter apps with code gen
+
+Did you know that you can set up your Flutter app localizations in 5 minutes, using Flutter's tool generation? 🗺
+
+Let’s start with adding the required packages: flutter_localizations and intl.
+
+🧵
+
+![](070.1.png)
+
+---
+
+1️⃣ Create `l10n.yaml` at the root
+
+✔️ `arb-dir` is the directory where Flutter will look for the localized strings
+✔️ Dart localizations classes will be generated in the `output-dir`
+✔️ `template-arb-file` is the main template that contains a description for each localized string
+
+![](070.2.png)
+
+---
+
+2️⃣ Create the arb files under lib.
+
+An ARB file is an “application resource bundle” used by Flutter to generate corresponding Dart files. Each locale will have its own ARB file.
+
+For example, to add French, just create app_fr.arb in the same directory.
+
+![](070.3.png)
+
+---
+
+3️⃣ Add the @@locale key and the first localized pair. Note that there is a difference between the file we declared as a template in l10n.yaml and other ARB files.
+
+![](070.4.png)
+
+---
+
+Synthetic or non-synthetic?
+
+The localization files can either be generated as a synthetic package or non-synthetic, and we need to decide which one fits our need more, let’s see the difference 👇🏻
+
+---
+
+4️⃣: Synthetic
+
+Set `generate` to true in pubspec.yaml, then run the command `flutter gen-10n` at the root using the terminal. This will generate a new package under .dart_tool, this will ignore the output-dir in l10n.yaml
+
+![](070.5.png)
+
+---
+
+4️⃣: Non-synthetic
+
+We might want the localization files to be in the `output-dir`, as `.dart_tool` is often ignored.
+
+Add a new key to l10n.yaml, `synthetic-package: false`, to let Flutter knows we need a non-synthetic package. This is true by default.
+
+![](070.6.png)
+
+---
+
+Let’s explore the generated files. 🔍
+
+Open the main file, app_localizations.dart, where you can notice the key `name` from the template arb, along with the description. The AppLocalizations class is an abstract class that will be extended by every locale delegate.
+
+![](070.7.png)
+
+---
+
+In this example, we defined 2 locales, therefore we have 2 dart files for each of them. 
+
+👉🏻 app_localizations_en.dart
+👉🏻 app_localizations_es.dart
+
+As noted earlier, both extend the base class AppLocalizations.
+
+![](070.8.png)
+
+---
+
+5️⃣ Finally, we need to add it to MaterialApp as a localizationsDelaegate, and specify the supported locales. We can then use it anywhere in the app!
+
+![](070.9.png)
+
+---
+
+Extra: BuildContext extension 🧩
+
+This is not a required step, yet it’s a shorthand to make the syntax shorter.
+
+![](070.10.png)
+
+---
+
+You can find more in the official Flutter documentation 👇🏻
+
+[Internationalizing Flutter apps](https://docs.flutter.dev/development/accessibility-and-localization/internationalization#advanced-locale-definition)
+
+---
+
+### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1572962423702786050) 🙏
+
+| Previous | Next |
+| -------- | ---- |
+| [When to use `SizedBox.shrink()` to return an empty box](../0069-sizedbox-shrink/index.md) | |
