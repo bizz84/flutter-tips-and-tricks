@@ -1,6 +1,6 @@
 # Localizing Flutter apps with code gen
 
-Did you know that you can set up your Flutter app localizations in 5 minutes, using Flutter's tool generation? 🗺
+Did you know that you can set up your Flutter app localizations in 5 minutes, using the Flutter generation tool? 🗺
 
 Let’s start by adding the required packages: `flutter_localizations` and `intl`.
 
@@ -38,7 +38,9 @@ For example, to add French, just create app_fr.arb in the same directory.
 
 Synthetic or non-synthetic?
 
-The localizations files can either be generated as a synthetic package or non-synthetic, and we need to decide which one fits our need more, let’s see the difference 👇🏻
+The localizations files can either be generated as a synthetic or non-synthetic package.
+
+Let's see what this means and which one we should choose.👇🏻
 
 ---
 
@@ -54,7 +56,9 @@ Set `generate` to true in pubspec.yaml, then run the command `flutter gen-10n` a
 
 We might want the localizations files to be in the `output-dir`, as `.dart_tool` is often ignored.
 
-Add a new key to `l10n.yaml`: `synthetic-package: false`. This will let Flutter knows we need a non-synthetic package, it is true by default.
+Add a new key to `l10n.yaml`: `synthetic-package: false`.
+
+This will let Flutter know we need a non-synthetic package (it is true by default).
 
 ![](070.6.png)
 
@@ -62,7 +66,9 @@ Add a new key to `l10n.yaml`: `synthetic-package: false`. This will let Flutter 
 
 Let’s explore the generated files 🔍
 
-Open the main file, `app_localizations.dart`, we can notice the key `name` from the ARB template, along with the description. The `AppLocalizations` class is an abstract class that will be extended by every locale delegate.
+Inside the main file (`app_localizations.dart`), we can notice the key `name` from the ARB template, along with the description. 
+
+The `AppLocalizations` class is an abstract class that will be extended by every locale delegate.
 
 ![](070.7.png)
 
@@ -79,17 +85,18 @@ As noted earlier, both extend the base class `AppLocalizations`.
 
 ---
 
-5️⃣ Finally, we need to add the localizations delegate to our `MaterialApp`. We can then use it anywhere in the app!
+5️⃣ Finally, we need to add the localizations delegate to our `MaterialApp`. 
+
+We can then use it anywhere in the app!🚀
 
 ![](070.9.png)
 
 ---
 
-Extra: BuildContext extension 🧩
+Bounus: BuildContext extension 🧩
 
-This is not a required step, yet it’s a convenient way to make the syntax shorter.
-
-![](070.10.png)
+This is not required, but helps us make the syntax shorter.
+https://codewithandrea.com/articles/flutter-localization-build-context-extension/
 
 ---
 
