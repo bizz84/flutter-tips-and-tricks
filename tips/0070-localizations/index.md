@@ -1,16 +1,22 @@
 # Localizing Flutter apps with code gen
 
-Did you know that you can set up your Flutter app localizations in 5 minutes, using the Flutter generation tool? 🗺
+If your users speak another language, you’ll need to localize your Flutter app 🗺
 
-Let’s start by adding the required packages: `flutter_localizations` and `intl`.
+Here’s how to setup Flutter app localizations in just 5 minutes (using code generation).
 
-🧵
+🧵 
+
+![](070.0.png)
+
+--
+
+1️⃣  As a first step, we need to add the required packages to the pubspec.yaml file.
 
 ![](070.1.png)
 
 ---
 
-1️⃣ Create `l10n.yaml` at the root
+2️⃣ Create `l10n.yaml` at the root
 
 ✔️ `arb-dir` is the directory where Flutter will look for the localized strings
 ✔️ Dart localizations classes will be generated in the `output-dir`
@@ -20,7 +26,7 @@ Let’s start by adding the required packages: `flutter_localizations` and `intl
 
 ---
 
-2️⃣ Create the ARB files under lib
+3️⃣ Create the ARB files under lib
 
 An ARB file is an “application resource bundle” used by Flutter to generate corresponding Dart files. Each locale will have its own ARB file.
 
@@ -30,7 +36,7 @@ For example, to add French, just create app_fr.arb in the same directory.
 
 ---
 
-3️⃣ Add the `@@locale` key and the first key/value pair. Note that there is a small difference between the file we declared as a template in l10n.yaml and other ARB files.
+4️⃣ Add the `@@locale` key and the first key/value pair. Note that there is a small difference between the file we declared as a template in l10n.yaml and other ARB files.
 
 ![](070.4.png)
 
@@ -44,7 +50,7 @@ Let's see what this means and which one we should choose.👇🏻
 
 ---
 
-4️⃣: Synthetic
+5️⃣: Synthetic
 
 Set `generate` to true in pubspec.yaml, then run the command `flutter gen-10n` at the root using the terminal. This will generate a new package under .dart_tool, which ignores the `output-dir` we specified earlier in `l10n.yaml`.
 
@@ -52,7 +58,7 @@ Set `generate` to true in pubspec.yaml, then run the command `flutter gen-10n` a
 
 ---
 
-4️⃣: Non-synthetic
+5️⃣: Non-synthetic
 
 We might want the localizations files to be in the `output-dir`, as `.dart_tool` is often ignored.
 
@@ -85,7 +91,7 @@ As noted earlier, both extend the base class `AppLocalizations`.
 
 ---
 
-5️⃣ Finally, we need to add the localizations delegate to our `MaterialApp`. 
+6️⃣ Finally, we need to add the localizations delegate to our `MaterialApp`. 
 
 We can then use it anywhere in the app!🚀
 
