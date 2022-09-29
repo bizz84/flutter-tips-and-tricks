@@ -24,4 +24,4 @@ For example, if you are inside a `Row` or `Column`, you can just use the **colle
 
 | Previous | Next |
 | -------- | ---- |
-| [--enable-asserts flag in Dart / Flutter](../0068-enable-asserts-flag/index.md) | [Localizing Flutter apps with code gen](../0070-localizations/index.md) |
+| [--enable-asserts flag in Dart / Flutter](../0068-enable-asserts-flag/index.md) | [Flutter app localization in 5 min](../0070-localizations/index.md) |

@@ -14,6 +14,7 @@ A collection of all the Flutter tips & tricks I share [on Twitter](https://twitt
 
 | ID | View on GitHub (this repo)                                                                                                                                                        | Original Tweet | Link on [codewithandrea.com](https://codewithandrea.com/)                                                                            |
 | -- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| -------------- |-------------------------------------------------------------------------------------------------------|
+| 70 | [Flutter app localization in 5 min](tips/0070-localizations/index.md) | [link](https://twitter.com/biz84/status/1575401492567261184) | |
 | 69 | [When to use `SizedBox.shrink()` to return an empty box](tips/0069-sizedbox-shrink/index.md) | [link](https://twitter.com/biz84/status/1572962423702786050) | |
 | 68 | [`--enable-asserts` flag in Dart / Flutter](tips/0068-enable-asserts-flag/index.md) | [link](https://twitter.com/biz84/status/1572227339060117505) | |
 | 67 | [REST Client extension for VSCode](tips/0067-rest-client-vscode/index.md) | [link](https://twitter.com/biz84/status/1569690846051635205) | |
