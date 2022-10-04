@@ -122,4 +122,4 @@ To learn more about localization, read this guide which explains the process mor
 
 | Previous | Next |
 | -------- | ---- |
-| [When to use `SizedBox.shrink()` to return an empty box](../0069-sizedbox-shrink/index.md) | |
+| [When to use `SizedBox.shrink()` to return an empty box](../0069-sizedbox-shrink/index.md) | [Prefer `const` over `final` over `var`](../0071-const-vs-final-vs-var/index.md) |
