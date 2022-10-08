@@ -16,4 +16,4 @@ The static analyzer will help you choose wisely. 🙂
 
 | Previous | Next |
 | -------- | ---- |
-| [Flutter app localization in 5 min](../0070-localizations/index.md) | [Const vs final vs var](../0071-0071-const-vs-final-vs-var/index.md) |
+| [Flutter app localization in 5 min](../0070-localizations/index.md) | [Use type annotations for safer code](../0072-use-type-annotations-for-safer-code/index.md) |

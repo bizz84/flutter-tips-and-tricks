@@ -14,6 +14,7 @@ A collection of all the Flutter tips & tricks I share [on Twitter](https://twitt
 
 | ID | View on GitHub (this repo)                                                                                                                                                        | Original Tweet | Link on [codewithandrea.com](https://codewithandrea.com/)                                                                            |
 | -- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| -------------- |-------------------------------------------------------------------------------------------------------|
+| 72 | [Use type annotations for safer code](tips/0072-use-type-annotations-for-safer-code/index.md) | [link](https://twitter.com/biz84/status/1577928394762846208) | |
 | 71 | [Prefer `const` over `final` over `var`](tips/0071-const-vs-final-vs-var/index.md) | [link](https://twitter.com/biz84/status/1577285912253308928) | |
 | 70 | [Flutter app localization in 5 min](tips/0070-localizations/index.md) | [link](https://twitter.com/biz84/status/1575401492567261184) | |
 | 69 | [When to use `SizedBox.shrink()` to return an empty box](tips/0069-sizedbox-shrink/index.md) | [link](https://twitter.com/biz84/status/1572962423702786050) | |

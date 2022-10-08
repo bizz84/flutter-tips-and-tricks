@@ -1,4 +1,4 @@
-# Use type annoations for safer code
+# Use type annotations for safer code
 
 The Dart analyzer can infer types for fields, methods, variables, and more.
 
@@ -14,4 +14,4 @@ This way, your code won't compile if you use types incorrectly.
 
 | Previous | Next |
 | -------- | ---- |
-| [Const vs final vs var](../0071-0071-const-vs-final-vs-var/index.md) | |
+| [Const vs final vs var](../0071-const-vs-final-vs-var/index.md) | |
