@@ -14,4 +14,4 @@ This way, your code won't compile if you use types incorrectly.
 
 | Previous | Next |
 | -------- | ---- |
-| [Const vs final vs var](../0071-const-vs-final-vs-var/index.md) | |
+| [Const vs final vs var](../0071-const-vs-final-vs-var/index.md) | [Enhance readability with Typedef](../0073-enhance-readability-with-typdef/index.md) |
