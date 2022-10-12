@@ -1,4 +1,4 @@
-# Enhance readability with Typedef
+# How to define type aliases in Dart
 
 In Dart, you can use a "typedef" to define type aliases for your function and non-function types.
 
