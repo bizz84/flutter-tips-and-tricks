@@ -25,4 +25,4 @@ It's right there on the usage instructions for the package: 😅
 
 | Previous | Next |
 | -------- | ---- |
-|  |  |
+|  | [Enable sticky scroll in VSCode](../0076-sticky-scroll-vscode/index.md) |
