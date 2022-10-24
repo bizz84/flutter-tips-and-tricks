@@ -14,6 +14,7 @@ A collection of all the Flutter tips & tricks I share [on Twitter](https://twitt
 
 | ID | View on GitHub (this repo)                                                                                                                                                        | Original Tweet | Link on [codewithandrea.com](https://codewithandrea.com/)                                                                            |
 | -- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| -------------- |-------------------------------------------------------------------------------------------------------|
+| 78 | [How to nest generated files in VSCode](tips/0078-file-nesting-vscode/index.md) | [link](https://twitter.com/biz84/status/1584527886891245568) | |
 | 76 | [Enable sticky scroll in VSCode](tips/0076-sticky-scroll-vscode/index.md) | [link](https://twitter.com/biz84/status/1583083667626242049) | |
 | 75 | [Using `build_runner` in watch mode](tips/0075-build-runner-watch/index.md) | [link](https://twitter.com/biz84/status/1582759551912198144) | |
 | 73 | [How to define type aliases in Dart](tips/0073-enhance-readability-with-typdef/index.md) | [link](https://twitter.com/biz84/status/1579426576978087936) | |
