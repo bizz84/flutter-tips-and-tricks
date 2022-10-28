@@ -18,4 +18,4 @@ And you're good to go! 👇
 
 | Previous | Next |
 | -------- | ---- |
-| [Using `build_runner` in watch mode](../0075-build-runner-watch/index.md) |  |
+| [Using `build_runner` in watch mode](../0075-build-runner-watch/index.md) | [Using AnimatedContainer to animate Container properties](../0077-animatedcontainer/index.md) |
