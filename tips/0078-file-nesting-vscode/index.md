@@ -14,4 +14,4 @@ Very useful if you use build_runner, Freezed, or json_serializable in your Flutt
 
 | Previous | Next |
 | -------- | ---- |
-|  |  |
+|  | [String multiplication in Dart](../0079-string-multiplication/index.md) |
