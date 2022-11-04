@@ -17,8 +17,10 @@ A collection of all the Flutter tips & tricks I share [on Twitter](https://twitt
 | 80 | [How to use Future.wait() in Dart](tips/0080-future.wait/index.md) | [link]() | |
 | 79 | [String multiplication in Dart](tips/0079-string-multiplication/index.md) | [link](https://twitter.com/biz84/status/1587071641649020929) | |
 | 78 | [How to nest generated files in VSCode](tips/0078-file-nesting-vscode/index.md) | [link](https://twitter.com/biz84/status/1584527886891245568) | |
+| 77 | [Using AnimatedContainer to animate Container properties](tips/0077-animatedcontainer/index.md) | [link](https://twitter.com/biz84/status/1584420460288126976) | |
 | 76 | [Enable sticky scroll in VSCode](tips/0076-sticky-scroll-vscode/index.md) | [link](https://twitter.com/biz84/status/1583083667626242049) | |
 | 75 | [Using `build_runner` in watch mode](tips/0075-build-runner-watch/index.md) | [link](https://twitter.com/biz84/status/1582759551912198144) | |
+| 74 | [Functions as arguments (with tear-off)](tips/0074-pass-functions-as-arguments/index.md) | [link](https://twitter.com/biz84/status/1580940047003844611) | |
 | 73 | [How to define type aliases in Dart](tips/0073-enhance-readability-with-typdef/index.md) | [link](https://twitter.com/biz84/status/1579426576978087936) | |
 | 72 | [Use type annotations for safer code](tips/0072-use-type-annotations-for-safer-code/index.md) | [link](https://twitter.com/biz84/status/1577928394762846208) | |
 | 71 | [Prefer `const` over `final` over `var`](tips/0071-const-vs-final-vs-var/index.md) | [link](https://twitter.com/biz84/status/1577285912253308928) | |
