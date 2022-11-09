@@ -24,4 +24,4 @@ Learn more in [this YouTube video here](https://youtu.be/5AxWC49ZMzs).
 
 | Previous | Next |
 | -------- | ---- |
-| [String multiplication in Dart](../0079-string-multiplication/index.md) |  |
+| [String multiplication in Dart](../0079-string-multiplication/index.md) | [How to use the new Riverpod Generator package](../0081-future-provider-riverpod-generator/index.md) |
