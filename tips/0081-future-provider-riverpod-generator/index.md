@@ -79,4 +79,4 @@ In fact, I'm planning a whole new module about it, that will be out next week.
 
 | Previous | Next |
 | -------- | ---- |
-| [How to use Future.wait() in Dart](../0080-future.wait/index.md) |  |
+| [How to use Future.wait() in Dart](../0080-future.wait/index.md) | [Cloud Firestore collection count](../0082-cloud-firestore-collection-count/index.md) |
