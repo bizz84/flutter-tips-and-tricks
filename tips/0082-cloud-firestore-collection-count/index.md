@@ -14,4 +14,4 @@ But they return an AggregateQuerySnapshot that contains metadata (such as count)
 
 | Previous | Next |
 | -------- | ---- |
-| [How to use the new Riverpod Generator package](../0081-future-provider-riverpod-generator/index.md) |  |
+| [How to use the new Riverpod Generator package](../0081-future-provider-riverpod-generator/index.md) | [Update packages with the Version Lens VSCode extension](../0083-version-lens-vscode/index.md) |

@@ -14,6 +14,7 @@ A collection of all the Flutter tips & tricks I share [on Twitter](https://twitt
 
 | ID | View on GitHub (this repo)                                                                                                                                                        | Original Tweet | Link on [codewithandrea.com](https://codewithandrea.com/)                                                                            |
 | -- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| -------------- |-------------------------------------------------------------------------------------------------------|
+| 83 | [Update packages with the Version Lens VSCode extension](tips/0083-version-lens-vscode/index.md) | | |
 | 82 | [Cloud Firestore collection count](tips/0082-cloud-firestore-collection-count/index.md) | [link](https://twitter.com/biz84/status/1592433238915497984) |  |
 | 81 | [How to use the new Riverpod Generator package](tips/0081-future-provider-riverpod-generator/index.md) | [link](https://twitter.com/biz84/status/1590344470087671809) | [link](https://codewithandrea.com/articles/flutter-riverpod-generator/) |
 | 80 | [How to use Future.wait() in Dart](tips/0080-future.wait/index.md) | [link](https://twitter.com/biz84/status/1587334631707353091) | |
