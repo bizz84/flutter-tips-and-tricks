@@ -8,6 +8,8 @@ Very useful when you want to check if long strings are rendered correctly in you
 
 ![](079.png)
 
+---
+
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1587071641649020929) 🙏
 
 ---

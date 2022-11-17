@@ -18,6 +18,8 @@ To run heavy computations in parallel, you need multiple isolates.
 
 Learn more in [this YouTube video here](https://youtu.be/5AxWC49ZMzs).
 
+---
+
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1587071641649020929) 🙏
 
 ---

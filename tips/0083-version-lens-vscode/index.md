@@ -8,7 +8,9 @@ And you can use it to update each package with one click. 🔥
 
 ![](083.gif)
 
-### Found this useful? Show some love and share the [original tweet]() 🙏
+---
+
+### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1593220448682389506) 🙏
 
 ---
 

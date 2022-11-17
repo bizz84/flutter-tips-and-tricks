@@ -8,6 +8,7 @@ Particularly useful useful for long function arguments or complex types with gen
 
 ![](074.0.png)
 
+---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1579426576978087936) 🙏
 

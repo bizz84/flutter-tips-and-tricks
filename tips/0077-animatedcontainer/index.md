@@ -29,6 +29,7 @@ This will rebuild the widget and the AnimatedContainer will *implicitly* animate
 
 You can check the full example and play around with it on [Zapp](https://zapp.run/edit/animatedcontainer-zla06dalb06).
 
+---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1584420460288126976) 🙏
 

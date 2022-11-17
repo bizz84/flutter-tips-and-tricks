@@ -10,6 +10,7 @@ Since Dart 2.15, we can use constructor tear-offs too. 👍
 
 ![](074.0.png)
 
+---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1580940047003844611) 🙏
 

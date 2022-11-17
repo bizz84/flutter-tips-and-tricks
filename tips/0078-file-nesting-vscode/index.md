@@ -8,6 +8,8 @@ Very useful if you use build_runner, Freezed, or json_serializable in your Flutt
 
 ![](078.png)
 
+---
+
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1584527886891245568) 🙏
 
 ---

@@ -12,6 +12,8 @@ And you're good to go! 👇
 
 ![](076.gif)
 
+---
+
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1583083667626242049) 🙏
 
 ---
