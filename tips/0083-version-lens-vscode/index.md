@@ -16,4 +16,4 @@ And you can use it to update each package with one click. 🔥
 
 | Previous | Next |
 | -------- | ---- |
-| [Cloud Firestore collection count](../0082-cloud-firestore-collection-count/index.md) |  |
+| [Cloud Firestore collection count](../0082-cloud-firestore-collection-count/index.md) | [Using the query builder UI in Cloud Firestore](../0084-firestore-query-builder/index.md) |
