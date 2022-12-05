@@ -14,6 +14,7 @@ A collection of all the Flutter tips & tricks I share [on Twitter](https://twitt
 
 | ID | View on GitHub (this repo)                                                                                                                                                        | Original Tweet | Link on [codewithandrea.com](https://codewithandrea.com/)                                                                            |
 | -- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| -------------- |-------------------------------------------------------------------------------------------------------|
+| 85 | [Use ChatGPT to do custom styling in Flutter](tips/0085-chatgpt-styling/index.md) | [link](https://twitter.com/biz84/status/1599695368459018240) | |
 | 84 | [Using the query builder UI in Cloud Firestore](tips/0084-firestore-query-builder/index.md) | [link](https://twitter.com/biz84/status/1598710090617561088) | |
 | 83 | [Update packages with the Version Lens VSCode extension](tips/0083-version-lens-vscode/index.md) | [link](https://twitter.com/biz84/status/1593220448682389506) | [link](https://codewithandrea.com/articles/vscode-shortcuts-extensions-settings-flutter-development/) |
 | 82 | [Cloud Firestore collection count](tips/0082-cloud-firestore-collection-count/index.md) | [link](https://twitter.com/biz84/status/1592433238915497984) |  |

@@ -20,4 +20,4 @@ It's a nice little addition. 👌
 
 | Previous | Next |
 | -------- | ---- |
-| [Update packages with the Version Lens VSCode extension](../0083-version-lens-vscode/index.md) |  |
+| [Update packages with the Version Lens VSCode extension](../0083-version-lens-vscode/index.md) | [Use ChatGPT to do custom styling in Flutter](../0085-chatgpt-styling/index.md) |
