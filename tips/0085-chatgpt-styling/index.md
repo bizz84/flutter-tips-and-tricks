@@ -18,4 +18,4 @@ So make the most of it! 👌
 
 | Previous | Next |
 | -------- | ---- |
-| [Using the query builder UI in Cloud Firestore](../0084-firestore-query-builder/index.md) |  |
+| [Using the query builder UI in Cloud Firestore](../0084-firestore-query-builder/index.md) | [Dart code samples in the Firebase docs](../0086-firebase-docs-dart-samples/index.md) |
