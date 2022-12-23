@@ -2,7 +2,7 @@
 
 Looking for an easy way to make your Flutter apps accessible?
 
-Then use the accessibility_tools package to discover:
+Then use the [accessibility_tools](https://pub.dev/packages/accessibility_tools) package to discover:
 
 - missing semantic labels
 - small tap targets
