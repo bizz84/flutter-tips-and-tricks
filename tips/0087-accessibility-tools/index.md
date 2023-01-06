@@ -20,4 +20,4 @@ And fix them in a breeze! ✨
 
 | Previous | Next |
 | -------- | ---- |
-| [Dart code samples in the Firebase docs](../0086-firebase-docs-dart-samples/index.md) |  |
+| [Dart code samples in the Firebase docs](../0086-firebase-docs-dart-samples/index.md) | [Get a single item from a list](../0088-list-single/index.md) |
