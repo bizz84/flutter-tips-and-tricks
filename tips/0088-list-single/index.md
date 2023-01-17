@@ -17,4 +17,4 @@ Useful when you run a function that returns a list with only one item. 👍
 
 | Previous | Next |
 | -------- | ---- |
-| [The Accessibility Tools package](../0087-accessibility-tools/index.md) |  |
+| [The Accessibility Tools package](../0087-accessibility-tools/index.md) | [Using `serverTimestamp()` in Firestore](../0089-server-timestamp/index.md) |

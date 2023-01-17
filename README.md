@@ -14,6 +14,7 @@ A collection of all the Flutter tips & tricks I share [on Twitter](https://twitt
 
 | ID | View on GitHub (this repo)                                                                                                                                                        | Original Tweet | Link on [codewithandrea.com](https://codewithandrea.com/)                                                                            |
 | -- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| -------------- |-------------------------------------------------------------------------------------------------------|
+| 89 | [Using `serverTimestamp()` in Firestore](tips/0089-server-timestamp/index.md) | [link](https://twitter.com/biz84/status/1615261153462030336) | |
 | 88 | [Get a single item from a list](tips/0088-list-single/index.md) | [link](https://twitter.com/biz84/status/1611332511342231553) | | 
 | 87 | [The Accessibility Tools package](tips/0087-accessibility-tools/index.md) | [link](https://twitter.com/biz84/status/1606302122378657796) | |
 | 86 | [Dart code samples in the Firebase docs](tips/0086-firebase-docs-dart-samples/index.md) | [link](https://twitter.com/biz84/status/1602555005243985920) | |
