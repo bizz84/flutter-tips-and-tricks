@@ -1,6 +1,6 @@
 # Using `serverTimestamp()` in Firestore
 
-Sometimes it's useful add a timestamp to documents in Firestore, so they can be ordered later.
+Sometimes it's useful to add a timestamp to documents in Firestore, so they can be ordered later.
 
 For that, prefer using `serverTimestamp()`.
 
