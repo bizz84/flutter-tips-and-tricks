@@ -18,4 +18,4 @@ That's a great quality-of-life improvement. 👌
 
 | Previous | Next |
 | -------- | ---- |
-| [Using `serverTimestamp()` in Firestore](../0089-server-timestamp/index.md) |  |
+| [Using `serverTimestamp()` in Firestore](../0089-server-timestamp/index.md) | [Got linter issues? Use `dart fix --apply`](../0091-dart-fix-apply/index.md) |

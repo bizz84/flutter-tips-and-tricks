@@ -14,6 +14,7 @@ A collection of all the Flutter tips & tricks I share [on Twitter](https://twitt
 
 | ID | View on GitHub (this repo)                                                                                                                                                        | Original Tweet | Link on [codewithandrea.com](https://codewithandrea.com/)                                                                            |
 | -- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| -------------- |-------------------------------------------------------------------------------------------------------|
+| 91 | [Got linter issues? Use `dart fix --apply`](tips/0091-dart-fix-apply/index.md) | [link](#) | [link](https://codewithandrea.com/tips/dart-fix-apply/) | 
 | 90 | [Using `context.mounted` in Flutter 3.7](tips/0090-context-mounted/index.md) | [link](https://twitter.com/biz84/status/1618176831764430848) | |
 | 89 | [Using `serverTimestamp()` in Firestore](tips/0089-server-timestamp/index.md) | [link](https://twitter.com/biz84/status/1615261153462030336) | |
 | 88 | [Get a single item from a list](tips/0088-list-single/index.md) | [link](https://twitter.com/biz84/status/1611332511342231553) | | 
