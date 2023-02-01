@@ -20,10 +20,10 @@ For all the details, check the latest tip on my website:
 
 ---
 
-### Found this useful? Show some love and share the [original tweet](#) 🙏
+### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1618216903209586690) 🙏
 
 ---
 
 | Previous | Next |
 | -------- | ---- |
-| [Using `context.mounted` in Flutter 3.7](../0090-context-mounted/index.md) |  |
+| [Using `context.mounted` in Flutter 3.7](../0090-context-mounted/index.md) | [Firebase Billing and Cost Calculator](../0092-firebase-billling/index.md) |
