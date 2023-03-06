@@ -14,6 +14,7 @@ A collection of all the Flutter tips & tricks I share [on Twitter](https://twitt
 
 | ID | View on GitHub (this repo)                                                                                                                                                        | Original Tweet | Link on [codewithandrea.com](https://codewithandrea.com/)                                                                            |
 | -- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| -------------- |-------------------------------------------------------------------------------------------------------|
+| 93 | [Add a part file with Riverpod Snippets](tips/0093-riverpod-part/index.md) | [link](https://twitter.com/biz84/status/1632740671164407811) | |
 | 92 | [Firebase Billing and Cost Calculator](tips/0092-firebase-billling/index.md) | [link](https://twitter.com/biz84/status/1620753669183479813) | | 
 | 91 | [Got linter issues? Use `dart fix --apply`](tips/0091-dart-fix-apply/index.md) | [link](https://twitter.com/biz84/status/1618216903209586690) | [link](https://codewithandrea.com/tips/dart-fix-apply/) | 
 | 90 | [Using `context.mounted` in Flutter 3.7](tips/0090-context-mounted/index.md) | [link](https://twitter.com/biz84/status/1618176831764430848) | |

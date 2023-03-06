@@ -59,5 +59,5 @@ If you wanna learn Firebase, you can check it out and signup for the waitlist to
 
 | Previous | Next |
 | -------- | ---- |
-| [Got linter issues? Use `dart fix --apply`](../0091-dart-fix-apply/index.md) |  |
+| [Got linter issues? Use `dart fix --apply`](../0091-dart-fix-apply/index.md) | [Add a part file with Riverpod Snippets](../0093-riverpod-part/index.md) |
 
