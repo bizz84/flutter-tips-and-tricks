@@ -18,5 +18,5 @@ Nice little time-saver. 🙂
 
 | Previous | Next |
 | -------- | ---- |
-| [Firebase Billing and Cost Calculator](../0092-firebase-billling/index.md) |  |
+| [Firebase Billing and Cost Calculator](../0092-firebase-billling/index.md) | [Fix missing `ProviderScope` error with Riverpod Lint](../0094-add-provider-scope/index.md) |
 
