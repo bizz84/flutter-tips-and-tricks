@@ -19,5 +19,5 @@ More tips (and a new article) are coming soon. 😉
 
 | Previous | Next |
 | -------- | ---- |
-| [Add a part file with Riverpod Snippets](../0093-riverpod-part/index.md) |  |
+| [Add a part file with Riverpod Snippets](../0093-riverpod-part/index.md) | [StreamProvider with RiverpodGenerator](../0095-stream-provider-generator/index.md) |
 
