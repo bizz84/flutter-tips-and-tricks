@@ -14,6 +14,8 @@ A collection of all the Flutter tips & tricks I share [on Twitter](https://twitt
 
 | ID | View on GitHub (this repo)                                                                                                                                                        | Original Tweet | Link on [codewithandrea.com](https://codewithandrea.com/)                                                                            |
 | -- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| -------------- |-------------------------------------------------------------------------------------------------------|
+| 98 | [Pagination with FirestoreListView](tips/0098-firestore-list-view/index.md) | [link](https://twitter.com/biz84/status/1638904695627583492) | |
+| 97 | [Riverpod Notifier with build arguments](tips/0097-riverpod-notifier-build-argument/index.md) | [link](https://twitter.com/biz84/status/1638188503476457474) | | 
 | 96 | [Cloud Firestore - Cache Size](tips/0096-cloud-firestore-cache-size/index.md) | [link](https://twitter.com/biz84/status/1633800807492534272) | |
 | 95 | [StreamProvider with Riverpod Generator](tips/0095-stream-provider-generator/index.md) | [link](https://twitter.com/biz84/status/1633438421422055424) | |
 | 94 | [Fix missing `ProviderScope` error with Riverpod Lint](tips/0094-add-provider-scope/index.md) | [link](https://twitter.com/biz84/status/1633090622033625088) | |

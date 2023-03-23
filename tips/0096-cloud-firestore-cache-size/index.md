@@ -21,5 +21,5 @@ Here's how. 👇
 
 | Previous | Next |
 | -------- | ---- |
-| [StreamProvider with Riverpod Generator](../0095-stream-provider-generator/index.md) |  |
+| [StreamProvider with Riverpod Generator](../0095-stream-provider-generator/index.md) | [Riverpod Notifier with build arguments](../0097-riverpod-notifier-build-argument/index.md) |
 
