@@ -52,4 +52,4 @@ For all the details, check the course page. 👇
 
 | Previous | Next |
 | -------- | ---- |
-| [Riverpod Notifier with build arguments](../0097-riverpod-notifier-build-argument/index.md) |  |
+| [Riverpod Notifier with build arguments](../0097-riverpod-notifier-build-argument/index.md) | [Firestore OR queries 🔥](../0099-firestore-or-query/index.md) |
