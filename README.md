@@ -14,6 +14,7 @@ A collection of all the Flutter tips & tricks I share [on Twitter](https://twitt
 
 | ID | View on GitHub (this repo)                                                                                                                                                        | Original Tweet | Link on [codewithandrea.com](https://codewithandrea.com/)                                                                            |
 | -- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| -------------- |-------------------------------------------------------------------------------------------------------|
+| 100 | [Firestore Security Rules Playground](tips/0100-security-rules-playground/index.md) | [link](https://twitter.com/biz84/status/1651212776113618944) | |
 | 99 | [Firestore OR queries 🔥](tips/0099-firestore-or-query/index.md) | [link](https://twitter.com/biz84/status/1650493598465421315) |
 | 98 | [Pagination with FirestoreListView](tips/0098-firestore-list-view/index.md) | [link](https://twitter.com/biz84/status/1638904695627583492) | |
 | 97 | [Riverpod Notifier with build arguments](tips/0097-riverpod-notifier-build-argument/index.md) | [link](https://twitter.com/biz84/status/1638188503476457474) | | 

@@ -16,4 +16,4 @@ This lets you write conditions using OR & AND operators. 💡
 
 | Previous | Next |
 | -------- | ---- |
-| [Pagination with FirestoreListView](../0098-firestore-list-view/index.md) |  |
+| [Pagination with FirestoreListView](../0098-firestore-list-view/index.md) | [Firestore Security Rules Playground](../0100-security-rules-playground/index.md) |
