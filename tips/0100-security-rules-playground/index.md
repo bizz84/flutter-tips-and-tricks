@@ -81,4 +81,4 @@ And if you want to go deeper with Firebase, check out my latest course. 👇
 
 | Previous | Next |
 | -------- | ---- |
-| [Firestore OR queries 🔥](../0099-firestore-or-query/index.md) |  |
+| [Firestore OR queries 🔥](../0099-firestore-or-query/index.md) | [Backend-agnostic Flutter apps](../0101-backend-agnostic/index.md) |
