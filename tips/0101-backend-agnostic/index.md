@@ -28,7 +28,7 @@ This lets you encapsulate all the data access logic (serialization, networking) 
 
 And the rest of the app can talk to the *public interface* of that repository.
 
-https://codewithandrea.com/articles/flutter-repository-pattern/
+- [Flutter App Architecture: The Repository Pattern](https://codewithandrea.com/articles/flutter-repository-pattern/)
 
 ---
 
@@ -50,7 +50,7 @@ The repository pattern has several advantages:
 
 ---
 
-This means that any UI code (or provider) that calls the jobsQuery() method will also depend on cloud_firestore.
+This means that any UI code (or provider) that calls the `jobsQuery()` method will also depend on cloud_firestore.
 
 ![](101.4.png)
 
@@ -58,9 +58,9 @@ This means that any UI code (or provider) that calls the jobsQuery() method will
 
 So how can we prevent "leaky" abstractions?
 
-The only way is to ensure that the *public* interface of the repository does not expose any Firebase-specific APIs.
+The only way is to ensure that the **public** interface of the repository does not expose any Firebase-specific APIs.
 
-Using the same example, this can be done by returning a Stream rather than Query.
+Using the same example, this can be done by returning a `Stream<List<Job>>` rather than a `Query<Job>`.
 
 ![](101.5.png)
 
@@ -68,9 +68,9 @@ Using the same example, this can be done by returning a Stream rather than Query
 
 But is that worthwhile?
 
-After all, working with Query makes it easier to support pagination (with the firebase_ui_firestore package).
+After all, working with `Query` makes it easier to support pagination (with the [firebase_ui_firestore](https://pub.dev/packages/firebase_ui_firestore) package).
 
-But if we work with Streams directly, we have to do more work and implement pagination ourselves (not an easy task).
+But if we work with streams directly, we have to do more work and implement pagination ourselves (not an easy task).
 
 ---
 
@@ -79,7 +79,7 @@ So when considering which abstractions to add, always weigh the pros and cons:
 Moving the data-access code into a repository?
 ✅ Worth it (more testable and maintainable code) 
 
-Replace Query<Job> with Stream<List<Job>?
+Replace `Query<Job>` with `Stream<List<Job>`?
 ❌ Maybe not (more work to implement pagination) 
 
 ---
@@ -103,7 +103,7 @@ Happy coding!
 
 ---
 
-### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1651212776113618944) 🙏
+### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1653050251262009355) 🙏
 
 ---
 

@@ -22,10 +22,10 @@ To learn about different techniques and best practices for storing API keys in F
 
 ---
 
-### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1651212776113618944) 🙏
+### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1653276293318729737) 🙏
 
 ---
 
 | Previous | Next |
 | -------- | ---- |
-| [Backend-agnostic Flutter apps](../0101-backend-agnostic/index.md) | [[core/duplicate-app] A Firebase App named "[DEFAULT]" already exists](../0103-firebase-duplicate-app/index.md) |
+| [Backend-agnostic Flutter apps](../0101-backend-agnostic/index.md) | [Firebase Auth flow in 5 minutes](../0103-simple-auth-firebase-ui/index.md) |

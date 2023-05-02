@@ -8,7 +8,7 @@ The first time it happened to me, it took me hours to figure it out. 😤
 
 But as it turns out, there's an easy solution. 👇
 
-![](103.1.png)
+![](104.1.png)
 
 ---
 
@@ -40,7 +40,7 @@ If you find yourself in the same situation, the easiest solution is to specify a
 
 And give it the Firebase project ID as an argument. 👇
 
-![](103.2.png)
+![](104.2.png)
 
 ---
 

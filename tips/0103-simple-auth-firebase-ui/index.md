@@ -6,7 +6,7 @@ Let me show you how - using the Firebase UI and GoRouter packages.
 
 Thread. 🧵
 
-![](104.1.png)
+![](103.1.png)
 
 ---
 
@@ -14,7 +14,7 @@ First of all, we need to add Firebase to our project.
 
 This is easily done with the FlutterFire CLI and the standard Dart initialization code.
 
-![](104.2.png)
+![](103.2.png)
 
 ---
 
@@ -22,9 +22,9 @@ Next up, let's create a GoRouter instance with two routes: sign-in and profile.
 
 Tip: we can also add an enum that we'll use to navigate by name (rather than by path).
 
-Note that the CustomSignInScreen and CustomProfileScreen widgets don't exist yet. We'll add them shortly.
+Note that the `CustomSignInScreen` and `CustomProfileScreen` widgets don't exist yet. We'll add them shortly.
 
-![](104.3.png)
+![](103.3.png)
 
 ---
 
@@ -34,29 +34,29 @@ Note that we use the `MaterialApp.router` API, passing the `goRouter` object we 
 
 For non-trivial apps, we'll most likely want to store the goRouter inside a provider, rather than as a global variable.
 
-![](104.4.png)
+![](103.4.png)
 
 ---
 
 Widget time!
 
-Let's create a CustomSignInScreen that we'll use to show the email & password sign-in flow.
+Let's create a `CustomSignInScreen` that we'll use to show the email & password sign-in flow.
 
 If you want more than one sign-in provider, you can add it to the `kAuthProviders` list.
 
-Also note the use of actions to navigate to the profile page.
+Also, note the use of actions to navigate to the profile page.
 
-![](104.5.png)
+![](103.5.png)
 
 ---
 
-Let's add the CustomProfileScreen as well!
+Let's add the `CustomProfileScreen` as well!
 
 This is quite easy and just a case of using the built-in ProfileScreen widget.
 
 In this case, we also use an action to navigate back to the sign-in page.
 
-![](104.6.png)
+![](103.6.png)
 
 ---
 
@@ -75,7 +75,7 @@ To fix that, we can add a GoRouter redirect to ensure that:
 
 And if we hot restart now, everything works as intended.
 
-![](104.7.png)
+![](103.7.png)
 
 ---
 
@@ -97,28 +97,19 @@ For a start, using actions for the navigation logic is not very reactive.
 
 To address that, we could remove all the actions and rely on `GoRouter.refreshListenable` instead.
 
-![](104.8.png)
+![](103.8.png)
 
 ---
 
-Also note the usage of singletons (FirebaseAuth.instance) and global variables (goRouter, kAuthProviders).
+Also note the usage of singletons (`FirebaseAuth.instance`) and global variables (`goRouter`, `kAuthProviders`).
 
 We could put all these inside providers using the Riverpod package. 👌
 
-![](104.9.png)
+![](103.9.png)
 
 ---
 
-Did you enjoy this thread and want more?
-
-- then follow me: @biz84
-- and retweet this so others can learn too!
-
-{{first-tweet}}
-
----
-
-And if you want to go deeper with Flutter & Firebase, consider taking my new course.
+If you want to go deeper with Flutter & Firebase, consider taking my new course.
 
 Inside, you'll find many practical tips and best practices that will help you write maintainable apps.
 
@@ -128,12 +119,11 @@ Check it out here. 👇
 
 ---
 
----
-
-### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1651212776113618944) 🙏
+### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1653384017092263945) 🙏
 
 ---
 
 | Previous | Next |
 | -------- | ---- |
-| [Backend-agnostic Flutter apps](../0101-backend-agnostic/index.md) | [[core/duplicate-app] A Firebase App named "[DEFAULT]" already exists](../0103-firebase-duplicate-app/index.md) |
+| [Backend-agnostic Flutter apps](../0101-backend-agnostic/index.md) |  |
+

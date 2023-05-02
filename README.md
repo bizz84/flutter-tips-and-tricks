@@ -14,9 +14,9 @@ A collection of all the Flutter tips & tricks I share [on Twitter](https://twitt
 
 | ID | View on GitHub (this repo)                                                                                                                                                        | Original Tweet | Link on [codewithandrea.com](https://codewithandrea.com/)                                                                            |
 | -- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| -------------- |-------------------------------------------------------------------------------------------------------|
-| 103 | [[core/duplicate-app] A Firebase App named "[DEFAULT]" already exists](tips/0103-firebase-duplicate-app/index.md) |  |
-| 102 | [Storing API keys in a JSON file](tips/0102-dart-define-from-file/index.md) |  |
-| 101 | [Backend-agnostic Flutter apps](tips/0101-backend-agnostic/index.md) |  |
+| 103 | [Firebase Auth flow in 5 minutes](tips/0103-simple-auth-firebase-ui/index.md) | [link](https://twitter.com/biz84/status/1653384017092263945) |
+| 102 | [Storing API keys in a JSON file](tips/0102-dart-define-from-file/index.md) | [link](https://twitter.com/biz84/status/1653276293318729737) |
+| 101 | [Backend-agnostic Flutter apps](tips/0101-backend-agnostic/index.md) | [link](https://twitter.com/biz84/status/1653050251262009355) |
 | 100 | [Firestore Security Rules Playground](tips/0100-security-rules-playground/index.md) | [link](https://twitter.com/biz84/status/1651212776113618944) | |
 | 99 | [Firestore OR queries 🔥](tips/0099-firestore-or-query/index.md) | [link](https://twitter.com/biz84/status/1650493598465421315) |
 | 98 | [Pagination with FirestoreListView](tips/0098-firestore-list-view/index.md) | [link](https://twitter.com/biz84/status/1638904695627583492) | |
