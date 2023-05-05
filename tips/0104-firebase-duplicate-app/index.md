@@ -2,7 +2,9 @@
 
 Have you ever encountered this error when running your Flutter app on iOS or macOS?
 
+```
 [core/duplicate-app] A Firebase App named "[DEFAULT]" already exists
+```
 
 The first time it happened to me, it took me hours to figure it out. 😤
 
@@ -36,7 +38,7 @@ FYI, here's where to find the iOS bundle ID. 👇
 
 ---
 
-If you find yourself in the same situation, the easiest solution is to specify a "name" parameter when calling Firebase.initializeApp().
+If you find yourself in the same situation, the easiest solution is to specify a "name" parameter when calling `Firebase.initializeApp()`.
 
 And give it the Firebase project ID as an argument. 👇
 
@@ -52,7 +54,7 @@ I just wanted to share this as it may save you a few hours of frustration. 🥲
 
 ---
 
-If you wanna dive deeper with Firebase, check out my new course, where you'll build a full-stack eCommerce app and learn about all the most important Firebase features. 👇
+If you wanna dive deeper into Firebase, check out my new course, where you'll build a full-stack eCommerce app and learn about all the most important Firebase features. 👇
 
 https://codewithandrea.com/courses/flutter-firebase-masterclass/
 
@@ -64,4 +66,4 @@ https://codewithandrea.com/courses/flutter-firebase-masterclass/
 
 | Previous | Next |
 | -------- | ---- |
-| [Storing API keys in a JSON file](../0102-dart-define-from-file/index.md) |  |
+| [Firebase Auth flow in 5 minutes](../0103-simple-auth-firebase-ui/index.md) | |

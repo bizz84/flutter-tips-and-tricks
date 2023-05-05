@@ -125,5 +125,4 @@ Check it out here. 👇
 
 | Previous | Next |
 | -------- | ---- |
-| [Backend-agnostic Flutter apps](../0101-backend-agnostic/index.md) |  |
-
+| [Storing API keys in a JSON file](../0102-dart-define-from-file/index.md) | [[core/duplicate-app] A Firebase App named "[DEFAULT]" already exists](../0104-firebase-duplicate-app/index.md) |
