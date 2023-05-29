@@ -56,7 +56,7 @@ I just wanted to share this as it may save you a few hours of frustration. 🥲
 
 If you wanna dive deeper into Firebase, check out my new course, where you'll build a full-stack eCommerce app and learn about all the most important Firebase features. 👇
 
-https://codewithandrea.com/courses/flutter-firebase-masterclass/
+- [Flutter & Firebase Masterclass](https://codewithandrea.com/courses/flutter-firebase-masterclass/)
 
 ---
 
@@ -66,4 +66,4 @@ https://codewithandrea.com/courses/flutter-firebase-masterclass/
 
 | Previous | Next |
 | -------- | ---- |
-| [Firebase Auth flow in 5 minutes](../0103-simple-auth-firebase-ui/index.md) | |
+| [Firebase Auth flow in 5 minutes](../0103-simple-auth-firebase-ui/index.md) | [Creating an empty Flutter project](../0105-flutter-create-empty/index.md) |
