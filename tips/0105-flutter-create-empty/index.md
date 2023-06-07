@@ -21,7 +21,7 @@ This will generate minimal `pubspec.yaml` and `main.dart` files (without any com
 
 | Previous | Next |
 | -------- | ---- |
-| [[core/duplicate-app] A Firebase App named "[DEFAULT]" already exists](../0104-firebase-duplicate-app/index.md) | |
+| [[core/duplicate-app] A Firebase App named "[DEFAULT]" already exists](../0104-firebase-duplicate-app/index.md) | [Return without `async`/`await`](../0106-return-no-await/index.md) |
 
 
 
