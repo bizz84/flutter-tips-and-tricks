@@ -14,6 +14,7 @@ A collection of all the Flutter tips & tricks I share [on Twitter](https://twitt
 
 | ID | View on GitHub (this repo)                                                                                                                                                        | Original Tweet | Link on [codewithandrea.com](https://codewithandrea.com/)                                                                            |
 | -- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| -------------- |-------------------------------------------------------------------------------------------------------|
+| 107 | [Happy Birthday with records in Dart 3](tips/0107-happy-birthday-records-dart-3/index.md) | [link](https://twitter.com/biz84/status/1669670842282721280) | |
 | 106 | [Return without `async`/`await`](tips/0106-return-no-await/index.md) | [link](https://twitter.com/biz84/status/1666456993048002562) | |
 | 105 | [Creating an empty Flutter project](tips/0105-flutter-create-empty/index.md) | [link](https://twitter.com/biz84/status/1663204152032231425) |
 | 104 | [[core/duplicate-app] A Firebase App named "[DEFAULT]" already exists](tips/0104-firebase-duplicate-app/index.md) | [link](https://twitter.com/biz84/status/1654444312170512385) |  |

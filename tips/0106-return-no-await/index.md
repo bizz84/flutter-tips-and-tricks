@@ -24,5 +24,5 @@ But you can still omit the `await` on the return statement at the end.
 
 | Previous | Next |
 | -------- | ---- |
-| [Creating an empty Flutter project](../0105-flutter-create-empty/index.md) | |
+| [Creating an empty Flutter project](../0105-flutter-create-empty/index.md) | [Happy Birthday with records in Dart 3](../0107-happy-birthday-records-dart-3/index.md) |
 
