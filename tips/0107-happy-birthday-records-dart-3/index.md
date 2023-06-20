@@ -14,4 +14,4 @@ Can you guess the output of this program? 😉
 
 | Previous | Next |
 | -------- | ---- |
-| [Return without `async`/`await`](../0106-return-no-await/index.md) | |
+| [Return without `async`/`await`](../0106-return-no-await/index.md) | [MediaQuery as InheritedModel](../0108-media-query-inherited-model/index.md) |
