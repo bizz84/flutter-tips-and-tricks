@@ -10,6 +10,12 @@ But there's a better way that lets you depend only on the properties you care ab
 
 ---
 
+More info on this PR, which was merged and made it to the Flutter 3.10 stable release:
+
+- [MediaQuery as InheritedModel](https://github.com/flutter/flutter/pull/114459)
+
+---
+
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1671085759858606081) 🙏
 
 ---
