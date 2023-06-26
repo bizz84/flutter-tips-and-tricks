@@ -22,4 +22,4 @@ More info on this PR, which was merged and made it to the Flutter 3.10 stable re
 
 | Previous | Next |
 | -------- | ---- |
-| [Happy Birthday with records in Dart 3](../0107-happy-birthday-records-dart-3/index.md) | |
+| [Happy Birthday with records in Dart 3](../0107-happy-birthday-records-dart-3/index.md) | [Record Equality in Dart 3](../0109-records-equality/index.md) |
