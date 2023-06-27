@@ -14,6 +14,7 @@ A collection of all the Flutter tips & tricks I share [on Twitter](https://twitt
 
 | ID | View on GitHub (this repo)                                                                                                                                                        | Original Tweet | Link on [codewithandrea.com](https://codewithandrea.com/)                                                                            |
 | -- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| -------------- |-------------------------------------------------------------------------------------------------------|
+| 110 | [Getting a `Future` from a `FutureProvider` with Riverpod](tips/0110-riverpod-watch-future-provider/index.md) | [link](https://twitter.com/biz84/status/1673702960046514176) | |
 | 109 | [Record Equality in Dart 3](tips/0109-records-equality/index.md) | [link](https://twitter.com/biz84/status/1673360231579959297) | |
 | 108 | [MediaQuery as InheritedModel](tips/0108-media-query-inherited-model/index.md) | [link](https://twitter.com/biz84/status/1671085759858606081) | |
 | 107 | [Happy Birthday with records in Dart 3](tips/0107-happy-birthday-records-dart-3/index.md) | [link](https://twitter.com/biz84/status/1669670842282721280) | |

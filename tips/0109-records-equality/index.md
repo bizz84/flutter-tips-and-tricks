@@ -26,4 +26,4 @@ P.S. Don't overuse records: classes are still the way to go if you need to store
 
 | Previous | Next |
 | -------- | ---- |
-| [MediaQuery as InheritedModel](../0108-media-query-inherited-model/index.md) | |
+| [MediaQuery as InheritedModel](../0108-media-query-inherited-model/index.md) | [Getting a `Future` from a `FutureProvider` with Riverpod](../0110-riverpod-watch-future-provider/index.md) |
