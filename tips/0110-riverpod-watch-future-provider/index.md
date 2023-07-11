@@ -18,4 +18,4 @@ Works with `StreamProvider` and `Stream` too. 👌
 
 | Previous | Next |
 | -------- | ---- |
-| [Record Equality in Dart 3](../0109-records-equality/index.md) | |
+| [Record Equality in Dart 3](../0109-records-equality/index.md) | [Destructuring Lists in Dart](../0111-destructure-lists-dart/index.md) |
