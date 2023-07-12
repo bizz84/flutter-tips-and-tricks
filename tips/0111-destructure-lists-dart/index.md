@@ -32,4 +32,4 @@ Check the slides for many more tips about this topic:
 
 | Previous | Next |
 | -------- | ---- |
-| [Getting a `Future` from a `FutureProvider` with Riverpod](../0110-riverpod-watch-future-provider/index.md) | |
+| [Getting a `Future` from a `FutureProvider` with Riverpod](../0110-riverpod-watch-future-provider/index.md) | [Switch Matrix in Dart 3](../0112-switch-matrix/index.md) |
