@@ -24,4 +24,4 @@ Slides here:
 
 | Previous | Next |
 | -------- | ---- |
-| [Destructuring Lists in Dart](../0111-destructure-lists-dart/index.md) | |
+| [Destructuring Lists in Dart](../0111-destructure-lists-dart/index.md) | [Conditional JSON parsing in Dart 3](../0113-conditional-json-parsing/index.md) |
