@@ -37,4 +37,4 @@ This way, you can leverage pattern matching to restructure the properties you ne
 
 | Previous | Next |
 | -------- | ---- |
-| [Switch Matrix in Dart 3](../0112-switch-matrix/index.md) | |
+| [Switch Matrix in Dart 3](../0112-switch-matrix/index.md) | [6 steps to minimize your Firebase Bill](../0114-minimize-firebase-bill/index.md) |
