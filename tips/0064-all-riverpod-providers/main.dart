@@ -68,7 +68,7 @@ final weatherFutureProvider = FutureProvider.autoDispose.family<Weather, String>
 });
 
 Widget build(BuildContext context, WidgetRef ref) {
-  AsyncValue<Weather> config = ref.watch(weatherFutureProvider);
+  AsyncValue<Weather> weather = ref.watch(weatherFutureProvider('London');
   return config.when(
     loading: () => const CircularProgressIndicator(),
     error: (err, stack) => Text('Error: $err'),
