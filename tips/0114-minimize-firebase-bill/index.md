@@ -114,4 +114,4 @@ Should I write a more detailed article about it? Let me know in the comments bel
 
 | Previous | Next |
 | -------- | ---- |
-| [Conditional JSON parsing in Dart 3](../0113-conditional-json-parsing/index.md) | |
+| [Conditional JSON parsing in Dart 3](../0113-conditional-json-parsing/index.md) | [Find the Invalid Switch Expression 🧐](../0115-switch-newline/index.md) |
