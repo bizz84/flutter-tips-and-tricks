@@ -14,6 +14,7 @@ A collection of all the Flutter tips & tricks I share [on Twitter](https://twitt
 
 | ID | View on GitHub (this repo)                                                                                                                                                        | Original Tweet | Link on [codewithandrea.com](https://codewithandrea.com/)                                                                            |
 | -- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| -------------- |-------------------------------------------------------------------------------------------------------|
+| 116 | [Measuring execution time in Dart](tips/0116-measure-time/index.md) | [link](https://twitter.com/biz84/status/1696517265985093781) | |
 | 115 | [Find the Invalid Switch Expression 🧐](tips/0115-switch-newline/index.md) | [link](https://twitter.com/biz84/status/1694675308371210339) | |
 | 114 | [6 steps to minimize your Firebase Bill](tips/0114-minimize-firebase-bill/index.md) | [link](https://twitter.com/biz84/status/1681324942363619328) | |
 | 113 | [Conditional JSON parsing in Dart 3](tips/0113-conditional-json-parsing/index.md) | [link](https://twitter.com/biz84/status/1679472787495215106) | |

@@ -28,4 +28,4 @@ To solve this:
 
 | Previous | Next |
 | -------- | ---- |
-| [6 steps to minimize your Firebase Bill](../0114-minimize-firebase-bill/index.md) | |
+| [6 steps to minimize your Firebase Bill](../0114-minimize-firebase-bill/index.md) | [Measuring execution time in Dart](../0116-measure-time/index.md) |
