@@ -18,4 +18,4 @@ But global MUTABLE state IS dangerous (hard to know who changed it and which wid
 
 | Previous | Next |
 | -------- | ---- |
-| [Measuring execution time in Dart](../0116-measure-time/index.md) |  |
+| [Measuring execution time in Dart](../0116-measure-time/index.md) | [Inspecting Network Requests (DevTools)](../0118-network-view-devtools/index.md) |

@@ -14,6 +14,7 @@ A collection of all the Flutter tips & tricks I share [on Twitter](https://twitt
 
 | ID | View on GitHub (this repo)                                                                                                                                                        | Original Tweet | Link on [codewithandrea.com](https://codewithandrea.com/)                                                                            |
 | -- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| -------------- |-------------------------------------------------------------------------------------------------------|
+| 118 | [How to Inspect Network Requests with the Flutter DevTools](tips/0118-network-view-devtools/index.md) | [link](https://twitter.com/biz84/status/1699055590495203688) | |
 | 117 | [Are global variables bad?](tips/0117-are-global-variables-bad/index.md) | [link](https://twitter.com/biz84/status/1697598442686554500) | |
 | 116 | [Measuring execution time in Dart](tips/0116-measure-time/index.md) | [link](https://twitter.com/biz84/status/1696517265985093781) | |
 | 115 | [Find the Invalid Switch Expression 🧐](tips/0115-switch-newline/index.md) | [link](https://twitter.com/biz84/status/1694675308371210339) | |
