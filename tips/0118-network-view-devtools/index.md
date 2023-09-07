@@ -24,4 +24,4 @@ To learn more, I recommend reading this article:
 
 | Previous | Next |
 | -------- | ---- |
-| [Are global variables bad?](../0117-are-global-variables-bad/index.md) |  |
+| [Are global variables bad?](../0117-are-global-variables-bad/index.md) | [VSCode Quick Fix: Create constructor for final fields, required named](../0119-constructor-required-named-vsassist/index.md) |
