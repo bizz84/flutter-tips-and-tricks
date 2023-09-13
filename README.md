@@ -14,6 +14,7 @@ A collection of all the Flutter tips & tricks I share [on Twitter](https://twitt
 
 | ID | View on GitHub (this repo)                                                                                                                                                        | Original Tweet | Link on [codewithandrea.com](https://codewithandrea.com/)                                                                            |
 | -- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| -------------- |-------------------------------------------------------------------------------------------------------|
+| 120 | [Flutter web: redirect to an external URL](tips/0120-set-html-window-url/index.md) | [link](https://twitter.com/biz84/status/1701977300131049540) | |
 | 119 | [VSCode Quick Fix: Create constructor for final fields, required named](tips/0119-constructor-required-named-vsassist/index.md) | [link](https://twitter.com/biz84/status/1699752300170895365) |
 | 118 | [How to Inspect Network Requests with the Flutter DevTools](tips/0118-network-view-devtools/index.md) | [link](https://twitter.com/biz84/status/1699055590495203688) | |
 | 117 | [Are global variables bad?](tips/0117-are-global-variables-bad/index.md) | [link](https://twitter.com/biz84/status/1697598442686554500) | |

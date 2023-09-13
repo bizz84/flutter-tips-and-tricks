@@ -16,4 +16,4 @@ Great time saver! I love it already! ❤️
 
 | Previous | Next |
 | -------- | ---- |
-| [How to Inspect Network Requests with the Flutter DevTools](../0118-network-view-devtools/index.md) |  |
+| [How to Inspect Network Requests with the Flutter DevTools](../0118-network-view-devtools/index.md) | [Flutter web: redirect to an external URL](../0120-set-html-window-url/index.md) |
