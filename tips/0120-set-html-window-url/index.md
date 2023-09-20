@@ -25,5 +25,5 @@ More info here: 👇
 
 | Previous | Next |
 | -------- | ---- |
-| [VSCode Quick Fix: Create constructor for final fields, required named](../0119-constructor-required-named-vsassist/index.md) |  |
+| [VSCode Quick Fix: Create constructor for final fields, required named](../0119-constructor-required-named-vsassist/index.md) | [Fetching vs Mutating data with Riverpod](../0121-riverpod-fetch-vs-mutate-data/index.md) |
 

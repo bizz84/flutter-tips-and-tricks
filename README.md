@@ -14,6 +14,7 @@ A collection of all the Flutter tips & tricks I share [on Twitter](https://twitt
 
 | ID | View on GitHub (this repo)                                                                                                                                                        | Original Tweet | Link on [codewithandrea.com](https://codewithandrea.com/)                                                                            |
 | -- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| -------------- |-------------------------------------------------------------------------------------------------------|
+| 121 | [Fetching vs Mutating data with Riverpod](tips/0121-riverpod-fetch-vs-mutate-data/index.md) | [link](https://twitter.com/biz84/status/1704486985925099958) | |
 | 120 | [Flutter web: redirect to an external URL](tips/0120-set-html-window-url/index.md) | [link](https://twitter.com/biz84/status/1701977300131049540) | |
 | 119 | [VSCode Quick Fix: Create constructor for final fields, required named](tips/0119-constructor-required-named-vsassist/index.md) | [link](https://twitter.com/biz84/status/1699752300170895365) |
 | 118 | [How to Inspect Network Requests with the Flutter DevTools](tips/0118-network-view-devtools/index.md) | [link](https://twitter.com/biz84/status/1699055590495203688) | |
