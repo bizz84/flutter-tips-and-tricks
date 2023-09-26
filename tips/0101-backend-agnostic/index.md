@@ -38,14 +38,6 @@ The repository pattern has several advantages:
 - your code becomes more testable (you can use a mock repository in your tests)
 - migrating to a different backend becomes easier
 
----
-
-The repository pattern has several advantages:
-
-- if the API changes, you only need to update the code in the repository
-- your code becomes more testable (you can use a mock repository in your tests)
-- migrating to a different backend becomes easier
-
 ![](101.3.png)
 
 ---
