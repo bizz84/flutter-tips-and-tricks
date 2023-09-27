@@ -1,6 +1,6 @@
 # Flutter Tips & Tricks
 
-A collection of all the Flutter tips & tricks I share [on Twitter](https://twitter.com/biz84). If you find this useful, give it a star! 🌟
+A collection of all the Flutter tips & tricks I share on [Twitter](https://twitter.com/biz84) and [LinkedIn](https://www.linkedin.com/in/andreabizzotto/recent-activity/all/). If you find this useful, give it a star! 🌟
 
 ![](code-with-andrea-banner.png)
 
@@ -10,7 +10,7 @@ A collection of all the Flutter tips & tricks I share [on Twitter](https://twitt
 
 ## Full List
 
-> I'm adding new tips regularly (newest at the top 👇). If you have a suggestion, send me a DM [on Twitter](https://twitter.com/biz84)!
+> I'm adding new tips regularly (newest at the top 👇). For longer-form content, see my [notes below](#notes-list).
 
 | ID | View on GitHub (this repo)                                                                                                                                                        | Twitter Post   | LinkedIn Post | Link on [codewithandrea.com](https://codewithandrea.com/)                                                                            |
 | -- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| -------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
