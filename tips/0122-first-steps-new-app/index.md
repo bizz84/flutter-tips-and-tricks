@@ -39,5 +39,12 @@ This process has worked incredibly well for me on various occasions:
 
 A huge bonus of this approach is that the entire project history, issues, PRs, and discussions will be on GitHub, and you can reference them at any time.
 
-What do you think? Do you follow a similar approach? Would you like me to expand more on specific parts of the process? Let me know in the comments. 👇
+---
 
+### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1706730796243939717) 🙏
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [Fetching vs Mutating data with Riverpod](../0121-riverpod-fetch-vs-mutate-data/index.md) | [Top reasons for using a realtime backend](../0123-user-realtime-backend/index.md) |

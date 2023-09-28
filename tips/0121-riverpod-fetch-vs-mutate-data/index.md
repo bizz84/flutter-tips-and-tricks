@@ -17,5 +17,6 @@ Riverpod can handle both, as long as you choose the correct class or provider:
 
 | Previous | Next |
 | -------- | ---- |
-| [Flutter web: redirect to an external URL](../0120-set-html-window-url/index.md) | [Top reasons for using a realtime backend](../0122-user-realtime-backend/index.md) |
+| [Flutter web: redirect to an external URL](../0120-set-html-window-url/index.md) | [First steps to tackle when starting a new mobile app](../0122-first-steps-new-app/index.md) |
+
 

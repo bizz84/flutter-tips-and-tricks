@@ -10,11 +10,12 @@ A collection of all the Flutter tips & tricks I share on [Twitter](https://twitt
 
 ## Full List
 
-> I'm adding new tips regularly (newest at the top 👇). For longer-form content, see my [notes below](#notes-list).
+> I'm adding new tips regularly (newest at the top 👇).
 
 | ID | View on GitHub (this repo)                                                                                                                                                        | Twitter Post   | LinkedIn Post | Link on [codewithandrea.com](https://codewithandrea.com/)                                                                            |
 | -- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| -------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 122 | [Top reasons for using a realtime backend](tips/0122-user-realtime-backend/index.md) | [link](https://twitter.com/biz84/status/1707026963469062651) | [link](https://www.linkedin.com/posts/andreabizzotto_top-reasons-for-using-a-realtime-backend-activity-7112792982449213441-kWJA) | |
+| 123 | [Top reasons for using a realtime backend](tips/0123-user-realtime-backend/index.md) | [link](https://twitter.com/biz84/status/1707026963469062651) | [link](https://www.linkedin.com/posts/andreabizzotto_top-reasons-for-using-a-realtime-backend-activity-7112792982449213441-kWJA) | |
+| 122 | [First steps to tackle when starting a new mobile app](tips/0122-first-steps-new-app/index.md) | [link](https://twitter.com/biz84/status/1706730796243939717) | [link](https://www.linkedin.com/posts/andreabizzotto_someone-asked-me-what-should-be-the-first-activity-7112496543940648960-sYfn) | |
 | 121 | [Fetching vs Mutating data with Riverpod](tips/0121-riverpod-fetch-vs-mutate-data/index.md) | [link](https://twitter.com/biz84/status/1704486985925099958) | [link](https://www.linkedin.com/posts/andreabizzotto_data-fetching-and-data-mutations-are-two-activity-7110256018126721024-w8LE) | [link](https://codewithandrea.com/articles/data-mutations-riverpod/) |
 | 120 | [Flutter web: redirect to an external URL](tips/0120-set-html-window-url/index.md) | [link](https://twitter.com/biz84/status/1701977300131049540) | | |
 | 119 | [VSCode Quick Fix: Create constructor for final fields, required named](tips/0119-constructor-required-named-vsassist/index.md) | [link](https://twitter.com/biz84/status/1699752300170895365) | |
@@ -136,14 +137,6 @@ A collection of all the Flutter tips & tricks I share on [Twitter](https://twitt
 | 3 | [Accept payments with the Stripe SDK](tips/0003-accept-payments-with-the-stripe-sdk/index.md)                                                                                      | [link](https://twitter.com/biz84/status/1435932664821919751) | | |
 | 2 | [Flutter create --sample](tips/0002-flutter-create-sample/index.md)                                                                                                                | [link](https://twitter.com/biz84/status/1433812404463448064) | | |
 | 1 | [Flutter reusable Split View on mobile, desktop and web](tips/0001-flutter-reusable-split-view-on-mobile-desktop-and-web/index.md)                                                 | [link](https://twitter.com/biz84/status/1417510791146770432) | | [link](https://codewithandrea.com/articles/flutter-responsive-layouts-split-view-drawer-navigation/)  |
-
-## Notes List
-
-I've also started a series of longer-form notes. These includes answers to student questions, thoughts about app development, etc. 👇
-
-| ID | View on GitHub (this repo)                                                                                                                                                        | Twitter Post   | LinkedIn Post | Link on [codewithandrea.com](https://codewithandrea.com/)                                                                            |
-| -- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| -------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 1  | [First steps to tackle when starting a new mobile app](notes/0001-first-steps-new-app/index.md) | [link](https://twitter.com/biz84/status/1706730796243939717) | [link](https://www.linkedin.com/posts/andreabizzotto_someone-asked-me-what-should-be-the-first-activity-7112496543940648960-sYfn) | |
 
 ## Spread the word!
 
