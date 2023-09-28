@@ -15,5 +15,5 @@
 
 | Previous | Next |
 | -------- | ---- |
-| [First steps to tackle when starting a new mobile app](../0122-first-steps-new-app/index.md) |  |
+| [First steps to tackle when starting a new mobile app](../0122-first-steps-new-app/index.md) | [Payment options on mobile and web](../0124-payment-options-mobile-web/index.md) |
 
