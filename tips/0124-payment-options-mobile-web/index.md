@@ -46,5 +46,5 @@ I’m not an expert on the matter, so make sure you read the App Store guideline
 
 | Previous | Next |
 | -------- | ---- |
-| [Top reasons for using a realtime backend](../0123-user-realtime-backend/index.md) |  |
+| [Top reasons for using a realtime backend](../0123-user-realtime-backend/index.md) | [Xcode 15 DT_TOOLCHAIN_DIR issue](../0125-xcode-15-cocoapods-issue/index.md) |
 
