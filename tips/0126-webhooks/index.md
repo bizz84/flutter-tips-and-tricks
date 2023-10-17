@@ -38,18 +38,15 @@ All the Flutter client needs to do is listen to DB updates and rebuild the UI.
 
 ---
 
-I'm writing a detailed article about webhooks.
-
-This will cover:
+I have written a detailed article about webhooks, which covers:
 
 - Example Stripe integration
 - How to create and deploy webhooks as Cloud Functions
 - How to secure your webhooks with signature verification
 
-If you don't wanna miss it, sign up here:
+You can read it here:
 
-- https://codewithandrea.com/newsletter/new/
-
+- [What are Webhooks and How to Use Them in Your Flutter Backend](https://codewithandrea.com/articles/webhooks-flutter-backend/)
 
 ---
 
@@ -59,5 +56,5 @@ If you don't wanna miss it, sign up here:
 
 | Previous | Next |
 | -------- | ---- |
-| [Xcode 15 DT_TOOLCHAIN_DIR issue](../0125-xcode-15-cocoapods-issue/index.md) |  |
+| [Xcode 15 DT_TOOLCHAIN_DIR issue](../0125-xcode-15-cocoapods-issue/index.md) | [Full-Text Search: Firestore Extensions](../0127-full-text-search/index.md) |
 
