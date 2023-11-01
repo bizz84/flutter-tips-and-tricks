@@ -44,7 +44,7 @@ For all the details, check the course page: 👇
 
 | Previous | Next |
 | -------- | ---- |
-| [How to work with webhooks?](../0126-webhooks/index.md) |  |
+| [How to work with webhooks?](../0126-webhooks/index.md) | [Error Handling during App Startup](../0128-error-handling-app-startup/index.md) |
 
 
 
