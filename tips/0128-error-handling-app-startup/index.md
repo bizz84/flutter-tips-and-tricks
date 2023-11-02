@@ -16,7 +16,7 @@ To prevent this, wrap your code with a try/catch block and notify the user that 
 
 | Previous | Next |
 | -------- | ---- |
-| [Full-Text Search: Firestore Extensions](../0127-full-text-search/index.md) |  |
+| [Full-Text Search: Firestore Extensions](../0127-full-text-search/index.md) | [VSCode Debug Toolbar in Command Center](../0129-vscode-debug-toolbar-command-center/index.md) |
 
 
 
