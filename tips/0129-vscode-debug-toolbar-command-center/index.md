@@ -22,4 +22,4 @@ Happy coding! 💻
 
 | Previous | Next |
 | -------- | ---- |
-| [Error Handling during App Startup](../0128-error-handling-app-startup/index.md) |  |
+| [Error Handling during App Startup](../0128-error-handling-app-startup/index.md) | [8 Steps to Follow When Building Your Next Flutter App](../0130-steps-to-follow-next-flutter-app/index.md) |
