@@ -85,4 +85,4 @@ Happy coding! 🎉
 
 | Previous | Next |
 | -------- | ---- |
-| [Error Handling during App Startup](../0129-vscode-debug-toolbar-command-center/index.md) |  |
+| [Error Handling during App Startup](../0129-vscode-debug-toolbar-command-center/index.md) | [Async Dependency Initialization with `requireValue` (Riverpod)](../0131-future-provider-require-value/index.md) |
