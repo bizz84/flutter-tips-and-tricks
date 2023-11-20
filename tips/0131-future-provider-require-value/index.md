@@ -56,5 +56,5 @@ Happy coding!
 
 | Previous | Next |
 | -------- | ---- |
-| [8 Steps to Follow When Building Your Next Flutter App](../0130-steps-to-follow-next-flutter-app/index.md) |  |
+| [8 Steps to Follow When Building Your Next Flutter App](../0130-steps-to-follow-next-flutter-app/index.md) | [Highlight oversized images with the Flutter DevTools](../0132-highlight-oversized-images/index.md) |
 
