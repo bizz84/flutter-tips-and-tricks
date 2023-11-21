@@ -20,11 +20,13 @@ More info here:
 
 - [Highlight oversized images | Flutter docs](https://docs.flutter.dev/tools/devtools/inspector#highlight-oversized-images)
 
+---
+
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1724443435346604214) 🙏
 
 ---
 
 | Previous | Next |
 | -------- | ---- |
-| [Async Dependency Initialization with `requireValue` (Riverpod)](../0131-future-provider-require-value/index.md) |  |
+| [Async Dependency Initialization with `requireValue` (Riverpod)](../0131-future-provider-require-value/index.md) | [SelectionArea across multiple widgets](../0133-selection-area/index.md) |
 
