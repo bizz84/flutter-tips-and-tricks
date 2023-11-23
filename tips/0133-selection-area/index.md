@@ -24,5 +24,5 @@ More details here:
 
 | Previous | Next |
 | -------- | ---- |
-| [Highlight oversized images with the Flutter DevTools](../0132-highlight-oversized-images/index.md) |  |
+| [Highlight oversized images with the Flutter DevTools](../0132-highlight-oversized-images/index.md) | [Debug Paint Size (DevTools)](../0134-debug-paint-size/index.md) |
 
