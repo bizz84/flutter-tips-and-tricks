@@ -24,5 +24,5 @@ Then, you can use this great little package by [@devangelslondon](https://twitte
 
 | Previous | Next |
 | -------- | ---- |
-| [SelectionArea across multiple widgets](../0133-selection-area/index.md) |  |
+| [SelectionArea across multiple widgets](../0133-selection-area/index.md) | [Replace Container with nested widgets](../0135-replace-container-nested-widgets/index.md) |
 
