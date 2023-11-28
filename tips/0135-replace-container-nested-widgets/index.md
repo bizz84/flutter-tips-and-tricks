@@ -1,4 +1,4 @@
-# Replace Container with nested widgets
+# Replace `Container` with nested widgets
 
 With Flutter, you can use a `Container` to combine painting, positioning, and sizing properties.
 
@@ -18,4 +18,4 @@ So, consider replacing it with dedicated widgets that *do* have a `const` constr
 
 | Previous | Next |
 | -------- | ---- |
-| [Debug Paint Size (DevTools)](../0134-debug-paint-size/index.md) |  |
+| [Debug Paint Size (DevTools)](../0134-debug-paint-size/index.md) | [Use `IntrinsicWidth`, not fixed width](../0136-intrinsic-width/index.md) |
