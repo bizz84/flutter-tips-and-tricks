@@ -22,4 +22,4 @@ Credit for this tip goes to [@devangelslondon](https://twitter.com/devangelslond
 
 | Previous | Next |
 | -------- | ---- |
-| [Replace `Container` with nested widgets](../0135-replace-container-nested-widgets/index.md) |  |
+| [Replace `Container` with nested widgets](../0135-replace-container-nested-widgets/index.md) | [Combining Streams with RxDart](../0137-rxdart-combine-latest/index.md) |
