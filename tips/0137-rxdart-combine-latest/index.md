@@ -22,4 +22,4 @@ I've covered the same topic in more detail in this article, which also illustrat
 
 | Previous | Next |
 | -------- | ---- |
-| [Use `IntrinsicWidth`, not fixed width](../0136-intrinsic-width/index.md) |  |
+| [Use `IntrinsicWidth`, not fixed width](../0136-intrinsic-width/index.md) | [Opening URLs with xcrun / adb](../0138-xcrun-adb-open-url/index.md) |
