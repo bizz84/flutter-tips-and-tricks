@@ -18,7 +18,7 @@ Just pop open your iOS simulator / Android emulator and give them a go. ✨
 
 | Previous | Next |
 | -------- | ---- |
-| [Combining Streams with RxDart](../0137-rxdart-combine-latest/index.md) |  |
+| [GitHub Copilot Tips for Flutter Devs](../0139-github-copilot-tips-flutter-devs/index.md) |  |
 
 
 
