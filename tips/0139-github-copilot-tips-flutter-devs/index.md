@@ -408,7 +408,7 @@ Still, speech-to-text is a great addition for accessibility.
 
 | Previous | Next |
 | -------- | ---- |
-| [Opening URLs with xcrun / adb](../0138-xcrun-adb-open-url/index.md) |  |
+| [Opening URLs with xcrun / adb](../0138-xcrun-adb-open-url/index.md) | [Toggle Inlay Hints in VSCode](../0140-vscode-toggle-inlay-hints/index.md) |
 
 
 
