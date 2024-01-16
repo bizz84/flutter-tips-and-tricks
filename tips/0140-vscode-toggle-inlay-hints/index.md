@@ -24,6 +24,6 @@ For more info on how to configure this, see this thread:
 
 | Previous | Next |
 | -------- | ---- |
-| [GitHub Copilot Tips for Flutter Devs](../0139-github-copilot-tips-flutter-devs/index.md) |  |
+| [GitHub Copilot Tips for Flutter Devs](../0139-github-copilot-tips-flutter-devs/index.md) | [⚠️ debugPrint prints in release mode ⚠️](../0141-dont-use-debug-print/index.md) |
 
 
