@@ -16,4 +16,4 @@ Instead, consider using the logger package, which works as expected and only pri
 
 | Previous | Next |
 | -------- | ---- |
-| [Toggle Inlay Hints in VSCode](../0140-vscode-toggle-inlay-hints/index.md) |  |
+| [Toggle Inlay Hints in VSCode](../0140-vscode-toggle-inlay-hints/index.md) | [Launching your Flutter app with flavors](../0142-flutter-run-flavor/index.md) |
