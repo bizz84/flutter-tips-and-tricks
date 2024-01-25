@@ -6,6 +6,8 @@ Did you know?
 
 Instead, consider using the logger package, which works as expected and only prints in debug mode by default. 👇
 
+Another alternative is to use the [`log`](https://api.flutter.dev/flutter/dart-developer/log.html) function from `dart:developer`.
+
 ![](141.png)
 
 ---
