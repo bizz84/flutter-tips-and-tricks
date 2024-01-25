@@ -4,7 +4,7 @@ Did you know?
 
 When you run your Flutter app, you can add a `--flavor` argument.
 
-To get the flavor at runtime, read the `FLUTTER_APP_FLAVOR` environment variable.
+To get the flavor at runtime, import `services.dart` and read the `appFlavor` global variable.
 
 This will return a string that you can map to a type-safe enum.
 
@@ -23,7 +23,7 @@ Check this guide for all the details:
 
 ---
 
-### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1750447557212242364) 🙏
+### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1750486116581417103) 🙏
 
 ---
 
