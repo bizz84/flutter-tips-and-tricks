@@ -57,4 +57,4 @@ As they say, one image is worth more than 1000 words, so I’ll leave with this 
 
 | Previous | Next |
 | -------- | ---- |
-| [Launching your Flutter app with flavors](../0142-flutter-run-flavor/index.md) |  |
+| [Launching your Flutter app with flavors](../0142-flutter-run-flavor/index.md) | [Scheduling microtasks in Dart](../0144-scheduling-microtasks/index.md) |
