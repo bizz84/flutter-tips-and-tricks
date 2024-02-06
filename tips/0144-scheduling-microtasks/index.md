@@ -4,7 +4,7 @@ Did you know?
 
 In Dart, you can schedule a microtask when you want to complete a small async computation as soon as possible.
 
-This will cause it to execute *before* any pending events in the event loop.
+This will cause it to execute **before** any pending events in the event loop.
 
 ![](144.png)
 
@@ -13,8 +13,6 @@ This will cause it to execute *before* any pending events in the event loop.
 For more info about microtasks, events, event loops, and isolates, read this article:
 
 - [Asynchrony Primer for Dart and Flutter](https://dart.academy/asynchrony-primer-for-dart-and-flutter/)
-
----
 
 ---
 
