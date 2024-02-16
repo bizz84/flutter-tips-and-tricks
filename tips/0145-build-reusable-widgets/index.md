@@ -33,5 +33,5 @@ Happy coding!
 
 | Previous | Next |
 | -------- | ---- |
-| [Scheduling microtasks in Dart](../0144-scheduling-microtasks/index.md) |  |
+| [Scheduling microtasks in Dart](../0144-scheduling-microtasks/index.md) | [Extension methods vs types (Dart 3.3)](../0146-extension-types-dart3.3/index.md) |
 
