@@ -28,5 +28,5 @@ Read on to learn more:
 
 | Previous | Next |
 | -------- | ---- |
-| [Top tip for Flutter developers: write reusable widgets!](../0145-build-reusable-widgets/index.md) |  |
+| [Top tip for Flutter developers: write reusable widgets!](../0145-build-reusable-widgets/index.md) | [How to bundle assets based on flavor](../0147-bundle-assets-based-on-flavor/index.md) |
 
