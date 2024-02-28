@@ -22,5 +22,5 @@ For more details on how to do this, read the official docs:
 
 | Previous | Next |
 | -------- | ---- |
-| [Extension methods vs types (Dart 3.3)](../0146-extension-types-dart3.3/index.md) |  |
+| [Extension methods vs types (Dart 3.3)](../0146-extension-types-dart3.3/index.md) | [Determinate Circular Progress Indicator](../0148-determinate-circular-progress-indicator/index.md) |
 
