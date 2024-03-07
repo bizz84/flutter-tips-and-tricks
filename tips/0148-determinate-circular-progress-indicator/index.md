@@ -18,5 +18,5 @@ Then, control the value with `AnimatedBuilder` to create an animated countdown t
 
 | Previous | Next |
 | -------- | ---- |
-| [How to bundle assets based on flavor](../0147-bundle-assets-based-on-flavor/index.md) |  |
+| [How to bundle assets based on flavor](../0147-bundle-assets-based-on-flavor/index.md) | [Environment variables in Dart](../0149-environment-variables/index.md) |
 
