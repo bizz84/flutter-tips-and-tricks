@@ -2,7 +2,7 @@
 
 How do you parse JSON objects that may contain different properties depending on a given field?
 
-An example of this would be when you have a `Shape`` class with two subclasses:
+An example of this would be when you have a `Shape` class with two subclasses:
 
 - a `Square` (with a "side" property)
 - a `Circle` (with a "radius" property)
@@ -17,7 +17,7 @@ To begin, add a factory constructor to the base class (this will contain the par
 
 Then, you can write some conditional logic as a chain of if/else statements.
 
-And depending on the type, you can return `Square` or `Circle`` instances as needed.
+And depending on the type, you can return `Square` or `Circle` instances as needed.
 
 ![](113.2.png)
 
