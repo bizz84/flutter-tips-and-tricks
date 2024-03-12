@@ -46,5 +46,5 @@ When deploying your Dart backend on Globe.dev or another hosting platform, add y
 
 | Previous | Next |
 | -------- | ---- |
-| [Determinate Circular Progress Indicator](../0148-determinate-circular-progress-indicator/index.md) |  |
+| [Determinate Circular Progress Indicator](../0148-determinate-circular-progress-indicator/index.md) | [Preloading SVG assets in Flutter](../0150-preload-svgs/index.md) |
 
