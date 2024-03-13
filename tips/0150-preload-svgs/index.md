@@ -80,6 +80,6 @@ Widget build(BuildContext context) {
 
 | Previous | Next |
 | -------- | ---- |
-| [Environment variables in Dart](../0149-environment-variables/index.md) |  |
+| [Environment variables in Dart](../0149-environment-variables/index.md) | [Scroll-to-index inside a ListView](../0151-scroll-to-index/index.md) |
 
 
