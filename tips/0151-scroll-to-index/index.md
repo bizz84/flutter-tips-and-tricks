@@ -74,7 +74,7 @@ ListView.builder(
 
 | Previous | Next |
 | -------- | ---- |
-| [Preloading SVG assets in Flutter](../0150-preload-svgs/index.md) |  |
+| [Preloading SVG assets in Flutter](../0150-preload-svgs/index.md) | [Logging HTTP status codes with emojis](../0152-log-status-code-emoji/index.md) |
 
 
 
