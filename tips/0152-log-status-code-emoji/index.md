@@ -29,6 +29,14 @@ void logResponse(int? statusCode, String url) {
 
 ---
 
+Don't want to roll this out yourself or need a more robust solution?
+
+Then, use [Talker](https://pub.dev/packages/talker) - an advanced error handler and logger for Flutter (check this cool [web demo](https://frezyx.github.io/talker)).
+
+A separate [`talker_dio_logger`](https://pub.dev/packages/talker_dio_logger) package also exists, which is perfect for this use case. 👌
+
+---
+
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1768588707852902738) 
 
 ---
