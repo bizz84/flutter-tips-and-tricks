@@ -2,7 +2,9 @@
 
 Want to quickly generate some fake data to use when building Flutter UIs?
 
-Use the Faker package: https://pub.dev/packages/faker
+Use the Faker package:
+
+- [https://pub.dev/packages/faker](https://pub.dev/packages/faker)
 
 Supports addresses, names, food, dates, sports... you name it!
 
@@ -17,3 +19,5 @@ Supports addresses, names, food, dates, sports... you name it!
 | Previous | Next |
 | -------- | ---- |
 | [Chat UI with message bubbles (revisited)](../0009-chat-ui-with-message-bubbles-revisited/index.md) | [How to Style an `ElevatedButton` in Flutter](../0011-how-to-style-an-elevatedbutton-in-flutter/index.md) |
+
+<!-- TWITTER|https://twitter.com/biz84/status/1438096427306168324 -->

@@ -78,27 +78,16 @@ And we can now validate our text on the fly:
 
 ![](https://codewithandrea.com/articles/flutter-text-field-form-validation/images/text-field-validation.gif)
 
----
-
-I have just written an article that covers all these details and includes all the source code.
-
-Feel free to use this as reference for your projects.
-
-And if you liked this, follow me for more Flutter tips: [@biz84](https://twitter.com/biz84).
-
-Happy coding!
+> Complete article: [Flutter TextField Validation: How to work with TextEditingController, Form, and TextFormField](https://codewithandrea.com/articles/flutter-text-field-form-validation/)
 
 ---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1443521715800354816) 🙏
-
-### Also published on codewithandrea.com 👇
-
-- [Flutter TextField Validation: How to work with TextEditingController, Form, and TextFormField](https://codewithandrea.com/articles/flutter-text-field-form-validation/)
-
 
 ---
 
 | Previous | Next |
 | -------- | ---- |
 | [How to Style an `ElevatedButton` in Flutter](../0011-how-to-style-an-elevatedbutton-in-flutter/index.md) | [Responsive Flutter card layout with `SizedBox` & `Center`](../0013-responsive-flutter-card-layout-with-sizedbox-center/index.md) |
+
+<!-- TWITTER|https://twitter.com/biz84/status/1443521715800354816 -->

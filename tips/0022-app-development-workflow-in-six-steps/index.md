@@ -121,18 +121,6 @@ It helps you stay organized and see tangible progress.
 
 ---
 
-Would you like me to write more about this and create an article?
-
-Let me know in the comments.
-
-If you liked this, retweet the thread above. 👆
-
-And for more Flutter tips, just follow me: [@biz84](https://twitter.com/biz84)
-
-Happy coding!
-
----
-
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1484554041170571264) 🙏
 
 ---
