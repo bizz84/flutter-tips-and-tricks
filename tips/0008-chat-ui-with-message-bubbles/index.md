@@ -65,24 +65,19 @@ TL;DR:
 - ConstrainedBox comes to the rescue by providing a maximum width
 - that maximum width can be obtained from a LayoutBuilder widget
 
-----
+---
 
-Want more tips like this on your timeline?
-
-Then just follow me: [@biz84](https://twitter.com/biz84)
-
-Happy coding!
+> Complete article: [How to build a Chat Messaging UI in Flutter](https://codewithandrea.com/articles/chat-messaging-ui-flutter/)
 
 ---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1437409386423521282) 🙏
-
-### Also published on codewithandrea.com 👇
-
-- [How to build a Chat Messaging UI in Flutter](https://codewithandrea.com/articles/chat-messaging-ui-flutter/)
 
 ---
 
 | Previous | Next |
 | -------- | ---- |
 | [How to set the border radius on a Flutter container](../0007-how-to-set-the-border-radius-on-a-flutter-container/index.md) | [Chat UI with message bubbles (revisited)](../0009-chat-ui-with-message-bubbles-revisited/index.md) |
+
+<!-- TWITTER|https://twitter.com/biz84/status/1437409386423521282 -->
+<!-- CWA|https://codewithandrea.com/articles/chat-messaging-ui-flutter/ -->

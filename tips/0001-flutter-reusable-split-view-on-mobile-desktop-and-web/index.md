@@ -17,3 +17,6 @@ You can do this in 30 lines of code, without any 3rd party packages: 👇
 | Previous | Next |
 | -------- | ---- |
 |          | [Flutter create --sample](../0002-flutter-create-sample/index.md) |
+
+<!-- TWITTER|https://twitter.com/biz84/status/1417510791146770432 -->
+<!-- CWA|https://codewithandrea.com/articles/flutter-responsive-layouts-split-view-drawer-navigation/ -->

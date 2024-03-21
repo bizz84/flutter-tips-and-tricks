@@ -48,6 +48,8 @@ Turns out, this is great advice for Flutter app development.
 
 Happy coding!
 
+> Complete article: [How to build a Chat Messaging UI in Flutter](https://codewithandrea.com/articles/chat-messaging-ui-flutter/)
+
 ---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1437692261672919041) 🙏
@@ -57,3 +59,6 @@ Happy coding!
 | Previous | Next |
 | -------- | ---- |
 | [Chat UI with message bubbles](../0008-chat-ui-with-message-bubbles/index.md) | [How to Generate Fake data with the Faker package](../0010-how-to-generate-fake-data-with-the-faker-package/index.md) |
+
+<!-- TWITTER|https://twitter.com/biz84/status/1437692261672919041 -->
+<!-- CWA|https://codewithandrea.com/articles/chat-messaging-ui-flutter/ -->
