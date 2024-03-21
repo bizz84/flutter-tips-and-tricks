@@ -18,9 +18,8 @@ First of all, just know that this issue is showing up quite a bit on StackOverfl
 
 There are multiple reasons you may encounter it.
 
-But none of the solutions I found online worked for me: 
+But none of [the solutions I found online](https://duckduckgo.com/?q=%5Bcore%2Fduplicate-app%5D+A+Firebase+App+named+%22%5BDEFAULT%5D%22+already+exists&t=ffab&ia=web) worked for me: 
 
-https://duckduckgo.com/?q=%5Bcore%2Fduplicate-app%5D+A+Firebase+App+named+%22%5BDEFAULT%5D%22+already+exists&t=ffab&ia=web
 
 ![](duck-duck-duplicate-app.png)
 
