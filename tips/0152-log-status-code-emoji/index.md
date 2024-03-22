@@ -43,5 +43,5 @@ A separate [`talker_dio_logger`](https://pub.dev/packages/talker_dio_logger) pac
 
 | Previous | Next |
 | -------- | ---- |
-| [Scroll-to-index inside a ListView](../0151-scroll-to-index/index.md) |  |
+| [Scroll-to-index inside a ListView](../0151-scroll-to-index/index.md) | [Zoom an image with InteractiveViewer](../0153-interactive-viewer/index.md) |
 
