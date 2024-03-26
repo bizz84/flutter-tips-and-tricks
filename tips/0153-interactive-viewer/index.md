@@ -26,7 +26,7 @@ More info here 👇
 
 | Previous | Next |
 | -------- | ---- |
-| [Logging HTTP status codes with emojis](../0152-log-status-code-emoji/index.md) |  |
+| [Logging HTTP status codes with emojis](../0152-log-status-code-emoji/index.md) | [Loading UI with Shimmer effect](../0154-shimmer-effect/index.md) |
 
 <!-- TWITTER|https://twitter.com/biz84/status/1771126164284735828 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-you-can-use-an-interactiveviewer-activity-7176892015689768960-sXJh -->
