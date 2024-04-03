@@ -6,7 +6,7 @@ This is a common mistake that can lead to unexpected behavior.
 
 So let's learn what causes it and how to fix it (thread). 🧵
 
-![](060.1-build-context-navigator.png)
+![1](060.1-build-context-navigator.png)
 
 ---
 
@@ -24,7 +24,7 @@ For example, consider what happens when:
 
 This leads to the big scary error that we see here. 👇
 
-![](060.1-build-context-navigator.png)
+![2](060.1-build-context-navigator.png)
 
 ---
 
