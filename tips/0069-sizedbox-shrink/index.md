@@ -1,4 +1,4 @@
-# When to use `SizedBox.shrink()` to return an empty box
+# Use `SizedBox.shrink()` to return an empty box
 
 Ever needed to return an empty box (that takes no space) in Flutter?
 
