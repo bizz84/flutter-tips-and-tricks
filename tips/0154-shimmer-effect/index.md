@@ -35,7 +35,7 @@ Shimmer.fromColors(
 
 | Previous | Next |
 | -------- | ---- |
-| [Zoom an image with InteractiveViewer](../0153-interactive-viewer/index.md) |  |
+| [Zoom an image with InteractiveViewer](../0153-interactive-viewer/index.md) | [Null-aware spread operator (...?)](../0155-null-aware-spread-operator/index.md) |
 
 <!-- TWITTER|https://twitter.com/biz84/status/1772621866915508285 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_want-something-nicer-than-a-circularprogressindicator-activity-7178387635298521089-nvcc -->
