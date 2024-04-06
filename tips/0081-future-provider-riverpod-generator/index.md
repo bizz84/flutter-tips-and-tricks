@@ -65,11 +65,9 @@ This explains how to use it with different kinds of providers, and covers some l
 
 ---
 
-I'll also cover Riverpod Generator and the new Riverpod 2.0 APIs in my Flutter Foundations course.
+I've covered Riverpod Generator and the new Riverpod 2.0 APIs in my Flutter Foundations course:
 
-In fact, I'm planning a whole new module about it, that will be out next week.
-
-- [The Complete Flutter Course Bundle](https://codewithandrea.com/courses/complete-flutter-bundle/)
+- [Flutter Foundations course](https://codewithandrea.com/courses/flutter-foundations/)
 
 ---
 

@@ -7,8 +7,6 @@ So, how do you use providers with Riverpod?
 - Add a `WidgetRef` to the build method and use it to watch the provider
 - Use the value in your widget
 
-More Riverpod tips incoming.👌
-
 ![](040-anatomy-riverpod-provider.png)
 
 ---

@@ -73,19 +73,9 @@ On the other hand, `push` will always push the destination route on top of the e
 
 ---
 
-For more info about GoRouter, make sure to check the official documentation (it's excellent):
+I've cover GoRouter extensively in my Flutter course, along with many other important topics:
 
-https://gorouter.dev/
-
----
-
-I'll cover GoRouter extensively in my upcoming Flutter course, along with many other important topics.
-
-If this is of interest, you can sign up today to secure a big discount when the course goes live. 👇
-
-- [The Complete Flutter Course Bundle](https://codewithandrea.com/courses/complete-flutter-bundle/)
-
-Happy coding!
+- [Flutter Foundations](https://codewithandrea.com/courses/flutter-foundations/)
 
 ---
 

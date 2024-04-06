@@ -104,19 +104,10 @@ That way, we'll end up with clear boundaries between the different layers and co
 
 ---
 
-This completes my overview of project structure in Flutter. 🏁
 
-I'll publish a separate article that will cover this topic more in depth. ✅
+If you want to learn how to build a full-stack eCommerce app following these principles, check out my Flutter Foundations course:
 
-What project structure have you used in your apps? Let me know in the comments. 👇
-
-For more tips like this, just follow me: [@biz84](https://twitter.com/biz84)
-
----
-
-And if you want to learn how to build a full-stack eCommerce app following these principles, check out my new course:
-
-- [The Complete Flutter Course Bundle](https://codewithandrea.com/courses/complete-flutter-bundle/)
+- [Flutter Foundations course](https://codewithandrea.com/courses/flutter-foundations/)
 
 Happy coding!
 

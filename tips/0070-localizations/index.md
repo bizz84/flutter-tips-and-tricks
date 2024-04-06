@@ -6,8 +6,6 @@ Here’s how to setup Flutter app localizations in just 5 minutes, using code ge
 
 Also covered: template vs non-template files and synthetic vs non-synthetic package. 👀
 
-🧵 
-
 ![](070.0.png)
 
 ---

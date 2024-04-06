@@ -30,12 +30,11 @@ For extra peace of mind, you can go to your Google Cloud account to set a monthl
 
 And you can also receive email alerts when the forecasted spend exceeds a certain percent or amount.
 
-
 ![](092.4-budget-alerts.png)
 
 ---
 
-So don't be scared about your Firebase bill. 🤝
+Bottom line: don't be scared about your Firebase bill. 🤝
 
 Unless you do something catastrophic, you'll be fine. 🙌
 
@@ -43,11 +42,11 @@ Just be careful to avoid recursive document writes in your Cloud Function trigge
 
 And even then, budget limits and alerts should help you out. ⚠️
 
+> **Note**: budget alerts help you be notified of excessive usage in your Firebase projects, but they don't prevent over-billing. So it's still up to you to take action and disable your project (partially or completely).
+
 ---
 
-I'm working on a brand new course about Flutter & Firebase that will be released in the coming months.
-
-If you wanna learn Firebase, you can check it out and signup for the waitlist to get a big discount. 👇
+If you wanna learn Firebase, you can check out this course:
 
 - [Flutter & Firebase Masterclass](https://codewithandrea.com/courses/flutter-firebase-masterclass/)
 

@@ -20,11 +20,9 @@ That's because widget tests (which golden tests are based on) won't do any of th
 
 ---
 
-It may be a bit too much to fit all this in a thread, so I'll probably write an article instead.
+To learn more about golden testing, check my Flutter Foundations course, which already includes many in-depth lessons about automated testing! 👇
 
-And I'll also cover all the findings in my Flutter course, which already includes many in-depth lessons about automated testing! 👇
-
-- [The Complete Flutter Course Bundle](https://codewithandrea.com/courses/complete-flutter-bundle/)
+- [Flutter Foundations](https://codewithandrea.com/courses/flutter-foundations/)
 
 ---
 

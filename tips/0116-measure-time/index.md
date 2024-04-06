@@ -23,3 +23,5 @@ Very useful for benchmarking the execution time of your backend or database call
 | Previous | Next |
 | -------- | ---- |
 | [Find the Invalid Switch Expression 🧐](../0115-switch-newline/index.md) | [Are global variables bad?](../0117-are-global-variables-bad/index.md) |
+
+<!-- TODO:UPDATE -->

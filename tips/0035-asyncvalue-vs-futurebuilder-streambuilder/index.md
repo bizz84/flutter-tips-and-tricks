@@ -2,15 +2,13 @@
 
 If you've been using Flutter for some time, you'll know that `FutureBuilder` & `StreamBuilder` help you deal with asynchronous data in your UI.
 
-But working with `AsyncSnapshot` is quite tricky, and the AsyncValue class from the Riverpod package makes life much easier.
-
-A thread. 🧵
+But working with `AsyncSnapshot` is quite tricky, and the `AsyncValue` class from the Riverpod package makes life much easier.
 
 ![](035.1-async-snapshot-vs-async-value.png)
 
 ---
 
-Let's take a peek at the definition of AsyncSnapshot.
+Let's take a peek at the definition of `AsyncSnapshot`.
 
 This is a class that defines four properties:
 
@@ -61,11 +59,7 @@ That's all. You can now say bye-bye to all your `StreamBuilder`s and `FutureBuil
 
 I have covered state management with Riverpod in great detail in my new Flutter course:
 
-- [The Complete Flutter Course Bundle](https://codewithandrea.com/courses/complete-flutter-bundle/)
-
-And for more Flutter tips, just follow me: [@biz84](https://twitter.com/biz84)
-
-Happy coding!
+- [Flutter Foundations course](https://codewithandrea.com/courses/flutter-foundations/)
 
 ---
 

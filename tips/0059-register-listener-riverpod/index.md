@@ -68,9 +68,9 @@ That's it! You now have another valuable tool for your developer black belt! �
 
 Want more?
 
-My complete Flutter course covers this more in depth, along with many other advanced topics. 👇
+My Flutter Foundations course covers this more in depth, along with many other advanced topics. 👇
 
-- [The Complete Flutter Course Bundle](https://codewithandrea.com/courses/complete-flutter-bundle/)
+- [Flutter Foundations course](https://codewithandrea.com/courses/flutter-foundations/)
 
 ---
 
@@ -79,8 +79,6 @@ My complete Flutter course covers this more in depth, along with many other adva
 ### Also published on codewithandrea.com 👇
 
 - [Flutter Riverpod: How to Register a Listener during App Startup](https://codewithandrea.com/articles/riverpod-initialize-listener-app-startup/)
-
-### [Source code](main.dart)
 
 ---
 

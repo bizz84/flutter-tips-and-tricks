@@ -16,7 +16,7 @@ There is SO MUCH more that you can do with GitHub workflows!
 
 This page covers the entire workflows syntax. 100% worth it:
 
-https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions
+- [Workflow syntax for GitHub Actions](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions)
 
 And here's a gist with the basic test workflow that you can add to your project:
 
@@ -24,13 +24,11 @@ https://gist.github.com/bizz84/c9b6d2ce383ac96c2a6d297cfeaa31d6
 
 ---
 
-I'll be covering all the advanced setup stuff, including code signing, Testflight, Fastlane, API secrets and much more in my upcoming course later this year.
+I'll be covering all the advanced setup stuff, including code signing, Testflight, Fastlane, API secrets and much more in my upcoming course about Flutter in Production.
 
-For now, here's a signup link to get my pre-sale discount:
+If this is of interest, you can sign up here:
 
 - [The Complete Flutter Course Bundle](https://codewithandrea.com/courses/complete-flutter-bundle/)
-
-Happy coding!
 
 ---
 

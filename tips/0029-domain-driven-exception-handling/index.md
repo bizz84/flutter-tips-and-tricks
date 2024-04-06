@@ -68,11 +68,6 @@ The end result?
 
 - we catch all exceptions from the **outside world** by wrapping all async repository methods with the `runCatchingExceptions()` function
 - the rest of our app only deals with exceptions that belong to the domain model
-
-(continued)
-
----
-
 - (optional) service classes will catch exceptions and return a `Result<Error, Success>` type
 - (optional) controller classes will use Result type and easily map any errors to user-facing messages
 
@@ -93,29 +88,17 @@ So far, what I presented is a WIP and there are some things I want to figure out
 - How to apply the same approach to Streams rather than Futures?
 - Should we map `Stream<T>` to `Stream<Result<Error, T>>` everywhere? Seems complicated in practice.
 
-(continued)
-
----
-
 Another issue is that having more than one exception type (e.g. `AuthException`, `DatabaseException`) can make it hard to map errors across the different layers.
 
 Maybe it would be best to define just ONE exception type with all possible errors (it's a sealed union after all).
 
 ---
 
-I want experiment more with this topic and find a robust solution that works well without adding too much mental overhead.
-
-Did you like this thread? Anything you would have done differently?
-
-Let me know in the comments. 👇
-
----
-
 There is so much to cover around app architecture, error handling, and domain-driven design.
 
-And I've done my best to make it justice in my Flutter course:
+And I've done my best to make it justice in my Flutter Foundations course:
 
-- [The Complete Flutter Course Bundle](https://codewithandrea.com/courses/complete-flutter-bundle/)
+- [Flutter Foundations course](https://codewithandrea.com/courses/flutter-foundations/)
 
 ---
 

@@ -28,28 +28,13 @@ So choose accordingly.
 
 ---
 
-Also note that `Either` is very similar to the `Result` type that I've covered recently.
+Also note that `Either` is very similar to the `Result` type that I've covered in tip 62.
 
 The advantage of `Either` (and fpdart in general) is that it has a more extensive (and well documented) API that works particularly well when dealing with async code.
-
-- [Exception handling: try/catch vs Result](../0062-try-catch-result-type/index.md)
-
----
-
-I'll be sharing more tweets about functional error handling in Flutter.
-
-If you want to learn more:
-
-- Follow me: [@biz84](https://twitter.com/biz84)
-- Share this by retweeting below 👇
-
-Happy coding!
 
 ---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1554518642343256067) 🙏
-
-### [Source code](main.dart)
 
 ### Also published on codewithandrea.com 👇
 

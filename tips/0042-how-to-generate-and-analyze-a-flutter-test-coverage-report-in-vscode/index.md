@@ -76,13 +76,9 @@ I have covered automated testing in great depth in my new Flutter course:
 
 ![](042.6-planned-test-content.png)
 
----
+If this is of interest, you can learn more here:
 
-The course is now available here:
-
-- [The Complete Flutter Course Bundle](https://codewithandrea.com/courses/complete-flutter-bundle/)
-
-Happy coding!
+- [Flutter Foundations course](https://codewithandrea.com/courses/flutter-foundations/)
 
 ---
 
@@ -91,7 +87,6 @@ Happy coding!
 ### Also published on codewithandrea.com 👇
 
 - [How to Generate and Analyze a Flutter Test Coverage Report in VSCode](https://codewithandrea.com/articles/flutter-test-coverage/)
-
 
 ---
 

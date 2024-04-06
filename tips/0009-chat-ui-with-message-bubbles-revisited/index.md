@@ -60,5 +60,6 @@ Happy coding!
 | -------- | ---- |
 | [Chat UI with message bubbles](../0008-chat-ui-with-message-bubbles/index.md) | [How to Generate Fake data with the Faker package](../0010-how-to-generate-fake-data-with-the-faker-package/index.md) |
 
+<!-- TODO:UPDATE -->
 <!-- TWITTER|https://twitter.com/biz84/status/1437692261672919041 -->
 <!-- CWA|https://codewithandrea.com/articles/chat-messaging-ui-flutter/ -->

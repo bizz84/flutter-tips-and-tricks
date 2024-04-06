@@ -79,5 +79,6 @@ TL;DR:
 | -------- | ---- |
 | [How to set the border radius on a Flutter container](../0007-how-to-set-the-border-radius-on-a-flutter-container/index.md) | [Chat UI with message bubbles (revisited)](../0009-chat-ui-with-message-bubbles-revisited/index.md) |
 
+<!-- TODO:REPLACE -->
 <!-- TWITTER|https://twitter.com/biz84/status/1437409386423521282 -->
 <!-- CWA|https://codewithandrea.com/articles/chat-messaging-ui-flutter/ -->

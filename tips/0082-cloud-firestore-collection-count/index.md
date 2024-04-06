@@ -4,7 +4,7 @@ Getting the collection count in Firestore just got much easier (and cheaper!) �
 
 Aggregate queries work like normal queries.
 
-But they return an AggregateQuerySnapshot that contains metadata (such as count), instead of actual documents. 🧮
+But they return an `AggregateQuerySnapshot` that contains metadata (such as count), instead of actual documents. 🧮
 
 ![](./082.png)
 

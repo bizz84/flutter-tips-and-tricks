@@ -70,17 +70,7 @@ For more info about using BuildContext synchronously, check out this excellent v
 
 ---
 
-Want more Flutter tips like these?
-
-Then just follow me: [@biz84](https://twitter.com/biz84).
-
-Happy coding!
-
----
-
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1547224363568619522) 🙏
-
-### [Source code](main.dart)
 
 ---
 

@@ -48,3 +48,5 @@ A huge bonus of this approach is that the entire project history, issues, PRs, a
 | Previous | Next |
 | -------- | ---- |
 | [Fetching vs Mutating data with Riverpod](../0121-riverpod-fetch-vs-mutate-data/index.md) | [Top reasons for using a realtime backend](../0123-user-realtime-backend/index.md) |
+
+<!-- TODO:REPLACE -->

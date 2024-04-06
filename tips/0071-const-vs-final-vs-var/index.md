@@ -14,6 +14,8 @@ The static analyzer will help you choose wisely. 🙂
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1577285912253308928) 🙏
 
+---
+
 | Previous | Next |
 | -------- | ---- |
 | [Flutter app localization in 5 min](../0070-localizations/index.md) | [Use type annotations for safer code](../0072-use-type-annotations-for-safer-code/index.md) |

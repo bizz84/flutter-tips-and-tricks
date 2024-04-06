@@ -66,15 +66,9 @@ This makes our code more testable and maintainable in the long run.
 
 ---
 
-Hope you found this useful.
+To learn more about Riverpod, check my Flutter Foundations course:
 
-For more Flutter tips, just follow me: [@biz84](https://twitter.com/biz84).
-
-Btw, my Flutter course already includes 2.5 hours of content about Riverpod, with more planned:
-
-- [The Complete Flutter Course Bundle](https://codewithandrea.com/courses/complete-flutter-bundle/)
-
-Happy coding!
+- [Flutter Foundations course](https://codewithandrea.com/courses/flutter-foundations/)
 
 ---
 

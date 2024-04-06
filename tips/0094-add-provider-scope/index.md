@@ -4,10 +4,8 @@ Say goodbye to common errors in your Flutter apps with the new Riverpod Lint pac
 
 This package will:
 
-- Tell you when you're missing a ProviderScope in your root widget
+- Tell you when you're missing a `ProviderScope` in your root widget
 - Provide a Quick Fix option to resolve it quickly
-
-More tips (and a new article) are coming soon. 😉
 
 ![](094.png)
 

@@ -69,7 +69,7 @@ Firebase is full of little nifty tools that make our life easier. 🔥
 
 You can use it to build simple apps, all the way to complex full-stack apps.
 
-And if you want to go deeper with Firebase, check out my latest course. 👇
+And if you want to go deeper with Firebase, check out this course. 👇
 
 - [Flutter & Firebase Masterclass](https://codewithandrea.com/courses/flutter-firebase-masterclass/)
 

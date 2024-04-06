@@ -9,6 +9,10 @@ Riverpod can handle both, as long as you choose the correct class or provider:
 
 ![](121.png)
 
+For more details, read this article:
+
+- [How to Fetch Data and Perform Data Mutations with the Riverpod Architecture](https://codewithandrea.com/articles/data-mutations-riverpod/)
+
 ---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1704486985925099958) 🙏

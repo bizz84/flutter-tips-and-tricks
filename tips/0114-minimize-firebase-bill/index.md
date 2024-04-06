@@ -16,7 +16,9 @@ If your collection contains 1000 documents, but the user can only see 10 at a ti
 
 And this is very easy to do with the [firebase_ui_firestore](https://pub.dev/packages/firebase_ui_firestore) package.
 
-More info here: [Firestore Pagination Made Easy with FirestoreListView in Flutter](https://codewithandrea.com/articles/firestore-pagination-list-view/)
+More info here:
+
+- [Firestore Pagination Made Easy with FirestoreListView in Flutter](https://codewithandrea.com/articles/firestore-pagination-list-view/)
 
 ---
 

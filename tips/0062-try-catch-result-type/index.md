@@ -123,21 +123,15 @@ How can we decide when to use it, and when not to?
 
 ---
 
-I'll be covering this in more detail in an upcoming thread.
-
-And I'm also writing some articles that will cover this topic more in detail.
-
-If you don't wanna miss them, follow me: [@biz84](https://twitter.com/biz84).
+I've covered this in more detail in a separate tip.
 
 And to learn more about error handling, check out my course:
 
-- [The Complete Flutter Course Bundle](https://codewithandrea.com/courses/complete-flutter-bundle/)
+- [Flutter Foundations course](https://codewithandrea.com/courses/flutter-foundations/)
 
 ---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1552337771158818817) 🙏
-
-### [Source code](main.dart)
 
 ### Also published on codewithandrea.com 👇
 

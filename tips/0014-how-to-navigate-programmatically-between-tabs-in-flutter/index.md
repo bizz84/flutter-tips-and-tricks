@@ -78,3 +78,5 @@ Happy coding!
 | Previous | Next |
 | -------- | ---- |
 | [Responsive Flutter card layout with `SizedBox` & `Center`](../0013-responsive-flutter-card-layout-with-sizedbox-center/index.md) | [`AsyncValueWidget`: a reusable Flutter widget to work with `AsyncValue` (using Riverpod)](../0015-asyncvaluewidget-a-reusable-flutter-widget-to-work-with-asyncvalue/index.md) |
+
+<!-- TODO:UPDATE -->

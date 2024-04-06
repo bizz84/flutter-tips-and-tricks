@@ -22,7 +22,7 @@ And make sure you also use all the null-aware operators (`?`, `!`, `?.`, `!.`, `
 
 Packages like Freezed and the Data Class extension help with this. Use them.
 
-https://pub.dev/packages/freezed
+- [Freezed package](https://pub.dev/packages/freezed)
 
 ---
 
@@ -59,18 +59,6 @@ If that's your thing, do TDD.
 ---
 
 The good news is that with a **repeatable** and well defined development process, all these issues can be solved, **consistently**.
-
-Want me to create more content about these topics?
-
-Then like the first tweet in this thread.
-
----
-
-And for more Flutter tips and threads like this, just follow me: [@biz84](https://twitter.com/biz84)
-
-Happy coding!
-
----
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1455950598071803911) 🙏
 

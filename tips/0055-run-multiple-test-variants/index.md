@@ -12,7 +12,6 @@ This is quite useful if you have a responsive app and want to run a golden image
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1537117778817204225) 🙏
 
-
 ---
 
 | Previous | Next |

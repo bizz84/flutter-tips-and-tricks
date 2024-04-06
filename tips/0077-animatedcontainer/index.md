@@ -3,7 +3,7 @@
 
 How easy is it to create this animation? 🤔
 
-All you need is a single widget in Flutter: AnimatedContainer 👌🏻
+All you need is a single widget in Flutter: `AnimatedContainer` 👌🏻
 
 Let's see how it works.
 
@@ -21,9 +21,9 @@ In this example, we pass the state variables we have declared to the relevant Co
 
 ![](077.2.png)
 
-To trigger the animation, we call setState and update the values as needed.
+To trigger the animation, we call `setState` and update the values as needed.
 
-This will rebuild the widget and the AnimatedContainer will *implicitly* animate to the new values (over the given duration).
+This will rebuild the widget and the `AnimatedContainer` will **implicitly** animate to the new values (over the given duration).
 
 ![](077.3.png)
 

@@ -4,8 +4,6 @@ When building non-trivial apps, following a *structured workflow* can bring grea
 
 Rather than diving straight into the code, here's a 6 step workflow that you can follow.
 
-Thread. 🧵
-
 ![](023-app-development-workflow-6-steps.png)
 
 ---
@@ -99,7 +97,7 @@ What matters is that you have your automated tests running every time you push a
 - Push a PR to GitHub, and review your own code
 - Once everything is green, merge and move on to the next task
 
-https://docs.github.com/en/get-started/quickstart/github-flow
+- [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow)
 
 ---
 

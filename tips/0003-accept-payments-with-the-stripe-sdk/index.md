@@ -20,4 +20,5 @@ Stripe supports various payment methods including wallets (Apple, Google Pay).
 | -------- | ---- |
 | [Flutter create --sample](../0002-flutter-create-sample/index.md) | [Flutter Lints package](../0004-flutter-lints-package/index.md) |
 
+<!-- TODO:REPLACE -->
 <!-- TWITTER|https://twitter.com/biz84/status/1435932664821919751 -->

@@ -2,7 +2,7 @@
 
 When updating to Xcode 15, you're likely to get this error when building your Flutter apps.
 
-The fastest and easiest way to fix this is to install the latest Cocoapods (**1.13.0**).
+The fastest and easiest way to fix this is to install the Cocoapods **1.13.0** or above.
 
 ![](125.png)
 

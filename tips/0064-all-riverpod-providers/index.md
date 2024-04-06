@@ -88,7 +88,7 @@ Wanna see more practical examples of when to use them?
 
 Then check out my extensive (and free) guide about Riverpod:
 
-- [Flutter State Management with Riverpod: The Essential Guide](https://codewithandrea.com/articles/flutter-state-management-riverpod/)
+- [Flutter Riverpod: The Ultimate Guide](https://codewithandrea.com/articles/flutter-state-management-riverpod/)
 
 ---
 
@@ -99,3 +99,5 @@ Then check out my extensive (and free) guide about Riverpod:
 | Previous | Next |
 | -------- | ---- |
 | [Explicit error types with Either](../0063-either-type-fpdart/index.md) | [How `kIsWeb` works in Flutter](../0065-kIsWeb/index.md) |
+
+<!-- TODO:UPDATE -->

@@ -50,9 +50,7 @@ The result? Super fast integration tests that can test complex user journeys in 
 
 Wanna learn more? My Flutter course covers automated testing in great depth, along with other important topics like state management with Riverpod, app architecture, navigation, and much more:
 
- - [The Complete Flutter Course Bundle](https://codewithandrea.com/courses/complete-flutter-bundle/)
-
-And for more Flutter tips, just follow me: [@biz84](https://twitter.com/biz84)
+- [Flutter Foundations Course](https://codewithandrea.com/courses/flutter-foundations/)
 
 ---
 
@@ -63,3 +61,5 @@ And for more Flutter tips, just follow me: [@biz84](https://twitter.com/biz84)
 | Previous | Next |
 | -------- | ---- |
 | [Simplified Flutter App Localization](../0024-simplified-flutter-app-localization/index.md) | [Running tests with GitHub actions](../0026-running-tests-with-github-actions/index.md) |
+
+<!-- TODO:REPLACE -->

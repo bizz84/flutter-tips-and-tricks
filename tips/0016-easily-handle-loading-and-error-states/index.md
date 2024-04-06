@@ -28,12 +28,6 @@ Finally, in the widget build method you can setup a listener that will show a Sn
 
 ---
 
-All the code above works if you use Riverpod and Freezed in your app, so make sure they are installed.
-
-I've got more tips like this coming along. So follow me for more: [@biz84](https://twitter.com/biz84).
-
----
-
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1448946157909053469) 🙏
 
 ---
@@ -41,3 +35,5 @@ I've got more tips like this coming along. So follow me for more: [@biz84](https
 | Previous | Next |
 | -------- | ---- |
 | [`AsyncValueWidget`: a reusable Flutter widget to work with `AsyncValue` (using Riverpod)](../0015-asyncvaluewidget-a-reusable-flutter-widget-to-work-with-asyncvalue/index.md) | [6 common sources of errors in Flutter apps](../0017-six-common-sources-of-errors-in-flutter-apps/index.md) |
+
+<!-- TODO:REPLACE -->

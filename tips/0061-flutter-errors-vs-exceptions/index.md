@@ -70,21 +70,15 @@ They all *implement* the base Exception class (you may create your own if you wa
 
 ---
 
-That's it for now. I'll be covering error & exception handling more in detail in upcoming tweets/threads.
+That's it for now. I've covered error & exception handling more in detail in some of my other tips.
 
-Want more tips like this?
+And if you want to go more in depth, my Flutter Foundations course covers the most important topics. 👇
 
-Follow me: [@biz84](https://twitter.com/biz84).
-
-And if you want to go more in depth, my Flutter course covers the most important topics. 👇
-
-- [The Complete Flutter Course Bundle](https://codewithandrea.com/courses/complete-flutter-bundle/)
+- [Flutter Foundations course](https://codewithandrea.com/courses/flutter-foundations/)
 
 ---
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1551443128925790210) 🙏
-
-### [Source code](main.dart)
 
 ---
 

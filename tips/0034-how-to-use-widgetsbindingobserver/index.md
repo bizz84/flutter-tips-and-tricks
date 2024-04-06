@@ -1,4 +1,4 @@
-# How to use `WidgetsBindingObserver`
+# How to use WidgetsBindingObserver
 
 `WidgetsBindingObserver` is very handy for listening to changes to:
 
@@ -46,11 +46,7 @@ That's it! You can now test this and check the logs when you background & foregr
 
 If you wanna learn more about `WidgetsBindingObserver`, the official documentation is your best friend:
 
-https://api.flutter.dev/flutter/widgets/WidgetsBindingObserver-class.html
-
-And for more Flutter tips, just follow me: [@biz84](https://twitter.com/biz84)
-
-Happy coding!
+- [WidgetsBindingObserver class](https://api.flutter.dev/flutter/widgets/WidgetsBindingObserver-class.html)
 
 ---
 

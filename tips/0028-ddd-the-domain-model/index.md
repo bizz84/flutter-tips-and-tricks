@@ -57,14 +57,6 @@ But here's a short summary that may help you take the first steps in this comple
 
 ---
 
-Did you find this useful or have feedback to share? Let me know in the comments. 👇
-
-And for more Flutter (and app development) tips, just follow me: [@biz84](https://twitter.com/biz84)
-
-Happy coding!
-
----
-
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1491381498641063938) 🙏
 
 ---

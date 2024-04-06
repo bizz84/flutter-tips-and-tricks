@@ -87,11 +87,11 @@ Make the most of what your backend has to offer.
 
 ---
 
-Choosing the right abstractions can be challenging (and not something I can easily cover in a thread).
+Choosing the right abstractions can be challenging.
 
-If you'd like to learn more about this - perhaps as a longer article, share and give this thread a like so I know you're interested. 🙂
+If for a deeper dive into this topic, read this article:
 
-Happy coding!
+- [How to use Abstraction and the Repository Pattern Effectively in your Flutter apps](https://codewithandrea.com/articles/abstraction-repository-pattern-flutter/)
 
 ---
 

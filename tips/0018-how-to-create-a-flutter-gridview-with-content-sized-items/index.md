@@ -56,15 +56,9 @@ And this only takes a few lines of code thanks to `flutter_layout_grid`!
 
 --------
 
-Want more Flutter tips like this?
-
-Then just follow me: [@biz84](https://twitter.com/biz84)
-
-I'll share a complete article with more details soon. 👇
+### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1463459311208775686) 🙏
 
 ---
-
-### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1463459311208775686) 🙏
 
 ### Also published on codewithandrea.com 👇
 

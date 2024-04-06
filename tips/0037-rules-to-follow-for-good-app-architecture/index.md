@@ -55,8 +55,6 @@ Same as above. When we need to show an alert dialog because something went wrong
 
 ### RULE: Do UI validation in the widgets*
 
-*This may be a controversial one.
-
 `FormState` and `TextEditingController` depend on the widget lifecycle, so they shouldn't go in the view models/blocs etc.
 
 Keep them in your widgets and offload everything else to the business logic.
@@ -64,12 +62,6 @@ Keep them in your widgets and offload everything else to the business logic.
 ---
 
 Following these simple rules will force you to structure your code properly and make it much easier to test.
-
-Are there any other rules you would recommend? Comments below.
-
-For more tips like this, follow me: [@biz84](https://twitter.com/biz84)
-
-Happy coding!
 
 ---
 

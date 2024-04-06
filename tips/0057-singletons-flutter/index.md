@@ -12,7 +12,7 @@ While they are "easy" to use, there are some drawbacks and potential pitfalls re
 
 Let's cover them in this thread. 🧵
 
-![](057.1-singletons-drawbacks.png)
+![1](057.1-singletons-drawbacks.png)
 
 ---
 
@@ -20,7 +20,7 @@ When used directly, singletons are hard to test.
 
 That's because they become implicit dependencies that can't be mocked inside our tests.
 
-![](057.2-singletons-hard-to-test.png)
+![2](057.2-singletons-hard-to-test.png)
 
 ---
 
@@ -32,7 +32,7 @@ As a result, we can easily:
 - stub its methods
 - verify that they are called
 
-![](057.3-dependency-injection.png)
+![3](057.3-dependency-injection.png)
 
 ---
 
@@ -44,7 +44,7 @@ But much harder to find on large classes.
 
 Instead, when we make dependencies **explicit** by declaring them as properties, they are always easy to find.
 
-![](057.4-implicit-dependencies.png)
+![4](057.4-implicit-dependencies.png)
 
 ---
 
@@ -54,7 +54,7 @@ This can be hard to do correctly if you roll out your own singletons.
 
 Packages such as get_it make the task easier by allowing you to create a **lazy** singleton.
 
-![](057.5-lazy-init.png)
+![5](057.5-lazy-init.png)
 
 ----
 
@@ -62,7 +62,7 @@ One issue with regular singletons is that they control their own lifecycle, maki
 
 Instead, we can use Riverpod, which gives us many different options to control the lifecycle of the state of a provider.
 
-![](057.6-instance-lifecycle.png)
+![6](057.6-instance-lifecycle.png)
 
 ---
 
@@ -70,7 +70,7 @@ And if we work with isolates, we also need to be careful.
 
 Isolates should not modify any mutable data that may be held inside a singleton, unless some synchronization system is in place.
 
-![](057.7-isolates.png)
+![7](057.7-isolates.png)
 
 ---
 
@@ -80,7 +80,7 @@ So what are some good alternatives to writing your own singletons?
 - Riverpod is a more powerful solution, with a bigger learning curve
 - Provider works too, but can get on the way
 
-![](057.8-alternatives.png)
+![9](057.8-alternatives.png)
 
 ---
 
@@ -88,11 +88,7 @@ Time for a wrap up!
 
 Creating your own singletons is often more trouble than it's worth, and there are better alternatives.
 
-I'll cover some finer details in an upcoming article.
-
-Have you decided for or against using singletons in your apps? Let me know in the comments. 👇
-
-![](057.1-singletons-drawbacks.png)
+![9](057.1-singletons-drawbacks.png)
 
 ---
 

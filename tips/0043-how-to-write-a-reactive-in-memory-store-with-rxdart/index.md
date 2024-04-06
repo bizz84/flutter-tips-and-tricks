@@ -34,15 +34,7 @@ Aside from `BehaviorSubject`, the RxDart package has many useful APIs for manipu
 
 You can learn more about it here:
 
-https://pub.dev/packages/rxdart
-
----
-
-Hope you found this useful.
-
-For more Flutter tips like this, just follow me: [@biz84](https://twitter.com/biz84).
-
-Happy coding!
+- [RxDart package](https://pub.dev/packages/rxdart)
 
 ---
 
