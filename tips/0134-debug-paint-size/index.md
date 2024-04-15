@@ -14,7 +14,7 @@ Want more fine-grained control and enable debug paint only for a specific widget
 
 Then, you can use this great little package by [@devangelslondon](https://twitter.com/devangelslondon) and debug like a pro:
 
-- [`devangels_show_debug_paint`](https://pub.dev/packages/devangels_show_debug_paint)
+- [devangels_show_debug_paint package](https://pub.dev/packages/devangels_show_debug_paint)
 
 ---
 
