@@ -31,7 +31,7 @@ For more details, read the official documentation:
 
 | Previous | Next |
 | -------- | ---- |
-| [Loading UI with Shimmer effect](../0154-shimmer-effect/index.md) |  |
+| [Loading UI with Shimmer effect](../0154-shimmer-effect/index.md) | [Debouncing in Flutter](../0156-debouncing-timer/index.md) |
 
 <!-- TWITTER|https://twitter.com/biz84/status/1775445897775558934 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-in-addition-to-the-regular-activity-7181211620457467904-N9l- -->
