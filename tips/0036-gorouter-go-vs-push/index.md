@@ -9,19 +9,19 @@ What is the difference between the two?
 
 A thread. 🧵
 
-![](036.1-go-vs-push.png)
+![1](036.1-go-vs-push.png)
 
 ---
 
 To start off, let's consider a simple route hierarchy made of one top route with two sub-routes.
 
-![](036.2-route-hierarchy.png)
+![2](036.2-route-hierarchy.png)
 
 ---
 
 Let's also define 3 pages for our routes:
 
-![](036.3-screens.png)
+![3](036.3-screens.png)
 
 ---
 
@@ -31,7 +31,7 @@ From here, we can either call `context.go('/detail')` or `context.push('/detail'
 
 That is, in both cases we'll have two routes in the navigation stack (home → detail).
 
-![](036.4-screens.png)
+![4](036.4-screens.png)
 
 ---
 
@@ -42,7 +42,7 @@ This time the result is different:
 - If we use "go", we end up with the modal page on top of the **home** page
 - If we use "push", we end up with the modal page on top of the **detail** page
 
-![](036.5-screens.png)
+![5](036.5-screens.png)
 
 ---
 
@@ -50,7 +50,7 @@ That's because "go" jumps to the target route (/modal) by **discarding** the pre
 
 Meanwhile, "push" always adds the target route on top of the existing one, preserving the navigation stack.
 
-![](036.2-route-hierarchy.png)
+![6](036.2-route-hierarchy.png)
 
 ---
 
@@ -61,7 +61,7 @@ This means that once we dismiss the modal page, we navigate back to:
 
 Here's a short video showing this behavior:
 
-![](https://codewithandrea.com/articles/flutter-navigation-gorouter-go-vs-push/images/go-router-go-vs-push.gif)
+![7](036.6-go-router-go-vs-push.gif)
 
 ---
 
