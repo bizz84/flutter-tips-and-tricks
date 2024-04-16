@@ -2,11 +2,15 @@
 
 A collection of all the Flutter tips & tricks I share on [Twitter](https://twitter.com/biz84) and [LinkedIn](https://www.linkedin.com/in/andreabizzotto/recent-activity/all/). If you find this useful, give it a star! 🌟
 
-![](code-with-andrea-banner.png)
-
 ## Preview
 
 ![](flutter-tips-preview.png)
+
+## Download the App
+
+This repo now has a companion app! [Download it here](https://fluttertips.dev/) to get all my Flutter tips on your phone: 
+
+[![Download the Flutter Tips app](social-media-banner.png)](https://fluttertips.dev/)
 
 ## Full List
 
