@@ -6,7 +6,7 @@ Let's figure it out. 🧵
 
 (hint: we'll use an `AnimatedBuilder`)
 
-![](https://codewithandrea.com/articles/flutter-text-field-form-validation/images/text-field-validation.gif)
+![1](012_text-field-validation.gif)
 
 ---
 
@@ -14,13 +14,13 @@ Let's start with a `StatefulWidget` that contains a `TextField` and an `Elevated
 
 This just shows the UI but doesn't do any validation.
 
-![](013_textfield_elevatedbutton.png)
+![2](013_textfield_elevatedbutton.png)
 
 ---
 
 Next, let's create a `TextEditingController`, dispose it as needed, and pass it to the `TextField`.
 
-![](013_add_texteditingcontroller.png)
+![3](013_add_texteditingcontroller.png)
 
 ---
 
@@ -30,7 +30,7 @@ To validate the text, we can add:
 - pass it to the `TextField`
 - use it to enable/disable our button with some conditional logic
 
-![](013_add_errortext.png)
+![4](013_add_errortext.png)
 
 ---
 
@@ -38,7 +38,7 @@ But if we try this now, both the `TextField` error hint and the button UI don't 
 
 Why? 🧐
 
-![](https://codewithandrea.com/articles/flutter-text-field-form-validation/images/text-field-not-updating.gif)
+![5](012_text-field-not-updating.gif)
 
 ---
 
@@ -46,7 +46,7 @@ We forgot to tell Flutter to rebuild our widget when the text changes!
 
 This *could* be fixed by setting a local state variable with a call to `setState()` in the `TextField` `onChanged` callback.
 
-![](013_onchanged_setstate.png)
+![6](013_onchanged_setstate.png)
 
 ---
 
@@ -58,7 +58,7 @@ So how can we rebuild the widget when the text value changes?
 
 We can wrap our widgets with an `AnimatedBuilder` and pass our `TextEditingController` to the animation argument:
 
-![](013_animated_builder.png)
+![7](013_animated_builder.png)
 
 ---
 
@@ -68,7 +68,7 @@ And `TextEditingController` extends `ValueNotifier`, which extends `ChangeNotifi
 
 Here's how these classes are implemented in the Flutter SDK:
 
-![](013_valuenotifier_changenotifier.png)
+![8](013_valuenotifier_changenotifier.png)
 
 ---
 
@@ -76,7 +76,7 @@ This means that we can pass instances of any of these classes to `AnimatedBuilde
 
 And we can now validate our text on the fly:
 
-![](https://codewithandrea.com/articles/flutter-text-field-form-validation/images/text-field-validation.gif)
+![9](012_text-field-validation.gif)
 
 > Complete article: [Flutter TextField Validation: How to work with TextEditingController, Form, and TextFormField](https://codewithandrea.com/articles/flutter-text-field-form-validation/)
 
