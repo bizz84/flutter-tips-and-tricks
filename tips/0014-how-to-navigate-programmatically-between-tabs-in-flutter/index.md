@@ -4,7 +4,7 @@ How do you navigate programmatically between tabs like this in Flutter?
 
 Let's figure it out. 🧵
 
-![](https://codewithandrea.com/articles/flutter-tab-bar-navigation/images/flutter-tab-bar-sequence.gif)
+![](015_flutter_tab_bar_sequence.gif)
 
 ----
 
@@ -29,7 +29,7 @@ This works, but by default we can still navigate through tabs by tapping on them
 
 If we want to lead the user through the pages in order, this is not ideal:
 
-![](https://codewithandrea.com/articles/flutter-tab-bar-navigation/images/flutter-tabs-interactive.gif)
+![](015_flutter_tabs_interactive.gif)
 
 ---
 
