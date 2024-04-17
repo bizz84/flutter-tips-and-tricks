@@ -203,7 +203,7 @@ To learn about how to build a complete search feature with pagination, read this
 
 | Previous | Next |
 | -------- | ---- |
-| [Null-aware spread operator (...?)](../0155-null-aware-spread-operator/index.md) |  |
+| [Null-aware spread operator (...?)](../0155-null-aware-spread-operator/index.md) | [Force App Upgrade Gone Wrong 😭](../0157-force-upgrade-gone-wrong/index.md)  |
 
 <!-- TWITTER|https://twitter.com/biz84/status/1779868484672823657 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_when-building-a-search-as-you-type-feature-activity-7185638243126648833-EezS -->
