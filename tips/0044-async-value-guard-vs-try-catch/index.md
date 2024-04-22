@@ -2,7 +2,7 @@
 
 Riverpod tip. 👇
 
-You can replace tedious `try`/`catch` blocks with `AsyncValue.guard()` inside your `StateNotifier` subclasses.
+You can replace tedious `try`/`catch` blocks with `AsyncValue.guard()` inside your `AsyncNotifier` subclasses.
 
 ![](044-async-value-vs-try-catch.png)
 
