@@ -18,9 +18,21 @@ This page covers the entire workflows syntax. 100% worth it:
 
 - [Workflow syntax for GitHub Actions](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions)
 
-And here's a gist with the basic test workflow that you can add to your project:
+### Adding a tests workflow to your repo
 
-https://gist.github.com/bizz84/c9b6d2ce383ac96c2a6d297cfeaa31d6
+To add a basic test worflow to your project, create a `.github/workflows/tests.yaml` file with these contents:
+
+```yaml
+name: Run Tests
+on: [push, workflow_dispatch]
+jobs:
+  drive:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - uses: subosito/flutter-action@v2.8.0
+      run: flutter test
+```
 
 ---
 
