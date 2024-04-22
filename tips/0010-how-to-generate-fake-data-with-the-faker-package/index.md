@@ -8,7 +8,7 @@ Use the Faker package:
 
 Supports addresses, names, food, dates, sports... you name it!
 
-![](011_faker.png)
+![](010.png)
 
 ---
 
