@@ -27,7 +27,7 @@ A couple things to note:
 
 ### Also published on codewithandrea.com 👇
 
-- [How to add Rounded Borders to a Widget in Flutter](https://codewithandrea.com/tips/rounded-border-widget-flutter/)
+- [Use DecoratedBox to add Rounded Borders to a Widget in Flutter](https://codewithandrea.com/tips/rounded-border-widget-flutter/)
 
 ---
 
