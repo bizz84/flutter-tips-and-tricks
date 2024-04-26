@@ -10,6 +10,12 @@ This is quite useful if you have a responsive app and want to run a golden image
 
 ---
 
+### Also published on codewithandrea.com 👇
+
+- [How to Run Multiple Test Variants](https://codewithandrea.com/tips/run-multiple-test-variants/)
+
+---
+
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1537117778817204225) 🙏
 
 ---

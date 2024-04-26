@@ -10,12 +10,20 @@ Super useful when you have dozens/hundreds of tests and you want to target speci
 
 ---
 
-There are configuration options to tag:
+Tags are quite flexible and you can use them to tag:
 
 - an entire test suite (with the `@Tags` annotation)
-- a test group or an individual test (with the tags argument)
+- a test group or an individual test (with the `tags` argument, as shown above)
 
-More info on the test package documentation: https://pub.dev/packages/test#tagging-tests
+More info on the test package documentation:
+
+- [Tagging Tests](https://pub.dev/packages/test#tagging-tests)
+
+---
+
+### Also published on codewithandrea.com 👇
+
+- [How to Use Tags in Your Unit and Widget Tests](https://codewithandrea.com/tips/unit-widget-test-tags-flutter/)
 
 ---
 
