@@ -1,6 +1,6 @@
 # Responsive Flutter layout with SizedBox & Center
 
-How do you create a Flutter card layout that grows horizontally up to a given width, then remains fixed at that width just like in this example?
+How do you create a Flutter card layout that grows horizontally up to a given width and then remains fixed at that width, like in this example?
 
 ![](014_centered-layout.gif)
 
@@ -80,6 +80,13 @@ To make life easier, I created a `ResponsiveCenterScrollable` widget that you ca
 Here's a full Dartpad example showing how it works:
 
 - [ResponsiveCenterScrollable demo with Dartpad](https://dartpad.dev/?id=6294ffeaef0ea8f5dfdfce1909f80422)
+
+---
+
+### Also published on codewithandrea.com 👇
+
+- [Responsive Flutter Layout with SizedBox & Center](https://codewithandrea.com/tips/responsive-center-layout/)
+
 
 ---
 
