@@ -58,7 +58,7 @@ Lessons learned:
 
 | Previous | Next |
 | -------- | ---- |
-| [Debouncing in Flutter](../0156-debouncing-timer/index.md) |  |
+| [Debouncing in Flutter](../0156-debouncing-timer/index.md) | [Hide Generated Dart Files in GitHub PRs](../0158-hide-generated-files-with-gitattributes/index.md) |
 
 <!-- TWITTER|https://twitter.com/biz84/status/1780506401086865438 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_i-messed-up-my-force-upgrade-logic-activity-7186272936855576576-gB42 -->
