@@ -40,7 +40,7 @@ To learn more about code generation in Dart, read this ultimate guide on my site
 
 | Previous | Next |
 | -------- | ---- |
-| [Force App Upgrade Gone Wrong](../0157-force-upgrade-gone-wrong/index.md) | [6 Steps to Become a 64x Programmer](../0159-6-steps-64x-programmer/index.md) |
+| [Force App Upgrade Gone Wrong](../0157-force-upgrade-gone-wrong/index.md) | [Useful Aliases for Flutter Development](../0159-useful-aliases-flutter-dev/index.md) |
 
 <!-- TWITTER|https://twitter.com/biz84/status/1787840083954950434 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-if-you-use-buildrunner-and-activity-7193605951357169666-igIf -->
