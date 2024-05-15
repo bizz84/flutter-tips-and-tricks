@@ -48,4 +48,4 @@ Read this article for all the details: 👇
 
 | Previous | Next |
 | -------- | ---- |
-| [Hide Generated Dart Files in GitHub PRs](../0158-hide-generated-files-with-gitattributes/index.md) |  |
+| [Hide Generated Dart Files in GitHub PRs](../0158-hide-generated-files-with-gitattributes/index.md) | [JsonCodable (Dart Macros experiment)](../0160-dart-macros-json-codable/index.md) |
