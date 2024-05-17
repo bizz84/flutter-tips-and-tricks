@@ -1,5 +1,7 @@
 # Preloading SVG assets in Flutter
 
+> Note: this tip is outdated. For a more modern approach, read: [Transform SVG assets at build time](https://github.com/bizz84/flutter-tips-and-tricks/blob/main/tips/0161-vector-graphics-compiler/index.md)
+
 SVGs have some advantages over regular images:
 
 - scalable without loss of quality
