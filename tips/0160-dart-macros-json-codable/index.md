@@ -46,7 +46,7 @@ If you want to have a play with it, read the official docs for how to enable it:
 
 | Previous | Next |
 | -------- | ---- |
-| [Useful Aliases for Flutter Development](../0159-useful-aliases-flutter-dev/index.md) |  |
+| [Useful Aliases for Flutter Development](../0159-useful-aliases-flutter-dev/index.md) | [Transform SVG assets at build time](../0161-vector-graphics-compiler/index.md) |
 
 <!-- TWITTER|https://twitter.com/biz84/status/1790764117579509824 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-as-of-dart-350-master-channel-activity-7196530105374961667-1t6q -->
