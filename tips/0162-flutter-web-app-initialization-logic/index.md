@@ -8,6 +8,8 @@ The easiest way to upgrade your existing apps is to delete the web folder and re
 
 ![](162.1.png)
 
+> Note: if you recreate the Flutter web project from scratch, remember to update your `index.html`, icons, and manifest files with whatever customizations you had before.
+
 <!--
 
 Run this to upgrade your Flutter web project:
