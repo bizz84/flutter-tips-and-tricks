@@ -67,7 +67,7 @@ For all the details, read the official docs:
 
 | Previous | Next |
 | -------- | ---- |
-| [JsonCodable (Dart Macros experiment)](../0160-dart-macros-json-codable/index.md) |  |
+| [JsonCodable (Dart Macros experiment)](../0160-dart-macros-json-codable/index.md) | [Flutter Web App Initialization Logic with CSS Loader](../0162-flutter-web-app-initialization-logic/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1791392190716952636 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-with-the-vector-graphics-compiler-activity-7197158879045054464-pp9p -->
