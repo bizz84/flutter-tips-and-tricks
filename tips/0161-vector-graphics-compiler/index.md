@@ -54,8 +54,8 @@ For a demo of the new Vector Graphics Compiler, check out this free UI challenge
 
 Flutter 3.22 can do more than just precompiling SVGs:
 
-✅ apply filters
-✅ optimize PNGs
+- apply filters
+- optimize PNGs
 
 You can even create your own transformer packages.
 
