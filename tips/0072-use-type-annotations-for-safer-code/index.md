@@ -1,4 +1,4 @@
-# Use type annotations for safer code
+# Use Type Annotations for Safer Code
 
 The Dart analyzer can infer types for fields, methods, variables, and more.
 
@@ -7,6 +7,22 @@ But sometimes it needs a little help and you can use type annotations to ensure 
 This way, your code won't compile if you use types incorrectly.
 
 ![](072.png)
+
+<!--
+// inferred type: List<dynamic>
+final allInts = [1, 6, 2.2, 3, 8.12, 4, 9, 'string'];
+
+// inferred type: List<int>
+final allIntsForSure = <int>[1, 6, 2.2, 3, 8.12, 4, 9, 'string'];
+
+allInts.add(5);
+allInts.add(5.0);
+allInts.add('I can add anything!');
+allInts.add(true);
+allIntsForSure.add(5);
+allIntsForSure.add(5.0);
+allIntsForSure.add('Will not compile!');
+-->
 
 ---
 

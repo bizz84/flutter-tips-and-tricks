@@ -1,10 +1,10 @@
-# How to define type aliases in Dart
+# How to Define Type Aliases in Dart
 
 In Dart, you can use a "typedef" to define type aliases for your function and non-function types.
 
 They make your code more concise, so you can avoid repeating long type names. 👌
 
-Particularly useful useful for long function arguments or complex types with generics. 👍
+Typedefs are particularly useful for functions with many arguments or complex types with generics. 👍
 
 ![](073.0.gif)
 

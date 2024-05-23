@@ -1,4 +1,4 @@
-# Prefer `const` over `final` over `var`
+# Prefer const over final over var
 
 When declaring variables in Dart, prefer `const` over `final` over `var`:
 
@@ -9,6 +9,21 @@ When declaring variables in Dart, prefer `const` over `final` over `var`:
 The static analyzer will help you choose wisely. 🙂
 
 ![](071.png)
+
+<!--
+void main() {
+  const favourite = 'I like pizza with tomatoes';
+  final newFavourite = favourite.replaceAll('pizza', 'pasta');
+  var totalSpaces = 0;
+  for (var i = 0; i < newFavourite.length; i++) {
+    final c = newFavourite[i];
+    if (c == ' ') {
+      totalSpaces++;
+    }
+    print(' Counted $totalSpaces spaces ');
+  }
+}
+-->
 
 ---
 
