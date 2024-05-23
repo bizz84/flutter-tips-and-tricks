@@ -4,7 +4,7 @@ Did you know?
 
 With the Vector Graphics Compiler, you can precompile SVGs at build time for better rendering performance.
 
-To do this, install the `vector_graphics_compiler` package and use it as a transformer for each of your SVG assets.
+To do this, install the [`vector_graphics_compiler`](https://pub.dev/packages/vector_graphics_compiler) package and use it as a transformer for your SVG assets (both individual files and folders are supported).
 
 ![](161.1.png)
 
@@ -17,10 +17,12 @@ dev_dependencies:
 
 flutter:
   assets:
+    # Apply transformer to a single SVG file
     - path: assets/icon_comment.svg
       transformers:
         - package: vector_graphics_compiler
-    - path: assets/icon_heart_blue.svg
+    # Apply transformer to a folder of SVGs
+    - path: assets/svg/
       transformers:
         - package: vector_graphics_compiler
 -->
