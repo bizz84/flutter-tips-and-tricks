@@ -24,6 +24,10 @@ Screenshot written to flutter_01.png (426kB).
 
 ---
 
+Alternatively, simply hit **CMD+S** (on macOS) or **CTRL+S** (on Windows) from your iOS simulator or Android emulator to capture a screenshot.
+
+---
+
 | Previous | Next |
 | -------- | ---- |
 | [Flutter Web App Initialization Logic with CSS Loader](../0162-flutter-web-app-initialization-logic/index.md) |  |
