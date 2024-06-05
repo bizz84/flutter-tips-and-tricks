@@ -6,14 +6,6 @@ Here are some useful aliases to speed up your workflow:
 
 ![](159.png)
 
----
-
-If you use VSCode, also consider the following:
-
-- Use IDE [hotkeys](https://codewithandrea.com/articles/vscode-shortcuts-extensions-settings-flutter-development/#vscode-shortcuts-for-flutter-development) & [snippets](https://codewithandrea.com/articles/dart-flutter-code-generation/#create-code-snippets) 🔥
-- Use [extensions](https://codewithandrea.com/articles/vscode-shortcuts-extensions-settings-flutter-development/#vscode-shortcuts-for-flutter-development) 🧩
-- Customize your IDE [settings](https://codewithandrea.com/articles/vscode-shortcuts-extensions-settings-flutter-development/#vscode-shortcuts-for-flutter-development) ⚙️
-
 <!--
 Useful Aliases for Flutter Development
 
@@ -39,6 +31,14 @@ Also consider:
 - Customize settings
 
 -->
+
+---
+
+If you use VSCode, also consider the following:
+
+- Use IDE [hotkeys](https://codewithandrea.com/articles/vscode-shortcuts-extensions-settings-flutter-development/#vscode-shortcuts-for-flutter-development) & [snippets](https://codewithandrea.com/articles/dart-flutter-code-generation/#create-code-snippets) 🔥
+- Use [extensions](https://codewithandrea.com/articles/vscode-shortcuts-extensions-settings-flutter-development/#vscode-shortcuts-for-flutter-development) 🧩
+- Customize your IDE [settings](https://codewithandrea.com/articles/vscode-shortcuts-extensions-settings-flutter-development/#vscode-shortcuts-for-flutter-development) ⚙️
 
 Read this article for all the details: 👇
 
