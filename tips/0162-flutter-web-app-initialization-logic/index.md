@@ -55,7 +55,7 @@ For all the details about the new app initialization process, read the official 
 
 | Previous | Next |
 | -------- | ---- |
-| [Transform SVG assets at build time](../0161-vector-graphics-compiler/index.md) |  |
+| [Transform SVG assets at build time](../0161-vector-graphics-compiler/index.md) | [Taking screenshots with the Flutter CLI](../0163-flutter-screenshot/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1792839682688184433 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-apps-created-with-flutter-activity-7198606765519687681-V9Se -->
