@@ -3,7 +3,7 @@
 What's the difference between errors and exceptions in Flutter?
 
 → Errors are programmer mistakes. They are fatal and we should not try to recover from them
-→ Exceptions are failure conditions that are our of our control. We should handle them and recover gracefully
+→ Exceptions are failure conditions that are out of our control. We should handle them and recover gracefully
 
 Thread 🧵
 
