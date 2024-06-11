@@ -30,7 +30,7 @@ Alternatively, simply hit **CMD+S** (on macOS) or **CTRL+S** (on Windows) from y
 
 | Previous | Next |
 | -------- | ---- |
-| [Flutter Web App Initialization Logic with CSS Loader](../0162-flutter-web-app-initialization-logic/index.md) |  |
+| [Flutter Web App Initialization Logic with CSS Loader](../0162-flutter-web-app-initialization-logic/index.md) | [The UniversalPlatform Package](../0164-universal-platform-package/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1792839682688184433 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-that-you-take-screenshots-with-activity-7204108295022788609-7A2p -->
