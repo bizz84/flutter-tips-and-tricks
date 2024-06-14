@@ -31,6 +31,17 @@ if (!kIsWeb && defaultTargetPlatform == TargetPlatform.iOS) { ... }
 
 ---
 
+### Why are kIsWeb and defaultTargetPlatform both needed?
+
+According to the [docs](https://api.flutter.dev/flutter/foundation/defaultTargetPlatform.html):
+
+- `kIsWeb` is a boolean which is true if the application is running on the web
+- `defaultTargetPlatform` returns which platform the browser is running on
+
+For a more detailed discussion about these APIs, read [this thread](https://x.com/biz84/status/1801525375060873701).
+
+---
+
 | Previous | Next |
 | -------- | ---- |
 | [The UniversalPlatform Package](../0164-universal-platform-package/index.md) |  |
