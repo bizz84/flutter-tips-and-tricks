@@ -60,8 +60,6 @@ And when fetching **data**, it makes sense to use `FutureProvider` (as it can be
 
 ### Found this useful? Show some love and share the [original tweet](https://twitter.com/biz84/status/1537796968503705601) 🙏
 
-### [Source code](main.dart)
-
 ---
 
 | Previous | Next |
