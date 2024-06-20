@@ -44,7 +44,7 @@ For a more detailed discussion about these APIs, read [this thread](https://x.co
 
 | Previous | Next |
 | -------- | ---- |
-| [The UniversalPlatform Package](../0164-universal-platform-package/index.md) |  |
+| [The UniversalPlatform Package](../0164-universal-platform-package/index.md) | [Conditional Imports for Web/Native APIs](../0166-conditional-imports/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1801161442118242783 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-if-your-code-checks-the-current-activity-7206927597866266625-eptz -->
