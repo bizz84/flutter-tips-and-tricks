@@ -41,7 +41,7 @@ if (kIsWeb && isCanvasKitRenderer()) {
 
 | Previous | Next |
 | -------- | ---- |
-| [Use defaultTargetPlatform and kIsWeb](../0165-default-target-platform/index.md) |  |
+| [Use defaultTargetPlatform and kIsWeb](../0165-default-target-platform/index.md) | [Find Unused Dart Files (VSCode Extension)](../0167-find-unused-dart-files/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1803796875734090130 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-if-you-try-to-access-a-web-specific-activity-7209562745543741441-9qCN -->
