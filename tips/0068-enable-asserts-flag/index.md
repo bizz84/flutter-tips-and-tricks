@@ -4,11 +4,13 @@ When running a Dart or Flutter app, assertions are only enabled in Debug mode.
 
 But in Release mode, they are disabled by default.
 
-To change this behavior, add the `--enable-asserts` flag when running from the command line.
+If you want to change this behavior, add the `--enable-asserts` flag when running from the command line.
 
 Or set it globally in your VSCode settings file.
 
 ![](068-enable-asserts.png)
+
+> Note: while you **can** enable asserts in release mode, you probably **shoudn't**. Assets are used to warn you of programmer errors during development. As such, you should fix them before release.
 
 ---
 

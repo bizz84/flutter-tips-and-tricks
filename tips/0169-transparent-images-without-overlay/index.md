@@ -35,7 +35,7 @@ To learn more about the `Opacity` widget and its alternatives, read the official
 
 | Previous | Next |
 | -------- | ---- |
-| [Disposing fields to avoid memory leaks](../0168-dispose-to-avoid-memory-leaks/index.md) |  |
+| [Disposing fields to avoid memory leaks](../0168-dispose-to-avoid-memory-leaks/index.md) | [The build method: DOs and DON'Ts](../0170-build-method-do-dont/index.md) |
 
 
 <!-- TWITTER|https://x.com/biz84/status/1806329277295583261 -->
