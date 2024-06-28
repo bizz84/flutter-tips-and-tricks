@@ -41,7 +41,7 @@ dart_code_metrics:
 
 | Previous | Next |
 | -------- | ---- |
-| [Find Unused Dart Files (VSCode Extension)](../0167-find-unused-dart-files/index.md) | [Transparent Images Without Opacity](../0169-transparent-images-without-overlay/index.md) |
+| [Find Unused Dart Files (VSCode Extension)](../0167-find-unused-dart-files/index.md) | [Transparent Images Without Opacity](../0169-transparent-images-with-opacity/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1805971627437428950 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-forgetting-to-dispose-an-animationcontroller-activity-7211737496328507393-Gmtu -->
