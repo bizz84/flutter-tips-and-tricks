@@ -42,7 +42,7 @@ To learn more about the `Opacity` widget and its alternatives, read the official
 
 - [Opacity class](https://api.flutter.dev/flutter/widgets/Opacity-class.html)
 - [Image.opacity property](https://api.flutter.dev/flutter/widgets/Image/opacity.html)
-- [AlwaysStoppedAnimation<T> class](https://api.flutter.dev/flutter/animation/AlwaysStoppedAnimation-class.html)
+- [AlwaysStoppedAnimation class](https://api.flutter.dev/flutter/animation/AlwaysStoppedAnimation-class.html)
 
 ---
 
@@ -51,7 +51,7 @@ To learn more about the `Opacity` widget and its alternatives, read the official
 | [Disposing fields to avoid memory leaks](../0168-dispose-to-avoid-memory-leaks/index.md) | [The build method: DOs and DON'Ts](../0170-build-method-do-dont/index.md) |
 
 
-<!-- TWITTER|https://x.com/biz84/status/1806329277295583261 -->
-<!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_if-you-need-to-show-a-semi-transparent-image-activity-7212095137106006016-xdxL -->
+<!-- TWITTER|https://x.com/biz84/status/1806611989961085412 -->
+<!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_take-2-if-you-need-to-show-a-semi-transparent-activity-7212378193616404481-zy4l -->
 
 
