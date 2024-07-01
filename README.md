@@ -193,7 +193,7 @@ This repo now has a companion app! [Download it here](https://fluttertips.dev/) 
 
 If these tips have helped you, make sure to star this repo 🌟 and [share this tweet](https://twitter.com/biz84/status/1546868449963540480)! 🙏 
 
-This way others can benefit too and everyone can learn! 👍
+This way, others can benefit, too, and everyone can learn! 👍
 
 ## How to Contribute
 
