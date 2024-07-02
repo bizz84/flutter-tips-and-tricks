@@ -63,7 +63,7 @@ If you got this wrong before, it will help you. 👇
 
 | Previous | Next |
 | -------- | ---- |
-| [Transparent Images Without Opacity](../0169-transparent-images-without-overlay/index.md) |  |
+| [Transparent Images With Opacity](../0169-transparent-images-with-opacity/index.md) |  |
 
 
 
