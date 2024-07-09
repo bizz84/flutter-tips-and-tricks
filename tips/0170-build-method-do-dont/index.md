@@ -63,8 +63,7 @@ If you got this wrong before, it will help you. 👇
 
 | Previous | Next |
 | -------- | ---- |
-| [Transparent Images With Opacity](../0169-transparent-images-with-opacity/index.md) |  |
-
+| [Transparent Images With Opacity](../0169-transparent-images-with-opacity/index.md) | [TextField with Selection Height Style](../0171-textfield-selection-height-style/index.md) |
 
 
 <!-- TWITTER|https://x.com/biz84/status/1806345326262890870 -->
