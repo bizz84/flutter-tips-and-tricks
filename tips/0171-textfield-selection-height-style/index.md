@@ -39,7 +39,7 @@ To learn more, read the official docs:
 
 | Previous | Next |
 | -------- | ---- |
-| [The build method: DOs and DON'Ts](../0170-build-method-do-dont/index.md) |  |
+| [The build method: DOs and DON'Ts](../0170-build-method-do-dont/index.md) | [Dio + CancelToken + Riverpod = ❤️](../0172-dio-cancel-token-riverpod/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1810657776525316263 -->
 <!-- LINKEDIN|https://www.linkedin.com/feed/update/urn:li:activity:7216423635584987139/ -->
