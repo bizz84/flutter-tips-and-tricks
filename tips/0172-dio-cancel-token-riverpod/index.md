@@ -50,7 +50,7 @@ Here's a more in-depth example showing how to implement a caching-with-timeout s
 
 | Previous | Next |
 | -------- | ---- |
-| [TextField with Selection Height Style](../0171-textfield-selection-height-style/index.md) |  |
+| [TextField with Selection Height Style](../0171-textfield-selection-height-style/index.md) | [Hugeicons (4,000 stroke Flutter icons)](../0173-hugeicons-flutter-stroke-icons/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1811393419643691340 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-canceltoken-lets-you-cancel-activity-7217159479170084864-30p2  -->
