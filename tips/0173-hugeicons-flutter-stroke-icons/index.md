@@ -27,6 +27,15 @@ Head to hugeicons.com to search the entire collection and export the icons in yo
 
 ---
 
+### Note about app bundle size and Android compatibility
+
+Note that the package defines all the fonts as a single [woff2 file](https://github.com/hugeicons/hugeicons-flutter/blob/main/lib/fonts/hgi-stroke-rounded.woff2). This has two implications:
+
+- Your app bundle size will increase as the font file will be included
+- As noted in [this issue from 2022](https://github.com/hugeicons/hugeicons-flutter/issues/1), `woff2` files are not supported on Android. As a result, you can't use this package on Android as the icons will render incorrectly.
+
+---
+
 | Previous | Next |
 | -------- | ---- |
 | [Dio + CancelToken + Riverpod = ❤️](../0172-dio-cancel-token-riverpod/index.md) |  |
