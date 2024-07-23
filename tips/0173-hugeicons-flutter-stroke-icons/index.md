@@ -38,7 +38,7 @@ Note that the package defines all the fonts as a single [woff2 file](https://git
 
 | Previous | Next |
 | -------- | ---- |
-| [Dio + CancelToken + Riverpod = ❤️](../0172-dio-cancel-token-riverpod/index.md) |  |
+| [Dio + CancelToken + Riverpod = ❤️](../0172-dio-cancel-token-riverpod/index.md) | [Get the Current Method Name (Hack)](../0174-get-method-name-stack-trace/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1815306027568390349 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-the-hugeicons-package-was-activity-7221071863290937344-shWZ  -->
