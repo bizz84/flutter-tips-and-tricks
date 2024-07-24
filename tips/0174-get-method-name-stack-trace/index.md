@@ -44,10 +44,46 @@ class LoggerAnalyticsClient {
 
 ---
 
-Note that this approach is a bit fragile and doesn't work well with extension methods or closures, where the stack frames look a bit different.
+### Example code
 
-So, if you want to use it, make sure it's enabled only on debug builds. 
+Note that the code above is a bit fragile and doesn't work well with extension methods or closures, where the stack frames look a bit different.
 
+Here's a more refined and robust example that works better with closures:
+
+```dart
+/// Helper function to extract the current method name from the stack trace
+String getCurrentMethodName() {
+  final frames = StackTrace.current.toString().split('\n');
+  // The second frame in the stack trace contains the current method
+  final frame = frames.elementAtOrNull(1);
+  if (frame != null) {
+    // Extract the method name from the frame. For example, given this input string:
+    // #1      LoggerAnalyticsClient.trackAppOpen (package:flutter_ship_app/src/monitoring/logger_analytics_client.dart:28:9)
+    // The code will return: LoggerAnalyticsClient.trackAppOpen
+    final tokens = frame
+        .replaceAll('<anonymous closure>', '<anonymous_closure>')
+        .split(' ');
+    final methodName = tokens.elementAtOrNull(tokens.length - 2);
+    if (methodName != null) {
+      // if the class name is included, remove it, otherwise return as is
+      final methodTokens = methodName.split('.');
+      // ignore_for_file:avoid-unsafe-collection-methods
+      return methodTokens.length >= 2 &&
+              methodTokens[1] != '<anonymous_closure>'
+          ? (methodTokens.elementAtOrNull(1) ?? '')
+          : methodName;
+    }
+  }
+  return '';
+}
+```
+
+In any case, this is just a hack:
+
+- It's slow, so don't use it in hot code paths (like loops)
+- It won't work if you enable obfuscation 
+
+So, if you want to use it, make sure it's enabled on **debug builds only**. 
 
 ---
 
