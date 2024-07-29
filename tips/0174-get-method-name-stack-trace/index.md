@@ -89,7 +89,7 @@ So, if you want to use it, make sure it's enabled on **debug builds only**.
 
 | Previous | Next |
 | -------- | ---- |
-| [Hugeicons (4,000 stroke Flutter icons)](../0173-hugeicons-flutter-stroke-icons/index.md) |  |
+| [Hugeicons (4,000 stroke Flutter icons)](../0173-hugeicons-flutter-stroke-icons/index.md) | [How to use --dart-define-from-file with .env and json files](../0175-dart-define-from-file-env-json/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1815754159666176419 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-by-doing-some-string-manipulation-activity-7221520196753133568-fGId  -->
