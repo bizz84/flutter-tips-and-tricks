@@ -1,8 +1,12 @@
 # Use unawaited for your analytics calls
 
-When tracking analytics events in your code, consider using `unawaited()` from `dart:async`.
+When tracking analytics events in your code, consider using `unawaited` from `dart:async`.
 
-This makes it explicit that your code shouldn't wait for the Future to return or be interrupted if it fails (most analytics SDKs automatically retry in case of failure).
+Why?
+
+Analytics calls should be fire & forget and not interrupt the flow of your code if they fail.
+
+By using `unawaited`, you make your intent more explicit.
 
 ![](176.png)
 
@@ -24,3 +28,6 @@ Future<void> deleteAppById(int appId) async {
 | Previous | Next |
 | -------- | ---- |
 | [How to use --dart-define-from-file with .env and json files](../0175-dart-define-from-file-env-json/index.md) |  |
+
+<!-- TWITTER|https://x.com/biz84/status/1818294816523870655 -->
+<!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_take-2-when-tracking-analytics-events-activity-7224060927837384704-TPb4 -->

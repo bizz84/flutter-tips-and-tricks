@@ -88,28 +88,6 @@ assert(Env.sentryDsn.isNotEmpty,
 
 -->
 
-
-
-Did you know?
-
-
---dart-define-from-file supports both .env and json files.
-
-
-Here's how to use each variant.
-
-
----
-
-
-Then, you can use String.fromEnvironment to read the keys in your Dart code.
-
-
-For convenience, define an Env class that holds all the keys in one place. This makes it easier to use them.
-
-
-Extra tip: when your app starts, assert that the variables are actually defined.
-
 ---
 
 | Previous | Next |
@@ -117,6 +95,5 @@ Extra tip: when your app starts, assert that the variables are actually defined.
 | [Get the Current Method Name (Hack)](../0174-get-method-name-stack-trace/index.md) | [Use unawaited for your analytics calls](../0176-use-unawaited-analytics-calls/index.md) |
 
 
-
 <!-- TWITTER|https://x.com/biz84/status/1817917584932495809 -->
-<!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-dart-define-from-file-supports-activity-7223683380347871232-wVcO -->
+<!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-dart-define-from-file-supports-activity-7223683174126489600-cGMD -->
