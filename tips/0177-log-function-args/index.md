@@ -1,5 +1,5 @@
 
-# log function args (dart:developer)
+# Useful arguments in the log function (from dart:developer)
 
 Did you know?
 
