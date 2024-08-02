@@ -1,12 +1,12 @@
 # Futures: await vs unawaited vs ignore
 
-When you call a method that returns a Future, you have a decision to make:
+When you call a method that returns a `Future`, you have a decision to make:
 
 - use await (most common)
 - use unawaited
 - use ignore
 
-This decision affects how the code is executed when the Future throws, so make sure you understand each case well.
+This decision affects how the code is executed when the `Future` throws, so make sure you understand each case well.
 
 Here's an explanation. 👇
 
@@ -29,6 +29,8 @@ someFuture().ignore();
 ```
 -->
 
+---
+
 Here are some resources where you can learn more:
 
 - [Asynchrony support](https://dart.dev/language/async)
@@ -40,3 +42,7 @@ Here are some resources where you can learn more:
 | Previous | Next |
 | -------- | ---- |
 | [Useful arguments in the log function (from dart:developer)](../0177-log-function-args/index.md) |  |
+
+
+<!-- TWITTER|https://x.com/biz84/status/1819362519879713221 -->
+<!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_when-you-call-a-method-that-returns-a-future-activity-7225128409583005698-FKIq -->
