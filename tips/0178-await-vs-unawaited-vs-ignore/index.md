@@ -2,9 +2,9 @@
 
 When you call a method that returns a `Future`, you have a decision to make:
 
-- use await (most common)
-- use unawaited
-- use ignore
+- use `await` (most common)
+- use `unawaited`
+- use `ignore`
 
 This decision affects how the code is executed when the `Future` throws, so make sure you understand each case well.
 
@@ -26,7 +26,6 @@ unawaited(someFuture());
 
 // Completely ignores this future and its result
 someFuture().ignore();
-```
 -->
 
 ---
