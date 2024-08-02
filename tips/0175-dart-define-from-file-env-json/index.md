@@ -52,7 +52,7 @@ Then, you can use `String.fromEnvironment` to read the keys in your Dart code.
 
 For convenience, define an `Env` class that holds all the keys in one place. This makes it easier to use them.
 
-Extra tip: when your app starts, throws an exception if the keys are not defined.
+Extra tip: when your app starts, throw an exception if the keys are not defined (this will help you catch any configuration errors):
 
 ![](175.2.png)
 
