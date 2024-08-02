@@ -52,7 +52,7 @@ Then, you can use `String.fromEnvironment` to read the keys in your Dart code.
 
 For convenience, define an `Env` class that holds all the keys in one place. This makes it easier to use them.
 
-Extra tip: when your app starts, assert that the variables are actually defined.
+Extra tip: when your app starts, throws an exception if the keys are not defined.
 
 ![](175.2.png)
 
@@ -80,12 +80,13 @@ await SentryFlutter.init(
   },
 );
 
-// For extra safety, assert that the variables are defined
-assert(Env.mixpanelProjectToken.isNotEmpty,
-    'MIXPANEL_PROJECT_TOKEN not defined');
-assert(Env.sentryDsn.isNotEmpty,
-    'SENTRY_DSN not defined');
-
+// For extra safety, throw an exception if the keys are not defined
+  if (Env.mixpanelProjectToken.isEmpty) {
+    throw Exception('MIXPANEL_PROJECT_TOKEN not defined');
+  }
+  if (Env.sentryDsn.isEmpty) {
+    throw Exception('SENTRY_DSN not defined');
+  }
 -->
 
 ---

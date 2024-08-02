@@ -1,6 +1,6 @@
 # Use unawaited for your analytics calls
 
-When tracking analytics events in your code, consider using `unawaited` from `dart:async`.
+When tracking analytics events in your code, consider using [`unawaited`](https://api.flutter.dev/flutter/dart-async/unawaited.html) from `dart:async`.
 
 Why?
 
@@ -22,6 +22,10 @@ Future<void> deleteAppById(int appId) async {
   }
 }
 -->
+
+For more info, read:
+
+- [unawaited function](https://api.flutter.dev/flutter/dart-async/unawaited.html)
 
 ---
 
