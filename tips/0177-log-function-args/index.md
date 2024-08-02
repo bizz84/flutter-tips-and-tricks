@@ -48,7 +48,7 @@ To learn about all the supported arguments, check the official docs:
 
 | Previous | Next |
 | -------- | ---- |
-| [Use unawaited for your analytics calls](../0176-use-unawaited-analytics-calls/index.md) |  |
+| [Use unawaited for your analytics calls](../0176-use-unawaited-analytics-calls/index.md) | [Futures: await vs unawaited vs ignore](../0178-await-vs-unawaited-vs-ignore/index.md) |
 
 
 <!-- TWITTER|https://x.com/biz84/status/1818615169108324603 -->
