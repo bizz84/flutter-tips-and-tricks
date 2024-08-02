@@ -1,6 +1,6 @@
 # Use unawaited for your analytics calls
 
-When tracking analytics events in your code, consider using [`unawaited`](https://api.flutter.dev/flutter/dart-async/unawaited.html) from `dart:async`.
+When tracking analytics events in your code, consider using [unawaited](https://api.flutter.dev/flutter/dart-async/unawaited.html) from `dart:async`.
 
 Why?
 
