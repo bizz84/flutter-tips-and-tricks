@@ -89,6 +89,10 @@ await SentryFlutter.init(
   }
 -->
 
+For a more in-depth guide about API keys in Flutter, read:
+
+- [How to Store API Keys in Flutter: --dart-define vs .env files](https://codewithandrea.com/articles/flutter-api-keys-dart-define-env-files/)
+
 ---
 
 | Previous | Next |
