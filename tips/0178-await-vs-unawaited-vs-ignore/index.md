@@ -40,7 +40,7 @@ Here are some resources where you can learn more:
 
 | Previous | Next |
 | -------- | ---- |
-| [Useful arguments in the log function (from dart:developer)](../0177-log-function-args/index.md) |  |
+| [Useful arguments in the log function (from dart:developer)](../0177-log-function-args/index.md) | [The OverflowBar widget](../0179-overflowbar-widget/index.md)  |
 
 
 <!-- TWITTER|https://x.com/biz84/status/1819362519879713221 -->
