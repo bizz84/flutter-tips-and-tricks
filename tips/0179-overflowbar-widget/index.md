@@ -28,10 +28,18 @@ OverflowBar(
 
 ---
 
-For more info and sample code on how to use the OverflowBar widget, check the official docs:
+Note that `OverflowBar` differs from the [`Wrap`](https://api.flutter.dev/flutter/widgets/Wrap-class.html) widget:
+
+- when `Wrap` overflows, it keeps adding items horizontally.
+- when `OverflowBar` overflows, it makes the entire layout vertical.
+
+Different widgets for different use cases. 👍
+
+---
+
+For more info and sample code on how to use the `OverflowBar` widget, check the official docs:
 
 - [OverflowBar class](https://api.flutter.dev/flutter/widgets/OverflowBar-class.html)
-
 
 ---
 
