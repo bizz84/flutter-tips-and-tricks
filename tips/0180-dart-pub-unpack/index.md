@@ -29,7 +29,7 @@ code .
 
 | Previous | Next |
 | -------- | ---- |
-| [The OverflowBar widget](../0179-overflowbar-widget/index.md) |  |
+| [The OverflowBar widget](../0179-overflowbar-widget/index.md) | [The CarouselView Widget](../0181-carousel-view-widget/index.md) |
 
 
 <!-- TWITTER|https://x.com/biz84/status/1821128254402515382 -->
