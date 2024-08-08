@@ -2,11 +2,11 @@
 
 Did you know?
 
-Since Flutter 3.24, a new `CarouselView` widget is available.
+Since Flutter 3.24, a new [CarouselView](https://api.flutter.dev/flutter/material/CarouselView-class.html) widget is available.
 
 Here's how to use it:
 - Limit its height with a `ConstrainedBox`
-- Set the children size with `itemExtent` and `shrinkExtent`
+- Set the children's size with `itemExtent` and `shrinkExtent`
 - Use any widgets as children
 
 Easy peasy! 🚀
