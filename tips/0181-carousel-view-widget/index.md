@@ -37,7 +37,7 @@ For more info and sample code, read the official docs:
 
 | Previous | Next |
 | -------- | ---- |
-| [The dart pub unpack command](../0180-dart-pub-unpack/index.md) |  |
+| [The dart pub unpack command](../0180-dart-pub-unpack/index.md) | [DevTools Performance Rebuild Stats](../0182-devtools-performance-rebuild-stats/index.md) |
 
 
 <!-- TWITTER|https://x.com/biz84/status/1821445042336067923 -->
