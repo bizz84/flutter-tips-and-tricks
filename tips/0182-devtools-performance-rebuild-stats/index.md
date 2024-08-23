@@ -25,7 +25,7 @@ DevTools Performance Rebuild Stats
 
 | Previous | Next |
 | -------- | ---- |
-| [The CarouselView Widget](../0181-carousel-view-widget/index.md) |  |
+| [The CarouselView Widget](../0181-carousel-view-widget/index.md) | [Flutter Sidebar (VSCode)](../0183-flutter-vscode-sidebar/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1821815800774238532 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-since-flutter-324-a-new-activity-7227581627386785792-_oTJ -->
