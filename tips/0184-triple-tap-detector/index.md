@@ -1,12 +1,12 @@
-# How to build a TripleTapDetector
+# Detect triple taps with RawGestureDetector
 
 Have you ever wanted to detect a triple-tap gesture on your widgets?
 
 `GestureDetector` doesn't support this, but can we create a `TripleTapDetector`?
 
-See below for how to implement this. 👇
+Let's find out. 👇
 
-![](184.png)
+![](184.1.png)
 
 <!--
 
@@ -19,81 +19,49 @@ TripleTapDetector(
   child: Text('Psst... I\'m not just a Text'),
 )
 
-Here's how to implement it:
-
-https://gist.github.com/bizz84/0a57ad7afbe75353236943d30abf6cb0
+Let's find out.
 
 -->
 
 ---
 
-The main idea is to use a `StatefulWidget` with a `GestureDetector` and a `Timer`.
+Thanks to `RawGestureDetector`, we can implement a `TripleTapDetector`.
 
-This way, we can reset the state after each successful triple tap or after the reset duration if fewer than three taps were detected.
+Here's how it works:
 
-This gist shows the full implementation:
+- register a `SerialTapGestureRecognizer`
+- use the `onSerialTapDown` callback
+- check if three taps have been made
 
-- [https://gist.github.com/bizz84/0a57ad7afbe75353236943d30abf6cb0](https://gist.github.com/bizz84/0a57ad7afbe75353236943d30abf6cb0)
-
+![](184.2.png)
 
 <!--
-import 'package:flutter/material.dart';
-
-class TripleTapDetector extends StatefulWidget {
+class TripleTapDetector extends StatelessWidget {
   const TripleTapDetector({
     super.key,
     required this.child,
     required this.onTripleTap,
-    this.resetDuration = const Duration(milliseconds: 500),
   });
   final Widget child;
   final VoidCallback onTripleTap;
-  final Duration resetDuration;
-
-  @override
-  State<TripleTapDetector> createState() => _TripleTapDetectorState();
-}
-
-class _TripleTapDetectorState extends State<TripleTapDetector> {
-  DateTime? _lastTapTime;
-  int _tapCount = 0;
-  Timer? _resetTimer;
-
-  void _handleTap() {
-    final now = DateTime.now();
-    if (_lastTapTime != null &&
-        now.difference(_lastTapTime!) < widget.resetDuration) {
-      _tapCount++;
-      if (_tapCount == 3) {
-        widget.onTripleTap();
-        _resetTapCount();
-      }
-    } else {
-      _tapCount = 1;
-    }
-    _lastTapTime = now;
-    _resetTimer?.cancel();
-    _resetTimer = Timer(widget.resetDuration, _resetTapCount);
-  }
-
-  void _resetTapCount() {
-    setState(() {
-      _tapCount = 0;
-      _lastTapTime = null;
-    });
-  }
-
-  @override
-  void dispose() {
-    _resetTimer?.cancel();
-    super.dispose();
-  }
 
   @override
   Widget build(BuildContext context) {
-    return GestureDetector(
-      onTap: _handleTap,
-      child: widget.child,
+    return RawGestureDetector(
+      gestures: {
+        SerialTapGestureRecognizer:
+            GestureRecognizerFactoryWithHandlers<SerialTapGestureRecognizer>(
+          () => SerialTapGestureRecognizer(),
+          (SerialTapGestureRecognizer instance) {
+            instance.onSerialTapDown = (SerialTapDownDetails details) {
+              if (details.count == 3) {
+                onTripleTap();
+              }
+            };
+          },
+        ),
+      },
+      child: child,
     );
   }
 }
@@ -101,12 +69,20 @@ class _TripleTapDetectorState extends State<TripleTapDetector> {
 
 ---
 
+This gist shows the full implementation.
+
+- [https://gist.github.com/bizz84/0a57ad7afbe75353236943d30abf6cb0](https://gist.github.com/bizz84/0a57ad7afbe75353236943d30abf6cb0)
+
+Feel free to reuse it in your projects. 🙂
+
+---
+
 | Previous | Next |
 | -------- | ---- |
 | [Flutter Sidebar (VSCode)](../0183-flutter-vscode-sidebar/index.md) |  |
 
-<!-- TWITTER|https://x.com/biz84/status/1828444550865502544 -->
-<!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_have-you-ever-wanted-to-detect-a-triple-tap-activity-7234210364018626560-WecR -->
+<!-- TWITTER|https://x.com/biz84/status/1829091047902765184 -->
+<!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_take-2-have-you-ever-wanted-to-detect-activity-7234857556442071040-5hDi  -->
 
 
 
