@@ -79,7 +79,7 @@ Feel free to reuse it in your projects. 🙂
 
 | Previous | Next |
 | -------- | ---- |
-| [Flutter Sidebar (VSCode)](../0183-flutter-vscode-sidebar/index.md) |  |
+| [Flutter Sidebar (VSCode)](../0183-flutter-vscode-sidebar/index.md) | [Adding a Badge to an IconButton](../0185-add-badge-icon-button/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1829091047902765184 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_take-2-have-you-ever-wanted-to-detect-activity-7234857556442071040-5hDi  -->
