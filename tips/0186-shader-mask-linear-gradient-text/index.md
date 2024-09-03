@@ -46,6 +46,13 @@ You can use this tool to generate the gradient colors:
 
 - [Gradient Generator – CSS & SVG Export](https://www.learnui.design/tools/gradient-generator.html)
 
+For more info:
+
+- [LinearGradient class](https://api.flutter.dev/flutter/painting/LinearGradient-class.html)
+- [LinearGradient (Widget of the Week)](https://youtu.be/gYNTcgZVcWw?si=iivBvYHZF3XJagum)
+- [ShaderMask class](https://api.flutter.dev/flutter/widgets/ShaderMask-class.html)
+- [ShaderMask (Flutter Widget of the Week)](https://youtu.be/7sUL66pTQ7Q?si=e-uagIrv3whrXPBo)
+
 ---
 
 | Previous | Next |
