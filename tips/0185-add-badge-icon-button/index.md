@@ -45,7 +45,7 @@ For more info about `Badge`, read:
 
 | Previous | Next |
 | -------- | ---- |
-| [Detect triple taps with RawGestureDetector](../0184-triple-tap-detector/index.md) |  |
+| [Detect triple taps with RawGestureDetector](../0184-triple-tap-detector/index.md) | [ShaderMask + LinearGradient + Text = 🌈](../0186-shader-mask-linear-gradient-text/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1830588928874663981 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-the-easiest-way-to-add-a-badge-activity-7236355192022077442-xejp  -->
