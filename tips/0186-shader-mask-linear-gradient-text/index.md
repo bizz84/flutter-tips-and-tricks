@@ -57,7 +57,7 @@ For more info:
 
 | Previous | Next |
 | -------- | ---- |
-| [Adding a Badge to an IconButton](../0185-add-badge-icon-button/index.md) |  |
+| [Adding a Badge to an IconButton](../0185-add-badge-icon-button/index.md) | [BuildContext extension for push, pop](../0187-build-context-extension-push-pop/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1830935120489976219 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-you-can-create-a-stylish-text-activity-7236700968883490818-g2Ff  -->
