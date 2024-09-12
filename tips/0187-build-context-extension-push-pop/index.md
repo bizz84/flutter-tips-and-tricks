@@ -44,7 +44,7 @@ For more info, read:
 
 | Previous | Next |
 | -------- | ---- |
-| [ShaderMask + LinearGradient + Text = 🌈](../0186-shader-mask-linear-gradient-text/index.md) |  |
+| [ShaderMask + LinearGradient + Text = 🌈](../0186-shader-mask-linear-gradient-text/index.md) | [Flutter DevTools Logging Page](../0188-flutter-devtools-logging-page/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1831340712971096573 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_if-your-app-still-uses-navigator-10-calling-activity-7237106548164988928-sDDC  -->
