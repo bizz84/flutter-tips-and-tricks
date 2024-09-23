@@ -82,7 +82,7 @@ If you want to ship your apps with confidence, check it out and join the waitlis
 
 | Previous | Next |
 | -------- | ---- |
-| [Flutter DevTools Logging Page](../0188-flutter-devtools-logging-page/index.md) |  |
+| [Flutter DevTools Logging Page](../0188-flutter-devtools-logging-page/index.md) | [Working with multiple Xcode versions](../0190-multiple-xcode-versions/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1838145924943499701 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_ever-wanted-to-track-page-views-or-add-navigation-activity-7243912852460171264-bd5M -->
