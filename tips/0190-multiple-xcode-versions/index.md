@@ -38,6 +38,13 @@ You can get them from here (sign-in required):
 
 ---
 
+**Bonus**: If you want to manage multiple Xcode versions with a mouse click or through a CLI, you can download the `Xcodes` app:
+
+- [Xcodes app](https://www.xcodes.app/)
+
+---
+
+
 | Previous | Next |
 | -------- | ---- |
 | [Adding a Navigator Observer](../0189-navigator-observer/index.md) |  |
