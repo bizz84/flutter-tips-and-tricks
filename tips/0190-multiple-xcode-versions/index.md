@@ -47,7 +47,7 @@ You can get them from here (sign-in required):
 
 | Previous | Next |
 | -------- | ---- |
-| [Adding a Navigator Observer](../0189-navigator-observer/index.md) |  |
+| [Adding a Navigator Observer](../0189-navigator-observer/index.md) | [Timing the In-App Review Prompt](../0191-timing-in-app-review-prompt/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1838542156572606483 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-that-you-can-install-and-use-activity-7244308116043894784-quRu -->
