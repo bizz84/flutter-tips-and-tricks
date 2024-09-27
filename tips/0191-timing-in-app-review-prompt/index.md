@@ -31,11 +31,9 @@ if (eventCount >= 5 && _inAppReviewRequestCount == 0 ||
 
 The code above only shows the main idea.
 
-Tomorrow, I'll share an in-depth article about in-app reviews.
+To learn more about in-app reviews, read:
 
-If you don't wanna miss it, sign up here:
-
-- [My Flutter Newsletter](https://codewithandrea.com/newsletter/)
+- [How to Ask for In-App Reviews in Your Flutter App](https://codewithandrea.com/articles/flutter-in-app-review-prompt/)
 
 ---
 
