@@ -40,7 +40,7 @@ To learn more about in-app reviews, read:
 
 | Previous | Next |
 | -------- | ---- |
-| [Working with multiple Xcode versions](../0190-multiple-xcode-versions/index.md) |  |
+| [Working with multiple Xcode versions](../0190-multiple-xcode-versions/index.md) | [Async Stream Initialization with async*](../0192-async-stream-initialization/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1839257930224324768 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-the-inappreview-package-activity-7245023962869436417-K-pV -->
