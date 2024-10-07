@@ -40,7 +40,7 @@ For more techniques about effective codebase maintenance, read my ultimate guide
 
 | Previous | Next |
 | -------- | ---- |
-| [Async Stream Initialization with async*](../0192-async-stream-initialization/index.md) |  |
+| [Async Stream Initialization with async*](../0192-async-stream-initialization/index.md) | [Generate Commit Message with Copilot](../0194-copilot-generate-commit-messages/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1843232583980839286 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-if-youre-using-multiple-code-activity-7248998462887780352-nNmg -->
