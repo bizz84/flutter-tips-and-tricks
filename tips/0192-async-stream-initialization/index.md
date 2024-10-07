@@ -28,7 +28,7 @@ Note: in most cases, it’s best to perform the initialization separately. But i
 
 | Previous | Next |
 | -------- | ---- |
-| [Timing the In-App Review Prompt](../0191-timing-in-app-review-prompt/index.md) |  |
+| [Timing the In-App Review Prompt](../0191-timing-in-app-review-prompt/index.md) | [Control the Code Generation Order](../0193-control-codegen-order/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1841128311163949163 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-if-you-want-to-return-a-stream-activity-7246894142784434178-cYZ_ -->
