@@ -54,7 +54,7 @@ Check it out here and take advantage of my launch sale (currently 50% off!) 👇
 
 | Previous | Next |
 | -------- | ---- |
-| [Generate Commit Messages with Copilot](../0194-copilot-generate-commit-messages/index.md) |  |
+| [Generate Commit Messages with Copilot](../0194-copilot-generate-commit-messages/index.md) | [FlutterFire Config with Multiple Flavors (Shell Script)](../0196-flutterfire-config-multiple-flavors/index.md) |
 
 
 <!-- TWITTER|https://x.com/biz84/status/1843928541282672987 -->

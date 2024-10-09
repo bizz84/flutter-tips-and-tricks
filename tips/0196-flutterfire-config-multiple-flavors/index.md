@@ -1,4 +1,4 @@
-# FlutterFire Config with Multiple Flavors  (Shell Script)
+# FlutterFire Config with Multiple Flavors (Shell Script)
 
 Did you know?
 
@@ -40,3 +40,9 @@ This is only a small part of the Flutter app flavoring process.
 For all the details, check my latest course. 👇
 
 - [Flutter in Production](https://codewithandrea.com/courses/flutter-in-production/)
+
+---
+
+| Previous | Next |
+| -------- | ---- |
+| [Remote Config via GitHub Gist](../0195-remote-config-github-gist/index.md) |  |
