@@ -24,7 +24,7 @@ Check this article for more Copilot tips and tricks:
 
 | Previous | Next |
 | -------- | ---- |
-| [Control the Code Generation Order](../0193-control-codegen-order/index.md) |  |
+| [Control the Code Generation Order](../0193-control-codegen-order/index.md) | [Remote Config via GitHub Gist](../0195-remote-config-github-gist/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1843558081504129358 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-that-copilot-can-generate-commit-activity-7249323993650925569-WxJT -->
