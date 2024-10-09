@@ -6,9 +6,9 @@ You can remotely control the behaviour of your app by fetching some JSON from a 
 
 This is super useful when implementing:
 
-✅ Force update
-🚩 Feature flags
-🧪 A/B testing
+- Force update ✅ 
+- Feature flags 🚩 
+- A/B testing 🧪 
 
 No Firebase or custom backend needed! 🙌
 
