@@ -45,7 +45,7 @@ For all the details, check my latest course. 👇
 
 | Previous | Next |
 | -------- | ---- |
-| [Remote Config via GitHub Gist](../0195-remote-config-github-gist/index.md) |  |
+| [Remote Config via GitHub Gist](../0195-remote-config-github-gist/index.md) | [Dark and Tinted Icons on iOS 18](../0197-dark-tinted-icons-ios-18/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1844285569859453382 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-if-your-flutter-app-uses-multiple-activity-7250051558615216129-d14v -->
