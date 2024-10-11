@@ -5,8 +5,9 @@ Did you know?
 iOS 18 supports dark and tinted icons.
 
 To enable this in your Flutter app:
+
 - Add one icon variant with transparency
-- Configure `flutter_launcher_icons` in your `pubspec.yaml`
+- Install and configure `flutter_launcher_icons` in your `pubspec.yaml`
 - Run `dart run flutter_launcher_icons`
 
 Then, run the app and join the dark side! 🌚
