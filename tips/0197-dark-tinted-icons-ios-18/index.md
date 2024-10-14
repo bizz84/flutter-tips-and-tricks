@@ -48,7 +48,7 @@ If you're interested, check it out here:
 
 | Previous | Next |
 | -------- | ---- |
-| [FlutterFire Config with Multiple Flavors (Shell Script)](../0196-flutterfire-config-multiple-flavors/index.md) |  |
+| [FlutterFire Config with Multiple Flavors (Shell Script)](../0196-flutterfire-config-multiple-flavors/index.md) | [Show the Licenses in your Flutter app](../0198-show-licenses-flutter-app/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1844641248436466057 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-ios-18-supports-dark-and-tinted-activity-7250407163200729088-bDdF -->
