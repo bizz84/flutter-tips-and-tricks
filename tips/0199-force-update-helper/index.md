@@ -58,7 +58,7 @@ To learn more about force update and how to get your app ready for production, c
 
 | Previous | Next |
 | -------- | ---- |
-| [Show the Licenses in your Flutter app](../0198-show-licenses-flutter-app/index.md) |  |
+| [Show the Licenses in your Flutter app](../0198-show-licenses-flutter-app/index.md) | [Fixing Build Issues - Nuclear Option 💣](../0200-fixing-build-issues-nuclear-option/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1846119256045363411 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_ever-needed-a-force-update-prompt-that-is-activity-7251885533587468288-ZfPg -->
