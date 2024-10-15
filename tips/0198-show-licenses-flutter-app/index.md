@@ -42,10 +42,7 @@ To learn more about how to get your app ready for production, check my latest co
 
 | Previous | Next |
 | -------- | ---- |
-| [Dark and Tinted Icons on iOS 18](../0197-dark-tinted-icons-ios-18/index.md) |  |
+| [Dark and Tinted Icons on iOS 18](../0197-dark-tinted-icons-ios-18/index.md) | [Force Update with Remote Config](../0199-force-update-helper/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1845753055347704182 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-your-flutter-app-should-show-activity-7251518989489573888-TDgc -->
-
-
-
