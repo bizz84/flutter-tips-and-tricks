@@ -33,7 +33,7 @@ git add . && git commit -m "Updated Android project"
 
 | Previous | Next |
 | -------- | ---- |
-| [Force Update with Remote Config](../0199-force-update-helper/index.md) |  |
+| [Force Update with Remote Config](../0199-force-update-helper/index.md) | [Firebase Init with Multiple Flavors](../0201-firebase-init-multiple-flavors/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1846459389252641100 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-if-you-have-a-flutter-project-activity-7252225288271491072-QzCD -->
