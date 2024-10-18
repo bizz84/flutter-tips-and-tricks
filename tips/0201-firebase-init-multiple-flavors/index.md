@@ -2,7 +2,7 @@
 
 Did you know?
 
-If your Flutter app has multiple flavors, you can put all the Firebase initialization logic in one file and switch based on the appFlavor.
+If your Flutter app has multiple flavors, you can put all the Firebase initialization logic in one file and switch based on the [`appFlavor`](https://api.flutter.dev/flutter/services/appFlavor-constant.html).
 
 When you do this, all the Firebase config files are bundled in the final app, which is not ideal.
 
