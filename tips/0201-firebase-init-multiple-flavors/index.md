@@ -2,13 +2,11 @@
 
 Did you know?
 
-If your Flutter app has multiple flavors, you can put all the Firebase initialization logic in one file.
+If your Flutter app has multiple flavors, you can put all the Firebase initialization logic in one file and switch based on the appFlavor.
 
-How? Define aliases for the config files and switch between them based on the `appFlavor` constant. 👌
+When you do this, all the Firebase config files are bundled in the final app, which is not ideal.
 
-Then, simply call `initializeFirebaseApp()` from `main()`.
-
-![](201.png)
+![](201.1.png)
 
 <!--
 
@@ -20,32 +18,60 @@ import 'package:flutter_ship_app/firebase_options_stg.dart' as stg;
 import 'package:flutter_ship_app/firebase_options_dev.dart' as dev;
 
 Future<void> initializeFirebaseApp() async {
-  final FirebaseOptions firebaseOptions;
-  if (kIsWeb) {
-    // * Always use prod for Flutter web builds
-    firebaseOptions = prod.DefaultFirebaseOptions.currentPlatform;
-  } else {
-    // * On all other platforms, switch on the appFlavor
-    firebaseOptions = switch (appFlavor) {
-      'prod' => prod.DefaultFirebaseOptions.currentPlatform,
-      'stg' => stg.DefaultFirebaseOptions.currentPlatform,
-      'dev' => dev.DefaultFirebaseOptions.currentPlatform,
-      _ => throw UnsupportedError('Invalid flavor: $appFlavor'),
-    };
-  }
+  // Determine which Firebase options to use based on the flavor
+  final firebaseOptions = switch (appFlavor) {
+    'prod' => prod.DefaultFirebaseOptions.currentPlatform,
+    'stg' => stg.DefaultFirebaseOptions.currentPlatform,
+    'dev' => dev.DefaultFirebaseOptions.currentPlatform,
+    _ => throw UnsupportedError('Invalid flavor: $flavor'),
+  };
   await Firebase.initializeApp(options: firebaseOptions);
+}
+
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await initializeFirebaseApp();
+  runApp(const MainApp());
 }
 
 -->
 
 ---
 
-The benefit of this approach is that you only need a single entry point (`main.dart`), rather than one for each flavor.
+A better solution is to create three entry points that load the corresponding config file and pass it to the function that performs the actual initialization.
 
-Note: Flutter web doesn't support flavors, so you have two options:
+When running, you can use the "-t" flag to specify the entry point.
 
-- pick one by default (e.g. `prod`)
-- use a separate `--dart-define` and switch based on that.
+This requires a bit more work but is more secure. 👍
+
+![](201.2.png)
+
+<!--
+
+// main_dev.dart
+import 'package:flutter_ship_app/firebase_options_dev.dart';
+import 'main.dart';
+
+void main() async {
+  firebaseMain(DefaultFirebaseOptions.currentPlatform);
+}
+
+// main.dart
+import 'package:firebase_core/firebase_core.dart';
+import 'package:flutter/material.dart';
+
+void firebaseMain(FirebaseOptions firebaseOptions) async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp(options: firebaseOptions);
+  runApp(const MainApp());
+}
+
+// Run like this:
+flutter run --flavor dev -t lib/main_dev.dart
+flutter run --flavor stg -t lib/main_stg.dart
+flutter run --flavor prod -t lib/main_prod.dart
+
+-->
 
 ---
 
@@ -61,8 +87,8 @@ To learn more, check it out here:
 | -------- | ---- |
 | [Fixing Build Issues - Nuclear Option 💣](../0200-fixing-build-issues-nuclear-option/index.md) |  |
 
-<!-- TWITTER|https://x.com/biz84/status/1846846848935367123 -->
-<!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-if-your-flutter-app-has-multiple-activity-7252612939768041473-A7er -->
+<!-- TWITTER|https://x.com/biz84/status/1847236054828429628 -->
+<!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_take-2-if-your-flutter-app-has-multiple-activity-7253002364234690560-MwsY -->
 
 
 
