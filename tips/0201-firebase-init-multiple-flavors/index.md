@@ -85,7 +85,7 @@ To learn more, check it out here:
 
 | Previous | Next |
 | -------- | ---- |
-| [Fixing Build Issues - Nuclear Option 💣](../0200-fixing-build-issues-nuclear-option/index.md) |  |
+| [Fixing Build Issues - Nuclear Option 💣](../0200-fixing-build-issues-nuclear-option/index.md) | [What does flutter pub upgrade do?](../0202-flutter-pub-upgrade/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1847236054828429628 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_take-2-if-your-flutter-app-has-multiple-activity-7253002364234690560-MwsY -->
