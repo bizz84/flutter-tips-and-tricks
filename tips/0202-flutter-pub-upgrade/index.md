@@ -26,8 +26,9 @@ Also note:
 - If `pubspec.lock` doesn't exist yet, both commands behave identically.
 - Neither command updates any dependencies that are **locked** to a specific version (no caret syntax).
 
-To learn more, read:
+To learn more, read these resources:
 
+- [Updating package dependencies](https://docs.flutter.dev/packages-and-plugins/using-packages#updating-package-dependencies)
 - [dart pub upgrade](https://dart.dev/tools/pub/cmd/pub-upgrade)
 
 ---
