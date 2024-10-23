@@ -46,7 +46,7 @@ No backend needed!
 
 I cover this in more detail in my latest course.
 
-Check it out here and take advantage of my launch sale (currently 50% off!) 👇
+Check it out here:
 
 - [Flutter in Production](https://codewithandrea.com/courses/flutter-in-production/)
 
