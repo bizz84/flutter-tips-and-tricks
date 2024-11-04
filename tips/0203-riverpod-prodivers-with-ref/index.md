@@ -2,9 +2,9 @@
 
 Did you know?
 
-Since Riverpod 2.6.0, all generated providers can be declared with a Ref argument.
+Since Riverpod 2.6.0, all generated providers can be declared with a `Ref` argument.
 
-The old [ProviderName]Ref syntax is deprecated.
+The old `[ProviderName]Ref` syntax is deprecated.
 
 To upgrade existing projects, simply run: `dart run custom_lint --fix`. 👍
 
