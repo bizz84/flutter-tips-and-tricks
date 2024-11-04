@@ -35,7 +35,7 @@ To learn more, read these resources:
 
 | Previous | Next |
 | -------- | ---- |
-| [Firebase Init with Multiple Flavors](../0201-firebase-init-multiple-flavors/index.md) |  |
+| [Firebase Init with Multiple Flavors](../0201-firebase-init-multiple-flavors/index.md) | [Declaring Riverpod Providers with Ref](../0203-riverpod-prodivers-with-ref/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1848646896170000843 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-theres-a-subtle-difference-activity-7254412930966810625-HBID -->
