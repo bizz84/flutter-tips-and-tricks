@@ -54,7 +54,7 @@ Once this is done, run: `dart run custom_lint --fix`.
 
 | Previous | Next |
 | -------- | ---- |
-| [What does flutter pub upgrade do?](../0202-flutter-pub-upgrade/index.md) |  |
+| [What does flutter pub upgrade do?](../0202-flutter-pub-upgrade/index.md) | [Apple Small Business Program](../0204-apple-small-business-program/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1853474061638099311 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-since-riverpod-260-all-activity-7259240043548938241-GHBi -->
