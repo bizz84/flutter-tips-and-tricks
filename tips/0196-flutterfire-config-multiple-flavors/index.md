@@ -33,6 +33,27 @@ Tip: To make life easier, create a script. Then, you can run this once for each 
 ./flutterfire-config.sh <dev|stg|prod>
 -->
 
+Here’s what each argument does:
+
+- `--project`: The Firebase project to use (note: pass the **project ID**, not the alias).
+- `--out`: Output path for the Firebase config file.
+- `--ios-bundle-id`: iOS app’s bundle ID. Find it in Xcode under **Runner** > **General** > **Identity** > **Bundle Identifier**.
+- `--ios-out`: Output path for the iOS `GoogleService-Info.plist`.
+- `--android-package-name`: Android app’s package name (found as `applicationId` in `android/app/build.gradle`).
+- `--android-out`: Output path for the Android `google-services.json`.
+
+### Pro Tip: Create a Shell Script
+
+To simplify the setup, here's a sample shell script that takes the flavor as an argument:
+
+- [flutterfire-config.sh](https://github.com/bizz84/flutter_ship_app/blob/main/flutterfire-config.sh)
+
+To use this script:
+
+- Copy it to the root of your project
+- Update the `project`, `ios-bundle-id`, and `android-package-name` for your app.
+- Run it and follow the interactive prompts
+
 ---
 
 This is only a small part of the Flutter app flavoring process.
