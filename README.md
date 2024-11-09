@@ -1,6 +1,6 @@
 # Flutter Tips & Tricks
 
-A collection of all the Flutter tips & tricks I share on [Twitter](https://twitter.com/biz84) and [LinkedIn](https://www.linkedin.com/in/andreabizzotto/recent-activity/all/). If you find this useful, give it a star! 🌟
+A collection of all the Flutter tips & tricks I share on [X (Twitter)](https://x.com/biz84) and [LinkedIn](https://www.linkedin.com/in/andreabizzotto/recent-activity/all/). If you find this useful, give it a star! 🌟
 
 ## Preview
 
@@ -16,7 +16,7 @@ This repo now has a companion app! [Download it here](https://fluttertips.dev/) 
 
 > I'm adding new tips regularly (newest at the top 👇).
 
-| ID | View on GitHub (this repo)                                                                                                                                                        | Twitter Post   | LinkedIn Post | Link on [codewithandrea.com](https://codewithandrea.com/)                                                                            |
+| ID | View on GitHub (this repo)                                                                                                                                                        | X Post   | LinkedIn Post | Link on [codewithandrea.com](https://codewithandrea.com/)                                                                            |
 | -- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| -------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | 204 | [Apple Small Business Program](tips/0204-apple-small-business-program/index.md) | [link](https://x.com/biz84/status/1854534361841823907) | [link](https://www.linkedin.com/posts/andreabizzotto_did-you-know-if-you-sell-apps-on-the-ios-activity-7260300383128797185-DfeQ) | |
 | 203 | [Declaring Riverpod Providers with Ref](tips/0203-riverpod-prodivers-with-ref/index.md) | [link](https://x.com/biz84/status/1848646896170000843) | [link](https://www.linkedin.com/posts/andreabizzotto_did-you-know-theres-a-subtle-difference-activity-7254412930966810625-HBID) | |
