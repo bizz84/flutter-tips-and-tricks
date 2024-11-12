@@ -42,4 +42,4 @@ Read this page to learn more and enroll:
 
 <!-- TWITTER|https://x.com/biz84/status/1854534361841823907 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-if-you-sell-apps-on-the-ios-activity-7260300383128797185-DfeQ/ -->
-<!-- BLUESKY|https://bsky.app/profile/biz84.bsky.social/post/3laeiswogmc2w -->
+<!-- BLUESKY|https://bsky.app/profile/codewithandrea.com/post/3laeiswogmc2w -->
