@@ -10,7 +10,7 @@ Or set it globally in your VSCode settings file.
 
 ![](068-enable-asserts.png)
 
-> Note: while you **can** enable asserts in release mode, you probably **shoudn't**. Assets are used to warn you of programmer errors during development. As such, you should fix them before release.
+> Note: while you **can** enable asserts in release mode, you probably **shoudn't**. Asserts are used to warn you of programmer errors during development. As such, you should fix them before release.
 
 ---
 
