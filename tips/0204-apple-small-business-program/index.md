@@ -37,7 +37,7 @@ Read this page to learn more and enroll:
 
 | Previous | Next |
 | -------- | ---- |
-| [Declaring Riverpod Providers with Ref](../0203-riverpod-prodivers-with-ref/index.md) |  |
+| [Declaring Riverpod Providers with Ref](../0203-riverpod-prodivers-with-ref/index.md) | [Error.throwWithStackTrace](../0205-throw-error-with-stack-trace/index.md)  |
 
 
 <!-- TWITTER|https://x.com/biz84/status/1854534361841823907 -->
