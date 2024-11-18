@@ -50,7 +50,7 @@ To learn more, read the official docs:
 
 | Previous | Next |
 | -------- | ---- |
-| [Apple Small Business Program](../0204-apple-small-business-program/index.md) | |
+| [Apple Small Business Program](../0204-apple-small-business-program/index.md) | [Script to Update Android Project](../0206-update-android-project/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1856346045069787263 -->
 <!-- LINKENIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-using-domain-specific-exceptions-activity-7262112040121520130-3pfy -->
