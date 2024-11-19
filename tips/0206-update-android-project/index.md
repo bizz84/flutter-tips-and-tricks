@@ -1,8 +1,9 @@
-# Script to Update Android Project
+# Script to Update the Android Project Settings
 
 Tired of dealing with Gradle and other build errors on Android? 🤮
 
 Me too! So, I built a script to fix it all at once:
+
 - Gradle version
 - Java version
 - NDK version
@@ -52,9 +53,10 @@ DESIRED_NDK_VERSION="27.0.12077973"
 
 You can grab the script here:
 
-https://gist.github.com/bizz84/605e2ca2088cb4acb7a076ca993f41cd
+- [Script to update Gradle, Java and other Android project settings in a Flutter project](https://gist.github.com/bizz84/605e2ca2088cb4acb7a076ca993f41cd)
 
 To use it:
+
 - Download the script and add it to a folder in your system PATH
 - Give it execution access: `chmod +x update-android-project.sh`
 - Tweak the versions if needed
