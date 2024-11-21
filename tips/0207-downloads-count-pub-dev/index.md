@@ -2,9 +2,9 @@
 
 Did you know?
 
-You can now see the downloads count for your favourite packages on pub .dev.
+You can now see the downloads count for your favourite packages on pub.dev.
 
-To enable this, go to pub .dev/experimental, and toggle "Download count metrics".
+To enable this, go to [pub.dev/experimental](https://pub.dev/experimental), and toggle "Download count metrics".
 
 Dark mode is also supported. 🌚
 
