@@ -75,7 +75,7 @@ If your Android project is very old, the best fix is to nuke it and create it ag
 
 | Previous | Next |
 | -------- | ---- |
-| [Error.throwWithStackTrace](../0205-throw-error-with-stack-trace/index.md) |  |
+| [Error.throwWithStackTrace](../0205-throw-error-with-stack-trace/index.md) | [Downloads Count on pub.dev](../0207-downloads-count-pub-dev/index.md) |
 
 
 <!-- TWITTER|https://x.com/biz84/status/1858451367959855404 -->
