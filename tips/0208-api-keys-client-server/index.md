@@ -34,15 +34,15 @@ A few others... can you guess where they go and why?
 
 -->
 
+### Additional Resources
+
 For more in-depth guidance about securing API keys, read this article:
 
 - [How to Store API Keys in Flutter: --dart-define vs .env files](https://codewithandrea.com/articles/flutter-api-keys-dart-define-env-files/)
 
 ---
 
-Some API keys must be stored on the server and never transmitted to the client.
-
-Dart Shelf works great in this scenario, and this article covers all the details:
+Some API keys must be stored on the server and never transmitted to the client. Dart Shelf works great in this scenario, and this article covers all the details:
 
 - [How to Build and Deploy a Dart Shelf App on Globe.dev](https://codewithandrea.com/articles/build-deploy-dart-shelf-app-globe/)
 
