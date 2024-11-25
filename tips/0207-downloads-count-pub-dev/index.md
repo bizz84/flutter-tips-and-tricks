@@ -24,7 +24,7 @@ Dark mode is also supported.
 
 | Previous | Next |
 | -------- | ---- |
-| [Script to Update the Android Project Settings](../0206-update-android-project/index.md) | |
+| [Script to Update the Android Project Settings](../0206-update-android-project/index.md) | [API keys storage: Client or Server?](../0208-api-keys-client-server/index.md) |
 
 
 <!-- TWITTER|https://x.com/biz84/status/1859569027045089661 -->
