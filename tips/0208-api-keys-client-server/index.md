@@ -56,7 +56,7 @@ If you work with Firebase Cloud Functions and want to learn about best practices
 
 | Previous | Next |
 | -------- | ---- |
-| [Downloads Count on pub.dev](../0207-downloads-count-pub-dev/index.md) | |
+| [Downloads Count on pub.dev](../0207-downloads-count-pub-dev/index.md) | [iOS App Store: Build and Upload Script](../0209-build-upload-ios-script/index.md) |
 
 
 <!-- TWITTER|https://x.com/biz84/status/1861074917917073843 -->
