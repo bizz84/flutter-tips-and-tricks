@@ -54,7 +54,7 @@ This guide explains how to obtain an API key:
 - [Creating API Keys for App Store Connect API](https://developer.apple.com/documentation/appstoreconnectapi/creating-api-keys-for-app-store-connect-api)
 
 ---
-Once you have obtained your Key ID and Issuer ID, set them as environment variables in your system (I like to store mine in ~/.zshrc for convenience.)
+Once you have obtained your Key ID and Issuer ID, set them as environment variables in your system (I like to store mine in `~/.zshrc` for convenience.)
 
 Then, simply download the script and use it. 👍
 
@@ -62,7 +62,7 @@ Then, simply download the script and use it. 👍
 
 ---
 
-My latest course, Flutter in Production, covers the entire iOS app release process in detail—from joining the Apple Developer Program to submitting your app for review.
+My latest course, [Flutter in Production](https://codewithandrea.com/courses/flutter-in-production/), covers the entire iOS app release process in detail—from joining the Apple Developer Program to submitting your app for review.
 
 Here’s a free lesson to get started:
 
