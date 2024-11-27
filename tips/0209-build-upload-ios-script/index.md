@@ -72,7 +72,7 @@ Here’s a free lesson to get started:
 
 | Previous | Next |
 | -------- | ---- |
-| [API keys storage: Client or Server?](../0208-api-keys-client-server/index.md) |  |
+| [API keys storage: Client or Server?](../0208-api-keys-client-server/index.md) | [Material Icons Theme (VSCode Extension)](../0210-material-icons-theme-vscode-extension/index.md) |
 
 ---
 
