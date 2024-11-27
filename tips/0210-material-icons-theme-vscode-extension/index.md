@@ -2,7 +2,7 @@
 
 Tired of the old, boring VSCode default theme?
 
-Then, install the Material Icons Theme and upgrade all your file icons! 🤩
+Then, install the [Material Icons Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) and upgrade all your file icons! 🤩
 
 File nesting is properly supported, too, and the icons will be correctly left-aligned! 🎉
 
