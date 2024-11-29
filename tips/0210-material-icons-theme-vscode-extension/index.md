@@ -22,7 +22,7 @@ Best of all, grouped files are correcty left-aligned!
 
 | Previous | Next |
 | -------- | ---- |
-| [iOS App Store: Build and Upload Script](../0209-build-upload-ios-script/index.md) |  |
+| [iOS App Store: Build and Upload Script](../0209-build-upload-ios-script/index.md) | [Fix for Missing Compliance Warning in App Store Connect](../0211-fix-missing-compliance-warning/index.md) |
 
 ---
 
