@@ -26,6 +26,14 @@ For more details, read:
 
 ---
 
+My latest course, [Flutter in Production](https://codewithandrea.com/courses/flutter-in-production/), covers the entire iOS app release process in detail—from joining the Apple Developer Program to submitting your app for review.
+
+Check it out for all the details:
+
+- [Flutter in Production](https://codewithandrea.com/courses/flutter-in-production/)
+
+---
+
 | Previous | Next |
 | -------- | ---- |
 | [Material Icons Theme (VSCode Extension)](../0210-material-icons-theme-vscode-extension/index.md) | [Adding a Privacy Manifest in Xcode](../0212-xcode-privact-manifest/index.md) |
