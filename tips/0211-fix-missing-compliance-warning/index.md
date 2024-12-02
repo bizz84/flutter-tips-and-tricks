@@ -28,7 +28,7 @@ For more details, read:
 
 | Previous | Next |
 | -------- | ---- |
-| [Material Icons Theme (VSCode Extension)](../0210-material-icons-theme-vscode-extension/index.md) |  |
+| [Material Icons Theme (VSCode Extension)](../0210-material-icons-theme-vscode-extension/index.md) | [Adding a Privacy Manifest in Xcode](../0212-xcode-privact-manifest/index.md) |
 
 ---
 
