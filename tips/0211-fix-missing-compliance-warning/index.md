@@ -2,7 +2,7 @@
 
 Tired of seeing the "Missing Compliance" warning when uploading builds to App Store Connect?
 
-If your app uses Non-Exempt Encryption, set `ITSAppUsesNonExemptEncryption` to `NO` in your `Info.plist` file in Xcode.
+If your app does **not** use Non-Exempt Encryption, set `ITSAppUsesNonExemptEncryption` to `NO` in your `Info.plist` file in Xcode.
 
 Upload your next build, and the warning will disappear. 👍
 
@@ -17,6 +17,12 @@ Assuming your app uses Non-Exempt Encryption, you can set ITSAppUsesNonExemptEnc
 Once you upload the next build, the warning will disappear. 👍
 
 -->
+
+---
+
+For more details, read:
+
+- [Complying with Encryption Export Regulations](https://developer.apple.com/documentation/security/complying-with-encryption-export-regulations)
 
 ---
 
