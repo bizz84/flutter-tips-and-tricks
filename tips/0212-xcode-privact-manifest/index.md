@@ -36,11 +36,11 @@ For instructions about what to put in your privacy manifest, read:
 
 My latest course covers the iOS release process in depth, including:
 
-✅ Enroll in the Apple Developer Program
-✅ Create apps in App Store Connect
-✅ Prepare for review
-✅ Xcode project settings
-✅ Build, upload & submit
+- Enroll in the Apple Developer Program
+- Create apps in App Store Connect
+- Prepare for review
+- Xcode project settings
+- Build, upload & submit
 
 Check it out for all the details:
 
