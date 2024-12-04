@@ -55,7 +55,7 @@ Some more details:
 
 ---
 
-Here's some more info about "flutter pub upgrade"
+Here's some more info about the `flutter pub upgrade` command:
 
 - [What does flutter pub upgrade do?](https://codewithandrea.com/tips/flutter-pub-upgrade/)
 
