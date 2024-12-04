@@ -50,7 +50,7 @@ Check it out for all the details:
 
 | Previous | Next |
 | -------- | ---- |
-| [Fix for Missing Compliance Warning in App Store Connect](../0211-fix-missing-compliance-warning/index.md) | |
+| [Fix for Missing Compliance Warning in App Store Connect](../0211-fix-missing-compliance-warning/index.md) | [Fixing Version Solving Failed Errors](../0213-fixing-version-solving-failed-errors/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1863537508899860770 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-starting-november-12-2024-activity-7269303842813489154-k5iw -->
