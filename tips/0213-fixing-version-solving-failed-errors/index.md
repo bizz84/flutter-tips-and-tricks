@@ -4,7 +4,7 @@ When you get a "version solving failed" error, how can you fix it?
 
 Some useful tips:
 
-1. Use flutter pub upgrade, don't change versions manually 💡
+1. Use `flutter pub upgrade`, don't change versions manually 💡
 2. Read the error logs 🧐
 3. Remove all version constraints 👻
 4. Update your Podfile 🍏
@@ -36,7 +36,7 @@ Additional steps for iOS & Android Builds
 
 Some more details:
 
-1. "flutter pub upgrade" is your friend. It will try to resolve all dependencies without causing conflicts
+1. `flutter pub upgrade` is your friend. It will try to resolve all dependencies without causing conflicts
 2. Be persistent. Inspect the error log closely and see if you can figure it out
 3. Remove version constraints from conflicting packages and try again
 
@@ -56,12 +56,14 @@ Some more details:
 ---
 
 Here's some more info about "flutter pub upgrade"
-https://x.com/biz84/status/1848646896170000843
+
+- [What does flutter pub upgrade do?](https://codewithandrea.com/tips/flutter-pub-upgrade/)
 
 ---
 
 If you need to update the Android project settings, this script may help:
-https://x.com/biz84/status/1858451367959855404
+
+- [Script to Update the Android Project Settings](https://codewithandrea.com/tips/update-android-project-script/)
 
 ---
 
