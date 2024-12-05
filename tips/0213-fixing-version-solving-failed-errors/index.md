@@ -70,7 +70,7 @@ If you need to update the Android project settings, this script may help:
 
 | Previous | Next |
 | -------- | ---- |
-| [Adding a Privacy Manifest in Xcode](../0212-xcode-privact-manifest/index.md) | |
+| [Adding a Privacy Manifest in Xcode](../0212-xcode-privact-manifest/index.md) | [Improve your code with Cursor Edit Mode](../0214-cursor-edit-mode/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1864283511852527815 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_when-you-get-a-version-solving-failed-error-activity-7270050610329100289-0I9m -->
