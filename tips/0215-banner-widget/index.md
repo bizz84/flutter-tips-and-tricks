@@ -40,5 +40,5 @@ For more info, check the official docs:
 | [Improve your code with Cursor Edit Mode](../0214-cursor-edit-mode/index.md) |  |
 
 <!-- TWITTER|https://x.com/biz84/status/1866482324105490628 -->
-<!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-you-can-use-the-banner-widget-activity-7272248288236519424-tfzF- -->
+<!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-you-can-use-the-banner-widget-activity-7272248288236519424-tfzF -->
 <!-- BLUESKY|https://bsky.app/profile/codewithandrea.com/post/3lcxfixclys2f -->
