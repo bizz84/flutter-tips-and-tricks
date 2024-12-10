@@ -14,7 +14,7 @@ It doesn't always get it right, though! So make sure you tweak the output as nee
 
 | Previous | Next |
 | -------- | ---- |
-| [Fixing Version Solving Failed Errors](../0213-fixing-version-solving-failed-errors/index.md) |  |
+| [Fixing Version Solving Failed Errors](../0213-fixing-version-solving-failed-errors/index.md) | [The Banner Widget](../0215-banner-widget/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1864613511420068093 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-the-cursor-ide-has-a-powerful-activity-7270379818746105856-Mq9n -->
