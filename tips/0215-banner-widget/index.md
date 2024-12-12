@@ -37,7 +37,7 @@ For more info, check the official docs:
 
 | Previous | Next |
 | -------- | ---- |
-| [Improve your code with Cursor Edit Mode](../0214-cursor-edit-mode/index.md) |  |
+| [Improve your code with Cursor Edit Mode](../0214-cursor-edit-mode/index.md) | [New Spacing Argument in Row/Column (Flutter 3.27)](../0216-spacing-row-column/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1866482324105490628 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-you-can-use-the-banner-widget-activity-7272248288236519424-tfzF -->
