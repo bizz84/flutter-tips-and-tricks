@@ -70,4 +70,4 @@ Column(
 
 | Previous | Next |
 | -------- | ---- |
-| [The Banner Widget](../0216-spacing-row-column/index.md) | |
+| [The Banner Widget](../0215-banner-widget/index.md) | |
