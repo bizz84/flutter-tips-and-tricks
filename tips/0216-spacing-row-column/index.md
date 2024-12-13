@@ -62,12 +62,13 @@ Column(
 
 -->
 
-<!-- TWITTER|https://x.com/biz84/status/1867143273652904039 -->
-<!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-since-flutter-327-you-can-activity-7272909542131187712-7Spj -->
-<!-- BLUESKY|https://bsky.app/profile/codewithandrea.com/post/3ld3ycpuxxk2f -->
-
 ---
 
 | Previous | Next |
 | -------- | ---- |
-| [The Banner Widget](../0215-banner-widget/index.md) | |
+| [The Banner Widget](../0215-banner-widget/index.md) | [Digits Separators in Dart 3.6](../0217-digits-separators/index.md) |
+
+<!-- TWITTER|https://x.com/biz84/status/1867143273652904039 -->
+<!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-since-flutter-327-you-can-activity-7272909542131187712-7Spj -->
+<!-- BLUESKY|https://bsky.app/profile/codewithandrea.com/post/3ld3ycpuxxk2f -->
+
