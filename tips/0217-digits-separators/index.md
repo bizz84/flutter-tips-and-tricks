@@ -28,7 +28,7 @@ const invalidNumber3 = 6.022e_23;
 
 | Previous | Next |
 | -------- | ---- |
-| [New Spacing Argument in Row/Column (Flutter 3.27)](../0216-spacing-row-column/index.md) | |
+| [New Spacing Argument in Row/Column (Flutter 3.27)](../0216-spacing-row-column/index.md) | [Text Style with Tabular Figures](../0218-text-style-tabular-figures/index.md) |
 
 
 <!-- TWITTER|https://x.com/biz84/status/1867505284002000962 -->
