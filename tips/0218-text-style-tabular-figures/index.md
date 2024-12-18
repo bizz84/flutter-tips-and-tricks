@@ -2,7 +2,7 @@
 
 Did you know?
 
-If you want to render fixed width (monospaced) digits, set FontFeature.tabularFigures() inside your TextStyle. 🎯
+If you want to render fixed width (monospaced) digits, set `FontFeature.tabularFigures()` inside your `TextStyle`. 🎯
 
 This works great when showing numbers and dates that should align vertically or update in realtime! 🔥
 
