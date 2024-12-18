@@ -28,7 +28,7 @@ Text(
 
 | Previous | Next |
 | -------- | ---- |
-| [Digits Separators in Dart 3.6](../0217-digits-separators/index.md) | |
+| [Digits Separators in Dart 3.6](../0217-digits-separators/index.md) | [Color API Deprecations in Flutter 3.27](../0219-color-deprecations-flutter-3.27/index.md) |
 
 
 <!-- TWITTER|https://x.com/biz84/status/1868692579648487611 -->
