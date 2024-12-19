@@ -2,9 +2,7 @@
 
 Did you know?
 
-You can use the `Banner` widget to place a small diagonal banner over a child widget.
-
-Note that `Banner` only offers limited customization options. If you need more custom styling, consider building your own using a custom painter.
+You can use the [Banner](https://api.flutter.dev/flutter/widgets/Banner-class.html) widget to place a small diagonal banner over a child widget.
 
 ![](215.png)
 
@@ -25,13 +23,14 @@ Banner(
 // Location, color, and text style are configurable, but the banner size is fixed, and this can cause the text to wrap.
 -->
 
+Note that `Banner` only offers limited customization options. If you need more custom styling, you have two options:
+
+- Build your own using a custom painter.
+- Use the [super\_banners](https://pub.dev/packages/super_banners) package.
+
 ---
 
-Note: `Banner` is very closely related to `CheckedModeBanner`, which shows inside your MaterialApp in debug mode.
-
-For more info, check the official docs:
-
-- [Banner class](https://api.flutter.dev/flutter/widgets/Banner-class.html)
+`Banner` is very closely related to [CheckedModeBanner](https://api.flutter.dev/flutter/widgets/Banner-class.html), which shows inside your `MaterialApp` in debug mode. For more info, check the official docs: [Banner class](https://api.flutter.dev/flutter/widgets/Banner-class.html).
 
 ---
 
