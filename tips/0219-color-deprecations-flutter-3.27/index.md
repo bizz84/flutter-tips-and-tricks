@@ -39,7 +39,7 @@ Learn more about this breaking change here:
 
 | Previous | Next |
 | -------- | ---- |
-| [Text Style with Tabular Figures](../0218-text-style-tabular-figures/index.md) | |
+| [Text Style with Tabular Figures](../0218-text-style-tabular-figures/index.md) | [The ListWheelScrollView Widget](../0220-list-wheel-scroll-view/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1869357562979893444 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-to-support-the-latest-wide-activity-7275123561881645057-LsKH -->
