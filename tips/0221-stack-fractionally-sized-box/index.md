@@ -4,7 +4,7 @@ Did you know?
 
 Flutter offers many ways to create custom layouts that can’t be expressed with `Row` and `Column`. 👍
 
-For example, here's how to overlay multiple widgets inside a `Stack` and constrain their size and position with `Positioned` and `FractionallySizedBox`. 👇
+For example, here's how to overlay multiple widgets inside a [Stack](https://api.flutter.dev/flutter/widgets/Stack-class.html) and constrain their size and position with [Positioned](https://api.flutter.dev/flutter/widgets/Positioned-class.html) and [FractionallySizedBox](https://api.flutter.dev/flutter/widgets/FractionallySizedBox-class.html). 👇
 
 ![](221.png)
 
