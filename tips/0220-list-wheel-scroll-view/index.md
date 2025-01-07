@@ -49,7 +49,7 @@ For all the details, check the official docs:
 
 | Previous | Next |
 | -------- | ---- |
-| [Color API Deprecations in Flutter 3.27](../0219-color-deprecations-flutter-3.27/index.md) | |
+| [Color API Deprecations in Flutter 3.27](../0219-color-deprecations-flutter-3.27/index.md) | [Using Stack and FractionallySizedBox](../0221-stack-fractionally-sized-box/index.md) |
 
 
 <!-- TWITTER|https://x.com/biz84/status/1870061289114087814 -->
