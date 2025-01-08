@@ -43,7 +43,7 @@ return AspectRatio(
 
 | Previous | Next |
 | -------- | ---- |
-| [The ListWheelScrollView Widget](../0220-list-wheel-scroll-view/index.md) | |
+| [The ListWheelScrollView Widget](../0220-list-wheel-scroll-view/index.md) | [Move Declaration to File (VSCode assist)](../0222-move-to-file-vscode-assist/index.md) |
 
 
 <!-- TWITTER|https://x.com/biz84/status/1876564889537311226 -->
