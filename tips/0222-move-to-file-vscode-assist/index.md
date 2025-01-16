@@ -42,7 +42,7 @@ class VectorIcon extends StatelessWidget {
 
 | Previous | Next |
 | -------- | ---- |
-| [Using Stack and FractionallySizedBox](../0221-stack-fractionally-sized-box/index.md) | |
+| [Using Stack and FractionallySizedBox](../0221-stack-fractionally-sized-box/index.md) | [SSH Access on Codemagic Builds](../0223-ssh-access-codemagic/index.md) |
 
 
 <!-- TWITTER|https://x.com/biz84/status/1876983674735849540 -->
