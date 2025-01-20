@@ -5,8 +5,8 @@ Did you know?
 If you enable code obfuscation in your Flutter release builds, the stack traces will be unreadable in the Sentry crash reports.
 
 To fix this:
-- Generate the source maps with --split-debug-info
-- Use sentry_dart_plugin package to upload them
+- Generate the source maps with `--split-debug-info`
+- Use [sentry_dart_plugin](https://pub.dev/packages/sentry_dart_plugin) package to upload them
 - Automate the process with CI/CD (recommended)
 
 ![](224.png)
@@ -43,8 +43,8 @@ dart run sentry_dart_plugin
 
 To learn more about code obfuscation and how to upload the source maps to Sentry, check these links:
 
-- https://docs.flutter.dev/deployment/obfuscate
-- https://pub.dev/packages/sentry_dart_plugin
+- [Obfuscate Dart code](https://docs.flutter.dev/deployment/obfuscate)
+- [sentry_dart_plugin package](https://pub.dev/packages/sentry_dart_plugin)
 
 ---
 
