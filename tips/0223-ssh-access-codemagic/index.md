@@ -32,7 +32,7 @@ If you want to check it out, here's the intro:
 
 | Previous | Next |
 | -------- | ---- |
-| [Move Declaration to File (VSCode assist)](../0222-move-to-file-vscode-assist/index.md) | |
+| [Move Declaration to File (VSCode assist)](../0222-move-to-file-vscode-assist/index.md) | [Uploading the Source Maps to Sentry](../0224-upload-source-maps-sentry/index.md) |
 
 
 <!-- TWITTER|https://x.com/biz84/status/1879922615026151473 -->
