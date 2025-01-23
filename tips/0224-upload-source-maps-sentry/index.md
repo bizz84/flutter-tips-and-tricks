@@ -56,7 +56,7 @@ For a more complete guide showing how everything fits together (error monitoring
 
 | Previous | Next |
 | -------- | ---- |
-| [SSH Access on Codemagic Builds](../0223-ssh-access-codemagic/index.md) | |
+| [SSH Access on Codemagic Builds](../0223-ssh-access-codemagic/index.md) | [The debugFillProperties Method](../0225-debug-fill-properties/index.md) |
 
 
 <!-- TWITTER|https://x.com/biz84/status/1881373630313218480 -->
