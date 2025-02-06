@@ -39,7 +39,7 @@ To learn more about all the supported property types and variants, read the offi
 
 | Previous | Next |
 | -------- | ---- |
-| [Uploading the Source Maps to Sentry](../0224-upload-source-maps-sentry/index.md) | |
+| [Uploading the Source Maps to Sentry](../0224-upload-source-maps-sentry/index.md) | [GitHub Self-Hosted Runners](../0226-github-self-hosted-runners/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1882486196133404933 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-if-you-add-a-debugfillproperties-activity-7288252423486234624-KdP-  -->

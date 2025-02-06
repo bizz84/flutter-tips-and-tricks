@@ -6,7 +6,7 @@ If you enable code obfuscation in your Flutter release builds, the stack traces 
 
 To fix this:
 - Generate the source maps with `--split-debug-info`
-- Use [sentry_dart_plugin](https://pub.dev/packages/sentry_dart_plugin) package to upload them
+- Use the [sentry_dart_plugin](https://pub.dev/packages/sentry_dart_plugin) package to upload them
 - Automate the process with CI/CD (recommended)
 
 ![](224.png)
