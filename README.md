@@ -243,7 +243,7 @@ This repo now has a companion app! [Download it here](https://fluttertips.dev/) 
 | 4 | [Flutter Lints package](tips/0004-flutter-lints-package/index.md)                                                                                                                  | [link](https://twitter.com/biz84/status/1436011664747503616) | | | |
 | 3 | [Accept payments with the Stripe SDK](tips/0003-accept-payments-with-the-stripe-sdk/index.md)                                                                                      | [link](https://twitter.com/biz84/status/1435932664821919751) | | | |
 | 2 | [Flutter create --sample](tips/0002-flutter-create-sample/index.md)                                                                                                                | [link](https://twitter.com/biz84/status/1433812404463448064) | | | |
-| 1 | [Flutter reusable Split View on mobile, desktop and web](tips/0001-flutter-reusable-split-view-on-mobile-desktop-and-web/index.md)                                                 | [link](https://twitter.com/biz84/status/1417510791146770432) | | | [link](https://codewithandrea.com/articles/flutter-responsive-layouts-split-view-drawer-navigation/)  |
+| 1 | [Responsive Split View in Flutter](tips/0001-flutter-reusable-split-view-on-mobile-desktop-and-web/index.md)                                                 | [link](https://x.com/biz84/status/1888985406047158782) | [link](https://www.linkedin.com/posts/andreabizzotto_did-you-know-in-flutter-you-can-easily-activity-7294751218587897859-j67T) | [link](https://bsky.app/profile/codewithandrea.com/post/3lhtkbyqr2c2f) | [link](https://codewithandrea.com/articles/flutter-responsive-layouts-split-view-drawer-navigation/) |
 
 ## Spread the word!
 
