@@ -44,7 +44,7 @@ To learn more, check the module intro:
 
 | Previous | Next |
 | -------- | ---- |
-| [The debugFillProperties Method](../0225-debug-fill-properties/index.md) | |
+| [The debugFillProperties Method](../0225-debug-fill-properties/index.md) | [Hotkeys with CallbackShortcuts](../0227-hotkeys-callback-shortcuts/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1887441742028214765 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-if-youre-using-github-actions-activity-7293207844273684480-yjhQ  -->
