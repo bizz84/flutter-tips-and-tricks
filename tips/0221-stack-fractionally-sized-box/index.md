@@ -41,6 +41,14 @@ return AspectRatio(
 
 ---
 
+### Bonus Challenge
+
+Try to implement a chess board layout using `Stack` and `FractionallySizedBox` by completing this challenge:
+
+- [Challenge: Chess Board](https://pro.codewithandrea.com/flutter-ui-challenges/006-chess-board/01-intro)
+
+---
+
 | Previous | Next |
 | -------- | ---- |
 | [The ListWheelScrollView Widget](../0220-list-wheel-scroll-view/index.md) | [Move Declaration to File (VSCode assist)](../0222-move-to-file-vscode-assist/index.md) |
