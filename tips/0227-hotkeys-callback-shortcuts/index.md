@@ -81,7 +81,7 @@ This supports three different keyboard shortcuts:
 
 | Previous | Next |
 | -------- | ---- |
-| [GitHub Self-Hosted Runners](../0226-github-self-hosted-runners/index.md) | |
+| [GitHub Self-Hosted Runners](../0226-github-self-hosted-runners/index.md) | [Wildcard Variables in Dart 3.7](../0228-wildcard-variables-dart-3.7/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1889311863759913078 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-the-callbackshortcuts-widget-activity-7295078648250810368-p2J_  -->
