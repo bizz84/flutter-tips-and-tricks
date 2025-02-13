@@ -43,7 +43,7 @@ integers.fold(0, (a, b) => a + b); // Use like this instead
 
 | Previous | Next |
 | -------- | ---- |
-| [Hotkeys with CallbackShortcuts](../0227-hotkeys-callback-shortcuts/index.md) | |
+| [Hotkeys with CallbackShortcuts](../0227-hotkeys-callback-shortcuts/index.md) | [New Formatting Style in Dart 3.7](../0229-new-formatting-style-dart-3.7/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1889960813726998637 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-since-dart-37-the-character-activity-7295726826046320640-5UmP  -->
