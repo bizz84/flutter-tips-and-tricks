@@ -49,7 +49,7 @@ So I created this guide to help you handle it smoothly in your projects. 👇
 
 | Previous | Next |
 | -------- | ---- |
-| [Wildcard Variables in Dart 3.7](../0228-wildcard-variables-dart-3.7/index.md) | |
+| [Wildcard Variables in Dart 3.7](../0228-wildcard-variables-dart-3.7/index.md) | [Side Effects with ValueNotifier](../0230-side-effects-value-notifier/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1890039998814261546 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-dart-37-introduces-a-new-activity-7295806189295075329-BG1O  -->
