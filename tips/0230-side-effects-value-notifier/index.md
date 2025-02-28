@@ -50,7 +50,7 @@ To learn more and avoid common mistakes, check this article:
 
 | Previous | Next |
 | -------- | ---- |
-| [New Formatting Style in Dart 3.7](../0229-new-formatting-style-dart-3.7/index.md) | |
+| [New Formatting Style in Dart 3.7](../0229-new-formatting-style-dart-3.7/index.md) | [Downloads Count by Version on Pub.dev](../0231-download-counts-by-version/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1895038901078945931 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-by-registering-a-valuenotifier-activity-7300804765456781312-LQ_k -->
