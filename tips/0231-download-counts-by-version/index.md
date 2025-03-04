@@ -14,7 +14,7 @@ To view it, click on the scores tab and scroll to the bottom (took me a while to
 
 | Previous | Next |
 | -------- | ---- |
-| [Side Effects with ValueNotifier](../0230-side-effects-value-notifier/index.md) |  |
+| [Side Effects with ValueNotifier](../0230-side-effects-value-notifier/index.md) | [The flutter run --route argument](../0232-flutter-run-route/index.md) |
 
 <!--
 
