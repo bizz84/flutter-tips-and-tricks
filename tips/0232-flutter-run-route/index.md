@@ -42,7 +42,7 @@ If desired, you can also set it in your VSCode launch configuration:
 
 | Previous | Next |
 | -------- | ---- |
-| [Downloads Count by Version on Pub.dev](../0231-download-counts-by-version/index.md) | |
+| [Downloads Count by Version on Pub.dev](../0231-download-counts-by-version/index.md) | [Gradle Kotlin DSL (Flutter 3.29)](../0233-gradle-kotlin-dsl/index.md) |
 
 
 <!-- TWITTER|https://x.com/biz84/status/1896857999890604465 -->
