@@ -42,7 +42,7 @@ When creating new Flutter apps:
 
 | Previous | Next |
 | -------- | ---- |
-| [The flutter run --route argument](../0232-flutter-run-route/index.md) | |
+| [The flutter run --route argument](../0232-flutter-run-route/index.md) | [iOS Status Bar tip for Better Screenshots](../0234-ios-status-bar-for-screenshots/index.md) |
 
 
 <!-- TWITTER|https://x.com/biz84/status/1899104439077601668 -->
