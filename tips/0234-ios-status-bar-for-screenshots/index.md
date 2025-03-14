@@ -31,7 +31,7 @@ Happy coding!
 
 | Previous | Next |
 | -------- | ---- |
-| [Gradle Kotlin DSL (Flutter 3.29)](../0233-gradle-kotlin-dsl/index.md) | |
+| [Gradle Kotlin DSL (Flutter 3.29)](../0233-gradle-kotlin-dsl/index.md) | [Android Demo Mode for Better Screenshots](../0235-android-demo-mode-for-screenshots/index.md) |
 
 
 <!-- TWITTER|https://x.com/biz84/status/1900226263131799776 -->
