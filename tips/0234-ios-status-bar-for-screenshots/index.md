@@ -1,4 +1,4 @@
-# iOS Status Bar tip for Better Screenshots
+# iOS Status Bar Tip for Better Screenshots
 
 Did you know?
 
@@ -6,11 +6,6 @@ You can use this command to clean up the iOS status bar before taking screenshot
 
 ```
 xcrun simctl status_bar booted override --time 09:41 --batteryState charged --batteryLevel 100 --cellularBars 4
-```
-Once done, reset like this:
-
-```
-xcrun simctl status_bar booted clear
 ```
 
 ![](234.png)
@@ -20,6 +15,17 @@ Run this from the terminal, and your iOS simulator will get a “clean” status
 
 xcrun simctl status_bar booted override --time 09:41 --batteryState charged --batteryLevel 100 --cellularBars 4
 -->
+
+Then, you can take screenshots manually (`CMD+S` on macOS), or automate the process with [Maestro](https://docs.maestro.dev/).
+
+Once you're done, reset the status bar like this:
+
+```text
+xcrun simctl status_bar booted clear
+```
+
+Happy coding!
+
 
 ---
 
