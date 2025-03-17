@@ -4,7 +4,7 @@ Did you know?
 
 Instead of taking screenshots manually for each device & language, you can automate it with Maestro!
 
-Here's a video preview. ▶️
+Here's a video preview:
 
 - [Example screenshot generation flow with Maestro](https://youtu.be/oUWf9tYc4kQ)
 
@@ -52,14 +52,16 @@ To get started, check the official docs:
 
 - [What is Maestro?](https://docs.maestro.dev/)
 
+---
+
 ### Flutter in Production course
 
-My [Flutter in Production course](https://codewithandrea.com/courses/flutter-production/) includes a whole module about screenshot automation, covering:
+My latest course includes a whole module about screenshot automation, covering:
 
-✅ Tips for better screenshots
-✅ Capturing screenshots with Maestro
-✅ Editing them with Figma
-✅ Uploading to the stores with Fastlane (locally & on CI)
+- ✅ Tips for better screenshots
+- ✅ Capturing screenshots with Maestro
+- ✅ Editing them with Figma
+- ✅ Uploading to the stores with Fastlane (locally & on CI)
 
 Learn more here:
 
