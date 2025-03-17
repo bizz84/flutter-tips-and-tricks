@@ -65,7 +65,7 @@ My latest course includes a whole module about screenshot automation, covering:
 
 Learn more here:
 
-- [Flutter in Production](https://codewithandrea.com/courses/flutter-production/)
+- [Flutter in Production](https://codewithandrea.com/courses/flutter-in-production/)
 
 ---
 
