@@ -71,7 +71,7 @@ Learn more here:
 
 | Previous | Next |
 | -------- | ---- |
-| [Android Demo Mode for Better Screenshots](../0235-android-demo-mode-for-screenshots/index.md) | | 
+| [Android Demo Mode for Better Screenshots](../0235-android-demo-mode-for-screenshots/index.md) | [Using Semantics Identifiers for UI Testing](../0237-semantics-identifiers/index.md) | 
 
 <!-- TWITTER|https://x.com/biz84/status/1901668347097313597 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-instead-of-taking-screenshots-activity-7307435080732278784-17-j -->
