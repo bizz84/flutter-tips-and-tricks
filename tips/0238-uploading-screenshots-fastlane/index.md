@@ -57,6 +57,12 @@ You can skip this by passing `force: true` to the upload_to_app_store lane (usef
 
 ---
 
+Here's a video preview showing how to export screenshots from Figma and upload them to App Store Connect with Fastlane, in less than one minute:
+
+- [Uploading App Store Screenshots with Fastlane (preview)](https://youtu.be/NpWp33_uakg)
+
+---
+
 My latest course includes a whole module about screenshot automation, covering:
 
 - ✅ Tips for better screenshots
