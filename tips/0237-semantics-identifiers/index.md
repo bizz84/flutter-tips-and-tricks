@@ -52,7 +52,7 @@ To learn more about UI testing, screenshot generation, and more, check the lates
 
 | Previous | Next |
 | -------- | ---- |
-| [Generate Screenshots with Maestro](../0236-take-screenshots-maestro/index.md) | |
+| [Generate Screenshots with Maestro](../0236-take-screenshots-maestro/index.md) | [Uploading Screenshots with Fastlane](../0238-uploading-screenshots-fastlane/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1901966299246268467 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-ui-testing-frameworks-like-activity-7307732520383533060-WCi3 -->
