@@ -45,6 +45,8 @@ Android setup is very similar:
 - Use the upload_to_play_store action in the Fastfile
 -->
 
+---
+
 Before uploading to the App Store, fastlane will show a preview so you can check if everything looks good.
 
 You can skip this by passing `force: true` to the upload_to_app_store lane (useful for non-interactive CI workflows).
@@ -55,7 +57,6 @@ You can skip this by passing `force: true` to the upload_to_app_store lane (usef
 
 ---
 
-
 My latest course includes a whole module about screenshot automation, covering:
 
 - ✅ Tips for better screenshots
@@ -64,8 +65,8 @@ My latest course includes a whole module about screenshot automation, covering:
 - ✅ Uploading them with Fastlane (locally & on CI)
 
 Learn more here:
-https://codewithandrea.com/courses/flutter-in-production/
 
+- [Flutter in Production](https://codewithandrea.com/courses/flutter-in-production/)
 
 ---
 
