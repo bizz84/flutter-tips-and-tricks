@@ -82,7 +82,7 @@ Learn more here:
 
 | Previous | Next |
 | -------- | ---- |
-| [Using Semantics Identifiers for UI Testing](../0237-semantics-identifiers/index.md) |  |
+| [Using Semantics Identifiers for UI Testing](../0237-semantics-identifiers/index.md) | [Hot Reload on Flutter web (beta)](../0239-hot-reload-flutter-web/index.md) |
 
 
 <!-- TWITTER|https://x.com/biz84/status/1902295020217974868 -->

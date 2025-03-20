@@ -50,6 +50,8 @@ To learn more about UI testing, screenshot generation, and more, check the lates
 
 - [Introduction to Automated Screenshot Generation](https://pro.codewithandrea.com/flutter-in-production/14-screenshots/01-intro)
 
+---
+
 | Previous | Next |
 | -------- | ---- |
 | [Generate Screenshots with Maestro](../0236-take-screenshots-maestro/index.md) | [Uploading Screenshots with Fastlane](../0238-uploading-screenshots-fastlane/index.md) |
