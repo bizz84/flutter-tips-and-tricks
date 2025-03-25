@@ -49,11 +49,11 @@ Android setup is very similar:
 
 Before uploading to the App Store, fastlane will show a preview so you can check if everything looks good.
 
-You can skip this by passing `force: true` to the upload_to_app_store lane (useful for non-interactive CI workflows).
-
 ![](238.2.png)
 
 <!-- Fastlane App Store preview showing the metadata and screenshots -->
+
+You can skip this by passing `force: true` to the upload_to_app_store lane (useful for non-interactive CI workflows).
 
 ---
 
