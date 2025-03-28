@@ -2,10 +2,10 @@
 
 Did you know?
 
-In addition to String.fromEnvironment, Dart also supports:
+In addition to `String.fromEnvironment`, Dart also supports:
 
-✅ int.fromEnvironment
-✅ bool.fromEnvironment
+- ✅ `int.fromEnvironment`
+- ✅ `bool.fromEnvironment`
 
 Very handy when reading environment variables from your `.env` files:
 
