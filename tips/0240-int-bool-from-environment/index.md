@@ -11,7 +11,6 @@ Very handy when reading environment variables from your `.env` files:
 
 ![](240.png)
 
-
 <!--
 
 When creating .env files, not all variables are strings. Example:
@@ -37,6 +36,8 @@ class Env {
 💡 If needed, you can provide a defaultValue argument
 
 -->
+
+---
 
 To learn more about environment variables and best practices for storing API keys, read:
 
