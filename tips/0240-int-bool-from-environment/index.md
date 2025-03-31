@@ -39,6 +39,17 @@ class Env {
 
 ---
 
+```dart
+class Env {
+  static int get appStoreId => const
+      int.fromEnvironment('APP_STORE_ID'); // defaults to 0
+  static bool get collectAnalytics => const
+      bool.fromEnvironment('COLLECT_ANALYTICS'); // defaults to false
+  static String get sentryDsn => const
+      String.fromEnvironment('SENTRY_DSN'); // defaults to ""
+}
+```
+
 To learn more about environment variables and best practices for storing API keys, read:
 
 - [How to Store API Keys in Flutter: --dart-define vs .env files](https://codewithandrea.com/articles/flutter-api-keys-dart-define-env-files/)
