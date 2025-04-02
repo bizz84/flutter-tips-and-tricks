@@ -46,7 +46,7 @@ Check this post for all the details:
 
 | Previous | Next |
 | -------- | ---- |
-| [Uploading Screenshots with Fastlane](../0238-uploading-screenshots-fastlane/index.md) | |
+| [Uploading Screenshots with Fastlane](../0238-uploading-screenshots-fastlane/index.md) | [int.fromEnvironment and bool.fromEnvironment](../0240-int-bool-from-environment/index.md) |
 
 
 <!-- TWITTER|https://x.com/biz84/status/1902650525214036347 -->

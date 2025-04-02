@@ -58,7 +58,7 @@ To learn more about environment variables and best practices for storing API key
 
 | Previous | Next |
 | -------- | ---- |
-| [Hot Reload on Flutter web (beta)](../0239-hot-reload-flutter-web/index.md) | |
+| [Hot Reload on Flutter web (beta)](../0239-hot-reload-flutter-web/index.md) | [Release Toggles with Dart Defines](../0241-release-toggles-dart-define/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1905572370871390585 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-in-addition-to-stringfromenvironment-activity-7311338221068509184-bu3J -->
