@@ -56,9 +56,7 @@ Static release toggles are easy to use, but some use cases require more flexibil
 
 ---
 
-Complex use cases require dynamic toggles and some dedicated infrastructure to manage them.
-
-Next week, I'll publish an entire course module about feature toggles and A/B tests.
+Complex use cases require dynamic toggles and some dedicated infrastructure to manage them, and my latest course covers this topic in much more detail.
 
 Learn more here. 👇
 
