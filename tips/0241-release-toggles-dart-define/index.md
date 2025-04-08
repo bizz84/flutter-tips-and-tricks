@@ -66,7 +66,7 @@ Learn more here. 👇
 
 | Previous | Next |
 | -------- | ---- |
-| [int.fromEnvironment and bool.fromEnvironment](../0240-int-bool-from-environment/index.md) | |
+| [int.fromEnvironment and bool.fromEnvironment](../0240-int-bool-from-environment/index.md) | [A/B Testing in Flutter](../0242-ab-testing-flutter/index.md) |
 
 
 <!-- TWITTER|https://x.com/biz84/status/1907430520322928748 -->
