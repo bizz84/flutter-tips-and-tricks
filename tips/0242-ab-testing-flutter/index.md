@@ -27,9 +27,9 @@ Solution: run an A/B test 🧪
 
 ---
 
-Tools like Firebase Remote Config and PostHog make it easy to run A/B tests in your apps.
+Tools like [Firebase Remote Config](https://firebase.google.com/products/remote-config) and [PostHog](https://posthog.com/experiments) make it easy to run A/B tests in your apps.
 
-For example, here's a report from an A/B test I ran on my Flutter Tips app:
+For example, here's a report from an A/B test I ran on my [Flutter Tips app](https://fluttertips.dev/):
 
 ![](242.2.png)
 
@@ -43,7 +43,7 @@ Screenshot showing the result of an A/B Testing experiment with Firebase Remote 
 
 But how do you implement this in practice?
 
-My latest course includes an entire module about Feature Toggles and A/B tests.
+My latest course includes an entire module about Feature Toggles and A/B Tests.
 
 Learn more here:
 
