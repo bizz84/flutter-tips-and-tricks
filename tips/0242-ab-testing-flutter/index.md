@@ -53,7 +53,7 @@ Learn more here:
 
 | Previous | Next |
 | -------- | ---- |
-| [Release Toggles with Dart Defines](../0241-release-toggles-dart-define/index.md) | |
+| [Release Toggles with Dart Defines](../0241-release-toggles-dart-define/index.md) | [Showing URLs on Flutter web with TextSpan](../0243-show-flutter-web-url-text-span/index.md) |
 
 
 <!-- TWITTER|https://x.com/biz84/status/1909568197428117880 -->
