@@ -39,6 +39,39 @@ Text.rich(
 
 ---
 
+As an alternative, you can wrap the whole thing with a [Link](https://pub.dev/documentation/url_launcher/latest/link/Link-class.html) widget (from the [url_launcher](https://pub.dev/packages/url_launcher) package):
+
+![](243.2.png)
+
+<!--
+
+import 'package:url_launcher/link.dart';
+
+Link(
+  uri: uri,
+  builder: (BuildContext context, FollowLink? followLink) => Text.rich(
+    TextSpan(
+      text: uri.toString(),
+      // Follow the URL link on tap
+      recognizer: TapGestureRecognizer()..onTap = followLink,
+      // Customize the cursor style
+      mouseCursor: SystemMouseCursors.click,
+      // Make it look like a web link
+      style: TextStyle(
+        color: Theme.of(context).colorScheme.primary,
+        decoration: TextDecoration.underline,
+        decorationColor: Theme.of(context).colorScheme.primary,
+      ),
+    ),
+    overflow: overflow,
+    maxLines: maxLines,
+  ),
+)
+
+-->
+
+---
+
 Here's a complete `URLTextWidget` that implements the whole thing, in 40 lines of code:
 
 - [URLTextWidget (GitHub Gist)](https://gist.github.com/bizz84/accc69b941a6903cfe4e312f68779ba9)
