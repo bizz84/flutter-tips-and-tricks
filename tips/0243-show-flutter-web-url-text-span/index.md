@@ -80,7 +80,7 @@ Here's a complete `URLTextWidget` that implements the whole thing, in 40 lines o
 
 | Previous | Next |
 | -------- | ---- |
-| [A/B Testing in Flutter](../0242-ab-testing-flutter/index.md) |
+| [A/B Testing in Flutter](../0242-ab-testing-flutter/index.md) | [TextFormField Setup for Numeric Inputs](../0244-text-form-field-numeric/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1909997182960218589 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-you-can-show-native-looking-activity-7315763069161267201-F_73 -->
