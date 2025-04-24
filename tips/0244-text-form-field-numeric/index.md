@@ -42,7 +42,7 @@ TextInputType.numberWithOptions(signed: false, decimal: false)
 
 | Previous | Next |
 | -------- | ---- |
-| [Showing URLs on Flutter web with TextSpan](../0243-show-flutter-web-url-text-span/index.md) | |
+| [Showing URLs on Flutter web with TextSpan](../0243-show-flutter-web-url-text-span/index.md) | [How to use debugRepaintRainbowEnabled](../0245-debug-repaint-rainbow-enabled/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1912151340190425174 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-when-working-with-forms-in-activity-7317917226840330241-ROgi -->
