@@ -34,7 +34,7 @@ Learn more here:
 
 | Previous | Next |
 | -------- | ---- |
-| [TextFormField Setup for Numeric Inputs](../0244-text-form-field-numeric/index.md) | |
+| [TextFormField Setup for Numeric Inputs](../0244-text-form-field-numeric/index.md) | [How to Disable Impeller on Android](../0246-disable-impeller-android/index.md) |
 
 
 <!-- TWITTER|https://x.com/biz84/status/1915327716053729791 -->
