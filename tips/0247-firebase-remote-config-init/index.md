@@ -1,14 +1,14 @@
-# Firebase Remote Config Loading Strategies
+# How to Initialize Firebase Remote Config
 
 Firebase Remote Config is great, but it's a bit tricky to configure it correctly.
 
 Here's my battle-tested loading strategy:
 
-- 1️⃣ setup fetch interval (flavor-dependent)
-- 2️⃣ set default values
-- 3️⃣ activate previous values
-- 4️⃣ fetch new values (unawaited)
-- 5️⃣ add a realtime listener (which is not subject to the `minimumFetchInterval`)
+1. setup fetch interval (flavor-dependent)
+2. set default values
+3. activate previous values
+4. fetch new values (unawaited)
+5. add a realtime listener (which is not subject to the `minimumFetchInterval`)
 
 ![](247.png)
 

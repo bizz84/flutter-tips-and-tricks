@@ -31,7 +31,7 @@ flutter run --no-enable-impeller
 
 | Previous | Next |
 | -------- | ---- |
-| [How to use debugRepaintRainbowEnabled](../0245-debug-repaint-rainbow-enabled/index.md) | [Firebase Remote Config Loading Strategies](../0247-firebase-remote-config-init/index.md) |
+| [How to use debugRepaintRainbowEnabled](../0245-debug-repaint-rainbow-enabled/index.md) | [How to Initialize Firebase Remote Config](../0247-firebase-remote-config-init/index.md) |
 
 
 <!-- TWITTER|https://x.com/biz84/status/1917195051282882814 -->
