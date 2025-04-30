@@ -51,6 +51,8 @@ For more info about common loading strategies, read:
 
 - [Firebase Remote Config loading strategies](https://firebase.google.com/docs/remote-config/loading)
 
+---
+
 My latest course shows how to use Firebase Remote Config in useful scenarios such as force updates and A/B tests.
 
 Learn more here 👇
