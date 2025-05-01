@@ -63,7 +63,7 @@ Learn more here 👇
 
 | Previous | Next |
 | -------- | ---- |
-| [How to Disable Impeller on Android](../0246-disable-impeller-android/index.md) | |
+| [How to Disable Impeller on Android](../0246-disable-impeller-android/index.md) | [Adaptive Alert Dialog (Material, Cupertino)](../0248-adaptive-alert-dialog/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1917490060662038589 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_firebase-remote-config-is-great-but-its-activity-7323257186095120385-ioPy -->

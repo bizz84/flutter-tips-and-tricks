@@ -20,7 +20,7 @@ To disable Impeller for all builds (debug, profile, release) on Android, add the
         <meta-data
             android:name="io.flutter.embedding.android.EnableImpeller"
             android:value="false"
-        />     
+        />
 
 To disable Impeller only during development, use this flag:
 
