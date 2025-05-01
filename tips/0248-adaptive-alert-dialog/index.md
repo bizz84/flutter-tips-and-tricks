@@ -2,10 +2,10 @@
 
 In many of my projects, I use a simple alert dialog that supports:
 
-✅ Adaptive mode (Material / Cupertino)
-✅ Default and cancel actions
-✅ Destructive UI style
-✅ Dismissible mode
+- Adaptive mode (Material / Cupertino)
+- Default and cancel actions
+- Destructive UI style
+- Dismissible mode
 
 Super useful for Yes/No, Cancel/Delete scenarios. 👍
 
