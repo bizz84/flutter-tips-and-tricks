@@ -52,7 +52,7 @@ Feel free to tweak and reuse it in your projects. 🙂
 
 | Previous | Next |
 | -------- | ---- |
-| [How to Initialize Firebase Remote Config](../0247-firebase-remote-config-init/index.md) | |
+| [How to Initialize Firebase Remote Config](../0247-firebase-remote-config-init/index.md) | [Test your UI with ThemeData.platform](../0249-themedata-platform/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1917863560081821811 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_in-many-of-my-projects-i-use-a-simple-alert-activity-7323629404767608833-7l43 -->
