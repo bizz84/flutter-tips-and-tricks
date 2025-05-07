@@ -38,6 +38,10 @@ Example with source code:
 
 - [Flutter button style example](https://github.com/flutter/flutter/blob/master/examples/api/lib/material/button_style/button_style.0.dart)
 
+More complex example with custom icons and LTR/RTL support:
+
+- [Flutter button style example with icons, LTR/RTL support](https://github.com/flutter/flutter/blob/master/examples/api/lib/material/button_style_button/button_style_button.icon_alignment.0.dart)
+
 ---
 
 | Previous | Next |
