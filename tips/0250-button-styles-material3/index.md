@@ -4,11 +4,11 @@ Did you know?
 
 Material 3 supports 5 types of buttons:
 
-✅ Elevated
-✅ Filled
-✅ Filled tonal
-✅ Outlined
-✅ Text
+- Elevated
+- Filled
+- Filled tonal
+- Outlined
+- Text
 
 Here's how to use them in Flutter 👇
 
