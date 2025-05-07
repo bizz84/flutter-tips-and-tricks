@@ -38,7 +38,7 @@ MaterialApp(
 
 | Previous | Next |
 | -------- | ---- |
-| [Adaptive Alert Dialog (Material, Cupertino)](../0248-adaptive-alert-dialog/index.md) | |
+| [Adaptive Alert Dialog (Material, Cupertino)](../0248-adaptive-alert-dialog/index.md) | [Button Styles in Material 3](../0250-button-styles-material3/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1919713657971171620 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-by-overriding-themedataplatform-activity-7325479508629741568-u8BB -->
