@@ -46,7 +46,7 @@ More complex example with custom icons and LTR/RTL support:
 
 | Previous | Next |
 | -------- | ---- |
-| [Test your UI with ThemeData.platform](../0249-themedata-platform/index.md) | |
+| [Test your UI with ThemeData.platform](../0249-themedata-platform/index.md) | [GoRouter Delegate Listener for Screen Tracking](../0251-go-router-delegate-listener/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1920049708824736120 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-material-3-supports-5-types-activity-7325815699250077696-0tNS -->
