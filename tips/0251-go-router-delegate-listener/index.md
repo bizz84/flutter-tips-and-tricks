@@ -8,7 +8,7 @@ Here's how I do it (using Riverpod):
 
 1. Declare GoRouter inside a Riverpod provider
 2. Create a stateful GoRouter listener to track screen views
-3. Return it inside MaterialApp.builder
+3. Return it inside `MaterialApp.builder`
 
 ![](251.png)
 
