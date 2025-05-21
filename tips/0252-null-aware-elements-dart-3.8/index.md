@@ -81,7 +81,7 @@ More details on the feature specification:
 
 | Previous | Next |
 | -------- | ---- |
-| [GoRouter Delegate Listener for Screen Tracking](../0251-go-router-delegate-listener/index.md) | |
+| [GoRouter Delegate Listener for Screen Tracking](../0251-go-router-delegate-listener/index.md) | [Preserve Trailing Commas in Dart 3.8](../0253-preserve-commas/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1925097550551355480 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-dart-38-introduces-null-aware-activity-7330863488443023361-HJ26 -->
