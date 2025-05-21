@@ -55,7 +55,7 @@ And here's the original GoRouter issue showing that NavigatorObserver doesn't wo
 
 | Previous | Next |
 | -------- | ---- |
-| [Button Styles in Material 3](../0250-button-styles-material3/index.md) | |
+| [Button Styles in Material 3](../0250-button-styles-material3/index.md) | [Null-aware elements in Dart 3.8](../0252-null-aware-elements-dart-3.8/index.md) |
 
 
 <!-- TWITTER|https://x.com/biz84/status/1920475265823596649 -->
