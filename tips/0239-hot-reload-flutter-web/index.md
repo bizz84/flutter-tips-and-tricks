@@ -1,11 +1,11 @@
-# Hot Reload on Flutter web (beta)
+# Hot Reload on Flutter web (3.32)
 
 Did you know?
 
-Hot-reload is coming to Flutter web! ⚡️
+Hot-reload is available on Flutter web! ⚡️
 
 To enable it:
-- Switch to the latest Flutter beta (3.31)
+- Upgrade to Flutter 3.32 stable
 - Run your app with `--web-experimental-hot-reload`
 
 For the best experience in VSCode:
@@ -16,7 +16,7 @@ For the best experience in VSCode:
 
 <!--
 How to enable hot-reload on Flutter web:
-1. Switch to the latest Flutter beta (3.31.0-0.1.pre)
+1. Upgrade to Flutter 3.32 stable
 2. Run with --web-experimental-hot-reload
 
 flutter run -d chrome --web-experimental-hot-reload
