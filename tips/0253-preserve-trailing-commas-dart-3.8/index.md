@@ -47,7 +47,7 @@ For all the details, read this (updated) article:
 
 | Previous | Next |
 | -------- | ---- |
-| [Null-aware elements in Dart 3.8](../0252-null-aware-elements-dart-3.8/index.md) | |
+| [Null-aware elements in Dart 3.8](../0252-null-aware-elements-dart-3.8/index.md) | [Use Multiple Flutter Versions with Puro](../0254-multiple-flutter-versions-puro/index.md) |
 
 
 <!-- TWITTER|https://x.com/biz84/status/1925126563588194639 -->
