@@ -38,7 +38,7 @@ Learn more and install here:
 
 | Previous | Next |
 | -------- | ---- |
-| [Preserve Trailing Commas in Dart 3.8](../0253-preserve-trailing-commas-dart-3.8/index.md) | |
+| [Preserve Trailing Commas in Dart 3.8](../0253-preserve-trailing-commas-dart-3.8/index.md) | [Deprecated APIs in Matrix4](../0255-matrix4-vector3/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1931999304337760702 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-puro-is-a-powerful-tool-that-activity-7337765132606885888-5qB1 -->
