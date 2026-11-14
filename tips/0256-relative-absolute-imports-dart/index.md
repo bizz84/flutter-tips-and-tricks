@@ -34,7 +34,7 @@ Consider this as a temporary solution. Reusable files should be moved into a com
 
 | Previous | Next |
 | -------- | ---- |
-| [Deprecated APIs in Matrix4](../0255-matrix4-vector3/index.md) | |
+| [Deprecated APIs in Matrix4](../0255-matrix4-vector3/index.md) | [Claude Code: ! for Shell Mode](../0257-claude-code-shell-mode/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/1970424616339333506 -->
 <!-- LINKEDIN|https://www.linkedin.com/posts/andreabizzotto_did-you-know-you-can-use-absolute-imports-activity-7376190465567797248-WMcz -->
