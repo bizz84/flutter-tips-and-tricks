@@ -27,7 +27,7 @@ Tests failed? Just say: "fix the failing tests"
 
 | Previous | Next |
 | -------- | ---- |
-| [Relative & Absolute Imports in Dart](../0256-relative-absolute-imports-dart/index.md) | |
+| [Relative & Absolute Imports in Dart](../0256-relative-absolute-imports-dart/index.md) | [Migrate to material_ui in One Command](../0258-migrate-material-ui-dart-fix/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/2121598825928552948 -->
 <!-- LINKEDIN|https://www.linkedin.com/feed/update/urn:li:activity:7527364476648726528/ -->
