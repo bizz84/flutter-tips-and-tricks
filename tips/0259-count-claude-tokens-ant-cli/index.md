@@ -39,3 +39,6 @@ Two notes: each count includes a few tokens of message overhead, so treat it as 
 | Previous | Next |
 | -------- | ---- |
 | [Migrate to material_ui (new in Flutter 3.50)](../0258-migrate-material-ui-dart-fix/index.md) | |
+
+<!-- TWITTER|https://x.com/biz84/status/2122441756184826326 -->
+<!-- LINKEDIN|https://www.linkedin.com/feed/update/urn:li:activity:7528207500874059776/ -->
