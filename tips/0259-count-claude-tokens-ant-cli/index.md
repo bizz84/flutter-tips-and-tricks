@@ -34,7 +34,7 @@ $ ant messages count-tokens --model claude-opus-4-6 \
 
 ---
 
-Two notes: each count includes a few tokens of message overhead, so treat it as close, not exact. And Opus 5.5 is cheaper per token than Opus 4.6, but with more tokens per file the cost comes out about the same. Measure your own files.
+Two notes: each count includes a few tokens of message overhead, so treat it as close, not exact. And Opus 5.5 is cheaper per token than Opus 4.6, but with more tokens per file, it's not always cheaper (about 10% more for this CLAUDE.md). Measure your own files.
 
 | Previous | Next |
 | -------- | ---- |
