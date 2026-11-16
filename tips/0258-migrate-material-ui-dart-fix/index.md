@@ -1,4 +1,4 @@
-# Migrate to material_ui in One Command
+# Migrate to material_ui (new in Flutter 3.50)
 
 Did you know?
 
@@ -27,3 +27,6 @@ $ dart fix --apply --code=migrate_design_widgets
 | Previous | Next |
 | -------- | ---- |
 | [Claude Code: ! for Shell Mode](../0257-claude-code-shell-mode/index.md) | |
+
+<!-- TWITTER|https://x.com/biz84/status/2122256889371390260 -->
+<!-- LINKEDIN|https://www.linkedin.com/feed/update/urn:li:activity:7528022654042136576/ -->
