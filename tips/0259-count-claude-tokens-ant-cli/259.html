@@ -1,0 +1,17 @@
+<div class="title" style="font-size: 66px; padding: 36px">Count Claude tokens with <em>ant CLI</em></div>
+<pre style="font-size: 31px; line-height: 1.45; padding: 30px 36px"><span class="c"># Install the Anthropic CLI and log in</span>
+<span class="p">$</span> <span class="f">brew</span> <span class="s">install</span> <span class="s">anthropics/tap/ant</span>
+<span class="p">$</span> <span class="f">ant</span> <span class="s">auth login</span>
+
+<span class="c"># Newer tokenizer (Opus 4.7 and later)</span>
+<span class="p">$</span> <span class="f">ant</span> <span class="s">messages count-tokens</span> <span class="v">--model</span> <span class="hl"><span class="s">claude-opus-5-5</span></span> \
+    <span class="v">--transform</span> <span class="s">input_tokens</span> <span class="v">-r</span> \
+    <span class="v">--message</span> <span class="s">'{role: user, content: "</span><span class="hl"><span class="s">@./CLAUDE.md</span></span><span class="s">"}'</span>
+<span class="hl"><span class="n">1078</span></span>
+
+<span class="c"># Older tokenizer</span>
+<span class="p">$</span> <span class="f">ant</span> <span class="s">messages count-tokens</span> <span class="v">--model</span> <span class="hl"><span class="s">claude-opus-4-6</span></span> \
+    <span class="v">--transform</span> <span class="s">input_tokens</span> <span class="v">-r</span> \
+    <span class="v">--message</span> <span class="s">'{role: user, content: "@./CLAUDE.md"}'</span>
+<span class="hl"><span class="n">783</span></span></pre>
+<div class="callout">💡 Same <code>CLAUDE.md</code>: <em>1078</em> vs <em>783</em> tokens (<em>+38%</em>) on the newer models</div>

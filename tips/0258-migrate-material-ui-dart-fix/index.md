@@ -26,7 +26,7 @@ $ dart fix --apply --code=migrate_design_widgets
 
 | Previous | Next |
 | -------- | ---- |
-| [Claude Code: ! for Shell Mode](../0257-claude-code-shell-mode/index.md) | |
+| [Claude Code: ! for Shell Mode](../0257-claude-code-shell-mode/index.md) | [Count Claude Tokens with ant CLI](../0259-count-claude-tokens-ant-cli/index.md) |
 
 <!-- TWITTER|https://x.com/biz84/status/2122256889371390260 -->
 <!-- LINKEDIN|https://www.linkedin.com/feed/update/urn:li:activity:7528022654042136576/ -->
